@@ -5,772 +5,632 @@ date: 2026-05-31
 lang: en
 ---
 
-> From 111 items, 35 important content pieces were selected
+> From 110 items, 28 important content pieces were selected
 
 ---
 
-1. [Microsoft to Degrade Office 2019/2021 for Mac to View-Only by 2026](#item-1) ⭐️ 9.0/10
-2. [vllm v0.22.0: DeepSeek V4 Support, Model Runner V2 Advances, Rust Frontend](#item-2) ⭐️ 8.0/10
-3. [Accenture Acquires Ookla, Speedtest Owner, for $1.2B](#item-3) ⭐️ 8.0/10
-4. [Zig ELF linker improvements accelerate development iteration](#item-4) ⭐️ 8.0/10
-5. [OpenRouter Raises $113M Series B for LLM API Proxy](#item-5) ⭐️ 8.0/10
-6. [OpenBSD’s Security-Hardened rsync Implementation Gains Traction](#item-6) ⭐️ 8.0/10
-7. [Datasette 1.0a31 Enables Write Queries and Stored Queries](#item-7) ⭐️ 8.0/10
-8. [Open-Source Model Converts Vocal Imitations into Sound Effects](#item-8) ⭐️ 8.0/10
-9. [Probe-Targeted Fine-Tuning Makes LLMs Accurately Verbalize Confidence](#item-9) ⭐️ 8.0/10
-10. [Baseten Releases 8-Step Distilled FLUX.2-dev with DMD2](#item-10) ⭐️ 8.0/10
-11. [NAVA: 6.3B Model for Joint Audio-Video Generation with Align-then-Fuse](#item-11) ⭐️ 8.0/10
-12. [LLM-Powered Tool Generates Modular 3D Objects via Blender Code](#item-12) ⭐️ 8.0/10
-13. [Real-Time Game Generation from Images on Consumer GPUs](#item-13) ⭐️ 8.0/10
-14. [Huawei Proposes Tao's Law for Time Scaling in Semiconductors](#item-14) ⭐️ 8.0/10
-15. [Domain Expertise, Not Coding, Is the Real Moat](#item-15) ⭐️ 7.0/10
-16. [New Curated Collection of Pandoc Templates Launched](#item-16) ⭐️ 7.0/10
-17. [Pope Leo's First Encyclical Criticizes Technological Messianism](#item-17) ⭐️ 7.0/10
-18. [Running Python ASGI Apps in Browser with Pyodide and Service Workers](#item-18) ⭐️ 7.0/10
-19. [Open-Source Claw Agent Pipeline: 30B Model Beats 235B](#item-19) ⭐️ 7.0/10
-20. [AI Helps Boston Children's Diagnose 40+ Rare Diseases](#item-20) ⭐️ 7.0/10
-21. [OpenAI Launches Rosalind Biodefense for Biosecurity](#item-21) ⭐️ 7.0/10
-22. [NVIDIA Releases NVFP4-Quantized Qwen3.6-35B-A3B with 3x Compression](#item-22) ⭐️ 7.0/10
-23. [125 tok/s Qwen3.6 q4xl on Dual RTX 4060 Ti GPUs](#item-23) ⭐️ 7.0/10
-24. [Best Buy Clearance: RTX 5060 Ti 16GB $301, 5070 Ti 16GB $700](#item-24) ⭐️ 7.0/10
-25. [Rapid-MLX Tops Local LLM Benchmark on M1 Max 64GB](#item-25) ⭐️ 7.0/10
-26. [NVIDIA PiD Powers Next-Gen Tiled Upscaler to 64MP Outputs](#item-26) ⭐️ 7.0/10
-27. [Pixal3D 3D Generation Model Ported to Apple Silicon](#item-27) ⭐️ 7.0/10
-28. [Proposal: Train Flow Models in Oklab Color Space](#item-28) ⭐️ 7.0/10
-29. [System Prompt for LLM to Handle Danbooru Tags and Natural Language in Anima Image Generation](#item-29) ⭐️ 7.0/10
-30. [Pope Leo XIV Calls on EU to Disarm Lethal AI Weapons](#item-30) ⭐️ 7.0/10
-31. [Llama Surgery: Sparse Attention via Differentiable Ultrametric Topology](#item-31) ⭐️ 7.0/10
-32. [From Summaries to Actions: Desktop Agent Breaks AI Skepticism](#item-32) ⭐️ 7.0/10
-33. [SpaceX Wins $4.16B Golden Dome Satellite Contract](#item-33) ⭐️ 7.0/10
-34. [Codex Gains Cross-Device Remote Control and Enhanced Search](#item-34) ⭐️ 7.0/10
-35. [Malicious Websites Use SSD Timing to Infer User Activity](#item-35) ⭐️ 7.0/10
+1. [vLLM v0.22.0 Brings DeepSeek V4 Maturity and Rust Frontend](#item-1) ⭐️ 8.0/10
+2. [Domain Expertise: The Enduring Moat in Software](#item-2) ⭐️ 8.0/10
+3. [Microsoft Office 2019/2021 for Mac to Become View-Only After 2026](#item-3) ⭐️ 8.0/10
+4. [AV2 Video Codec Final v1.0 Specification Released](#item-4) ⭐️ 8.0/10
+5. [Zig's Build System Rework Boosts Compile Times and Workflow](#item-5) ⭐️ 8.0/10
+6. [OpenRouter Raises $113M Series B to Expand Its AI Platform](#item-6) ⭐️ 8.0/10
+7. [Microcode inside the Intel 8087 floating-point chip: register exchange](#item-7) ⭐️ 8.0/10
+8. [Show HN: 500 years of Joseon court omens as an observability dashboard](#item-8) ⭐️ 8.0/10
+9. [Running Python ASGI apps in the browser via Pyodide + a service worker](#item-9) ⭐️ 8.0/10
+10. [LLM-Powered Tool Generates Modular 3D Objects in Blender](#item-10) ⭐️ 8.0/10
+11. [Malicious Websites Use SSD Timing to Spy on User Activity](#item-11) ⭐️ 8.0/10
+12. [Shantell Sans: A Variable Font with a Formality Axis](#item-12) ⭐️ 7.0/10
+13. [Accenture to Acquire Ookla to Bolster Network Intelligence](#item-13) ⭐️ 7.0/10
+14. [Comanche's 'Voxel' Rendering Was a Height Map, Not True Voxels](#item-14) ⭐️ 7.0/10
+15. [Openrsync: OpenBSD's Secure rsync with Pledge and Unveil](#item-15) ⭐️ 7.0/10
+16. [Pope Leo's First Encyclical Condemns Tech Messianism](#item-16) ⭐️ 7.0/10
+17. [Anthropic Details Multi-Layered Sandboxing for Claude Products](#item-17) ⭐️ 7.0/10
+18. [30B Model Surpasses 235B with 13.5K Synthetic Data in Open-Source Agent Training](#item-18) ⭐️ 7.0/10
+19. [Boston Children's Hospital uses AI for rare disease diagnosis](#item-19) ⭐️ 7.0/10
+20. [Dell XPS Laptop with NVIDIA N1X Unveiled at Computex](#item-20) ⭐️ 7.0/10
+21. [125 tok/s for Qwen3.6 Q4_XL on 2x 4060 Ti: Insane Perf/Dollar](#item-21) ⭐️ 7.0/10
+22. [GPU Comparison for Local LLMs Counters Mac Hype with Data](#item-22) ⭐️ 7.0/10
+23. [NVIDIA PiD Enables 64MP Tiled Image Upscaling with Creative Enhancement](#item-23) ⭐️ 7.0/10
+24. [Pixal3D Ported to Apple Silicon for Mac Users](#item-24) ⭐️ 7.0/10
+25. [Proposal: Training Flow Models in Oklab Perceptual Color Space](#item-25) ⭐️ 7.0/10
+26. [Llama Surgery: Continuous Sparsification via Differentiable Ultrametric Topology](#item-26) ⭐️ 7.0/10
+27. [mlx-code: Local LLM Coding Agent for Apple Silicon](#item-27) ⭐️ 7.0/10
+28. [Transformer-Based NN Turns Images into Playable Games on Consumer GPUs](#item-28) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Microsoft to Degrade Office 2019/2021 for Mac to View-Only by 2026](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) ⭐️ 9.0/10
+## [vLLM v0.22.0 Brings DeepSeek V4 Maturity and Rust Frontend](https://github.com/vllm-project/vllm/releases/tag/v0.22.0) ⭐️ 8.0/10
 
-Microsoft plans to alter the functionality of perpetually licensed Office 2019 and Office 2021 for Mac, reducing them to view-only mode by 2026, effectively revoking editing and other features. This undermines the core promise of perpetual licenses, potentially violating consumer rights and setting a dangerous precedent that could force users into subscription models across the industry. The change affects Office 2019 and 2021 for Mac specifically; the timeline is by 2026. Reports suggest the accelerated deprecation may be driven by Microsoft's desire to monetize AI agent usage with separate per-instance licenses.
+vLLM v0.22.0 brings DeepSeek V4 to maturity with a dedicated model package, NVFP4 fused MoE, and MTP speculative decoding. It also advances Model Runner V2 toward default, introduces an experimental Rust frontend for data-parallel serving, and improves batch-invariant inference latency by 28.9% via Cutlass FP8. This release ensures robust support for the latest DeepSeek models, advances core engine reliability, and introduces performance optimizations that lower serving costs and latency for real-world applications. DeepSeek V4 gains NVFP4 fused MoE, full/piecewise CUDA graphs, and MTP speculative decoding; MRv2 automatically falls back to MRv1 when a KV connector is present; a Rust DP Supervisor enables data-parallel serving; and Cutlass FP8 yields a 28.9% end-to-end latency reduction for batch-invariant inference.
 
-hackernews · antipurist · May 30, 23:26 · [Discussion](https://news.ycombinator.com/item?id=48341578)
+github · khluu · May 29, 10:28
 
-**Background**: A perpetual software license grants the buyer the right to use the software indefinitely after a one-time payment, similar to owning a physical product. In contrast, subscriptions like Microsoft 365 require recurring payments. Microsoft has increasingly pushed users toward subscriptions, but this is the first major case of retroactively degrading already-sold perpetual licenses.
+**Background**: vLLM is an open-source LLM inference engine widely used for high-throughput model serving. DeepSeek V4 is a state-of-the-art language model from Chinese AI lab DeepSeek, known for cost-effective training and strong performance. Model Runner V2 is a redesigned core execution loop in vLLM that offers better modularity and speed. The experimental Rust frontend aims to replace parts of the Python serving layer with a high-performance Rust implementation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Perpetual_license">Perpetual license</a></li>
-<li><a href="https://www.techtarget.com/whatis/definition/perpetual-software-license">What Is a Perpetual Software License ? – Definition from TechTarget</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek</a></li>
+<li><a href="https://docs.vllm.ai/en/latest/design/model_runner_v2/">Model Runner V2 Design Document - vLLM</a></li>
+<li><a href="https://github.com/vllm-project/vllm/pull/40848">[Frontend][RFC] Rust front-end integration by njhill · Pull Request #40848 · vllm-project/vllm</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community is outraged, viewing this as a betrayal of consumer trust and a potential violation of Australian consumer law. Some speculate the timeline was rushed to counter AI labs using single perpetual licenses for many agent instances. Several users urge boycotting Microsoft and note that pirated versions ironically now honor the original license terms better than the official product.
-
-**Tags**: `#Microsoft`, `#software licensing`, `#consumer rights`, `#Office`, `#perpetual license`
+**Tags**: `#vLLM`, `#LLM inference`, `#DeepSeek`, `#release`, `#model optimization`
 
 ---
 
 <a id="item-2"></a>
-## [vllm v0.22.0: DeepSeek V4 Support, Model Runner V2 Advances, Rust Frontend](https://github.com/vllm-project/vllm/releases/tag/v0.22.0) ⭐️ 8.0/10
+## [Domain Expertise: The Enduring Moat in Software](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) ⭐️ 8.0/10
 
-vllm v0.22.0 delivers dedicated DeepSeek V4 support with fused kernels and speculative decoding, advances Model Runner V2 with features like sleep-mode weight reload and automatic fallback, and adds an experimental Rust frontend. This release significantly hardens support for DeepSeek V4, a popular large model, improves inference latency through batch invariance and speculative decoding, and advances the next-generation model runner, impacting LLM serving efficiency and developer flexibility. The release includes 459 commits from 230 contributors, a 28.9% end-to-end latency improvement for batch-invariant inference via Cutlass FP8, a multi-tier KV cache offloading framework, and expanded model support for MiniCPM-V 4.6, InternS2 Preview, and others.
+A recent article argues that domain expertise is the true sustainable competitive advantage in software engineering, sparking a vibrant Hacker News discussion with hundreds of comments debating the roles of generalists and specialists in the age of AI. As AI coding tools become widespread, the debate reframes career value: deep domain knowledge may become more critical than pure coding ability, influencing hiring and skill development strategies. The article emphasizes that those who combine domain insight with software skills can verify both AI-generated code and its real-world correctness, a viewpoint strongly echoed in comments. However, some note that domain expertise itself can be 'software' as a domain, and terms like 'moat' are seen as overused.
 
-github · khluu · May 29, 10:28
+hackernews · aaronbrethorst · May 30, 20:40 · [Discussion](https://news.ycombinator.com/item?id=48340411)
 
-**Background**: Fused kernels combine multiple operations into a single optimized GPU program, reducing memory traffic and improving performance. Speculative decoding generates multiple tokens per inference step using a draft model, cutting latency without altering output quality. Model Runner V2 is a redesigned core of vllm for better modularity and async scheduling, gradually replacing the original model runner.
+**Background**: In business, a 'moat' is a durable competitive advantage. Traditionally in software, deep technical skills formed the moat, but with AI assistants producing boilerplate code, the advantage may shift to understanding industry-specific problems. This discussion ties into the ongoing evolution of software engineering careers and the impact of generative AI.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://medium.com/the-synaptic-stack/how-fused-kernels-are-powering-the-llm-revolution-and-why-you-should-care-1e232fa1ae70">How Fused Kernels Are Powering the LLM Revolution... | Medium</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Speculative_decoding">Speculative decoding</a></li>
-<li><a href="https://vllm.ai/blog/2026-03-24-mrv2">Model Runner V2: A Modular and Faster Core for vLLM</a></li>
+**Discussion**: Commenters largely concurred that combining domain expertise with software architecture knowledge is powerful. Some clarified that software generalists already possess deep software-domain knowledge, while one user criticized clichéd jargon like 'taste' and 'moat'.
 
-</ul>
-</details>
-
-**Tags**: `#vllm`, `#LLM serving`, `#release`, `#DeepSeek V4`, `#Model Runner`
+**Tags**: `#domain-expertise`, `#software-engineering`, `#AI`, `#career-advice`, `#hackernews-discussion`
 
 ---
 
 <a id="item-3"></a>
-## [Accenture Acquires Ookla, Speedtest Owner, for $1.2B](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) ⭐️ 8.0/10
+## [Microsoft Office 2019/2021 for Mac to Become View-Only After 2026](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) ⭐️ 8.0/10
 
-Accenture is acquiring Ookla, the company behind Speedtest and Downdetector, for an estimated $1.2 billion to strengthen its network intelligence and enterprise data services. The deal gives Accenture access to massive crowdsourced network performance data, enabling deeper analytics and optimization for telecom operators and enterprises, and solidifying its position in the AI-driven telecom analytics market. Ookla processes over 250 million consumer-initiated tests per month and owns complementary assets like drive-testing firm RootMetrics and Wi-Fi design tool Ekahau; its data platform is critical for telecom network investment decisions.
+Microsoft plans to convert its perpetual-license Office 2019 and 2021 for Mac to view-only mode after 2026, preventing any editing of documents. This change will affect all existing users of those versions. This move undermines the concept of perpetual software licenses and sets a precedent for revoking functionality post-purchase. It raises significant consumer rights concerns and impacts users reliant on these versions for offline workflows, including AI agent integrations. The timeline appears accelerated, possibly because AI labs use single offline licenses for thousands of agents, prompting Microsoft to enforce per-agent licensing. The change may violate consumer laws in jurisdictions like Australia, where products must remain fit for purpose.
 
-hackernews · Garbage · May 30, 16:28 · [Discussion](https://news.ycombinator.com/item?id=48337987)
+hackernews · antipurist · May 30, 23:26 · [Discussion](https://news.ycombinator.com/item?id=48341578)
 
-**Background**: Ookla is best known for its Speedtest tool, but its core business is selling anonymized network performance data to telecom operators, who pay significant annual fees for insights. Downdetector provides real-time outage monitoring. Accenture, a global IT services firm, has been expanding its data and AI capabilities, including its earlier acquisition of network benchmarking company Umlaut.
+**Background**: Consumer software is typically sold either via subscription (e.g., Microsoft 365) or with a perpetual license for indefinite use. Microsoft's perpetual Office suites for Mac, including Office 2019 and 2021, were marketed as one-time purchases. Converting them to view-only would remove core editing capabilities, effectively altering the product after sale. AI agents are software systems that use AI to perform tasks on behalf of users; they often integrate with Office applications and can operate at scale.
 
-**Discussion**: Commenters with industry experience note that data sales are the real business, with telcos paying six-figure annual contracts. Ookla insiders highlight the immense scale of data collection and the complementary nature of the acquisition, given Accenture's existing Umlaut unit. Some express surprise at the valuation for seemingly straightforward products, but others clarify the deep data moat and enterprise value.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/AI_agent">AI agent</a></li>
 
-**Tags**: `#networking`, `#acquisition`, `#data-monetization`, `#telecommunications`, `#business`
+</ul>
+</details>
+
+**Discussion**: The community is outraged, viewing this as an unethical restriction of purchased software. Many advocate switching to LibreOffice, while others note potential consumer law violations in Australia. There is speculation that AI agent licensing is driving the accelerated timeline.
+
+**Tags**: `#microsoft-office`, `#licensing`, `#consumer-rights`, `#ai-agents`, `#software-subscription`
 
 ---
 
 <a id="item-4"></a>
-## [Zig ELF linker improvements accelerate development iteration](https://ziglang.org/devlog/2026/#2026-05-30) ⭐️ 8.0/10
+## [AV2 Video Codec Final v1.0 Specification Released](https://av2.aomedia.org/) ⭐️ 8.0/10
 
-The Zig development log details major improvements to its ELF linker, enabling faster incremental linking for quicker development cycles and C-like performance. This advancement positions Zig as a strong C replacement, allowing developers to iterate as fast as in higher-level languages while retaining C-level performance, potentially attracting a wider systems programming community. The linker targets the ELF format (Linux) and focuses on incremental linking; however, community members note that this may be mutually exclusive with link-time optimization, making it ideal for development but not for release builds.
+The Alliance for Open Media officially released the final v1.0 specification of the AV2 video coding format on May 28, 2026, achieving 20–30% bitrate savings over AV1. This milestone enables higher quality video streaming and lower bandwidth costs, though widespread adoption hinges on future hardware decoder support expected around 2030. The current encoder runs extremely slowly (~1 fps) and hardware-accelerated decoding is not anticipated until 2028–2030; AV2 also brings improvements to the AVIF image format.
 
-hackernews · kristoff_it · May 30, 17:29 · [Discussion](https://news.ycombinator.com/item?id=48338673)
+hackernews · ksec · May 30, 21:46 · [Discussion](https://news.ycombinator.com/item?id=48340910)
 
-**Background**: Zig is a general-purpose, statically typed systems programming language designed for robustness and optimal performance, often considered a modern alternative to C. ELF (Executable and Linkable Format) is the standard binary format for executables and shared libraries on Linux. A linker combines compiled object files into final executables; incremental linking speeds up rebuilds by only processing changed parts.
+**Background**: AV1, the predecessor, is an open, royalty-free codec already widely deployed for streaming. AV2 advances compression efficiency through techniques like extended recursive partitioning and improved intra-frame prediction, competing with the royalty-based VVC standard. It also enhances support for AR, VR, and split-screen content.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Zig_(programming_language)">Zig ( programming language ) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Executable_and_Linkable_Format">Executable and Linkable Format - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Linker_(computing)">Linker (computing) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AV2_(video_coding_format)">AV2 (video coding format)</a></li>
+<li><a href="https://av2.aomedia.org/">AV2 Specification</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters are enthusiastic, seeing these improvements as a pivotal step toward Zig fulfilling its promise as a C replacement with rapid iteration. Some highlight the potential for transpilation targets and porting other runtimes. A few raise the concern that incremental linking likely conflicts with link-time optimization, limiting its use to development builds.
+**Discussion**: Community members highlight the long wait for hardware support (late 2020s), current encoder slowness, patent litigation risks, and potential benefits for AVIF; the overall sentiment is cautiously optimistic.
 
-**Tags**: `#zig`, `#linker`, `#systems-programming`, `#compiler`, `#performance`
+**Tags**: `#video-codec`, `#AV2`, `#multimedia`, `#standards`, `#compression`
 
 ---
 
 <a id="item-5"></a>
-## [OpenRouter Raises $113M Series B for LLM API Proxy](https://openrouter.ai/announcements/series-b) ⭐️ 8.0/10
+## [Zig's Build System Rework Boosts Compile Times and Workflow](https://ziglang.org/devlog/2026/#2026-05-26) ⭐️ 8.0/10
 
-OpenRouter, a unified API proxy for large language models, has raised $113 million in Series B funding, as announced on its website. This significant investment underscores the critical role of API infrastructure in the rapidly expanding AI ecosystem, as developers seek efficient ways to integrate diverse LLMs. OpenRouter offers features like billing caps and a uniform interface for trying many models, charging a 5% surcharge; the co-founder emphasized the company remains founder-led with a strong balance sheet.
+Zig 0.16.0 ships a reworked build system that dramatically reduces compile times and streamlines developer workflows, as announced on May 26, 2026. The rework addresses a critical pain point in developer feedback loops, making Zig more competitive for large projects and improving the daily experience of its users. The new build system is part of Zig 0.16.0 and complements the new I/O mechanism, enabling efficient single-threaded, multi-threaded, and event-loop code patterns.
 
-hackernews · freeCandy · May 30, 17:27 · [Discussion](https://news.ycombinator.com/item?id=48338660)
+hackernews · tosh · May 30, 08:38 · [Discussion](https://news.ycombinator.com/item?id=48334048)
 
-**Background**: An API proxy acts as an intermediary between clients and backend API services, providing a unified entry point for multiple LLM providers like OpenAI and Anthropic. This reduces complexity in managing different authentication and billing systems. OpenRouter competes with similar proxies such as LiteLLM and other LLM gateways.
+**Background**: Zig is a systems programming language designed as a modern alternative to C, with manual memory management and no hidden control flow. Its build system orchestrates compilation, linking, and dependency management, previously a source of slowness for larger projects.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://konghq.com/blog/learning-center/what-is-an-api-proxy">What is an API Proxy? Use Cases and Challenges | Kong Inc.</a></li>
-<li><a href="https://www.youngju.dev/blog/culture/2026-03-25-litellm-unified-llm-api-proxy-guide-2025.en">LiteLLM Complete Guide 2025: Unify 100+ LLMs with a Single API Proxy Server | Chaos and Order</a></li>
-<li><a href="https://modelproxy.co/signin">ModelProxy - Secure LLM API Proxy with Key Protection</a></li>
+<li><a href="https://ziglang.org/learn/build-system/">Zig Build System ⚡ Zig Programming Language</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zig_(programming_language)">Zig (programming language)</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Overall sentiment is positive, with praise for easy model experimentation and billing caps. Some question the cost-effectiveness for expensive models due to the surcharge, and there is debate about long-term utility as the LLM field may consolidate, though current value in rapid experimentation is acknowledged.
+**Discussion**: Users report a smooth upgrade to 0.16.0, praising the language's focus on tooling over features and the build system's impact on rapid feedback. Many see Zig becoming their go-to language for quick prototyping and systems work.
 
-**Tags**: `#AI`, `#LLMs`, `#Funding`, `#API`, `#Infrastructure`
+**Tags**: `#zig`, `#build-system`, `#developer-tools`, `#programming-languages`, `#performance`
 
 ---
 
 <a id="item-6"></a>
-## [OpenBSD’s Security-Hardened rsync Implementation Gains Traction](https://github.com/kristapsdz/openrsync) ⭐️ 8.0/10
+## [OpenRouter Raises $113M Series B to Expand Its AI Platform](https://openrouter.ai/announcements/series-b) ⭐️ 8.0/10
 
-The OpenBSD team has developed openrsync, a security-hardened rsync implementation that uses pledge(2) and unveil(2) for sandboxing, and it is now being adopted in real-world applications like RPKI validation. With the original Samba rsync suffering from regressions, openrsync offers a more secure alternative through privilege separation, which is critical for supply chain security and infrastructure like RPKI. openrsync still has compatibility gaps with Samba rsync, such as remote path handling, but it leverages OpenBSD-specific security features that may not be fully portable to Linux.
+OpenRouter, the AI model aggregation platform, has raised a $113 million Series B funding round. This investment will be used to expand its infrastructure and services. The funding validates the growing need for simplified access to multiple AI models and positions OpenRouter to further streamline model integration, benefiting developers and businesses that rely on diverse LLMs. OpenRouter charges a 5% surcharge on model usage but offers features like billing caps and a unified API, which many model providers lack. The company remains founder-led and intends to stay independent.
 
-hackernews · sph · May 30, 10:51 · [Discussion](https://news.ycombinator.com/item?id=48334854)
+hackernews · freeCandy · May 30, 17:27 · [Discussion](https://news.ycombinator.com/item?id=48338660)
 
-**Background**: rsync is a popular file synchronization tool. OpenBSD is a security-focused OS known for pledge (restricts system calls) and unveil (restricts filesystem access). RPKI validates BGP routes to prevent hijacking. The original rsync codebase has seen low-quality commits causing regressions.
+**Background**: OpenRouter is a unified API platform that provides access to over 400 AI models from dozens of providers through a single endpoint. It simplifies the process of trying and using different models without managing multiple accounts and APIs. This funding round follows its Series A in 2024 and comes as the LLM ecosystem rapidly expands.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/OpenBSD_security_features">OpenBSD security features - Wikipedia</a></li>
-<li><a href="https://www.openbsd.org/papers/BeckPledgeUnveilBSDCan2018.pdf">Pledge , and Unveil , in OpenBSD</a></li>
-<li><a href="https://datatracker.ietf.org/doc/html/rfc7115">RFC 7115 - Origin Validation Operation Based on the Resource Public...</a></li>
+<li><a href="https://openrouter.ai/">OpenRouter</a></li>
+<li><a href="https://www.datacamp.com/tutorial/openrouter">OpenRouter: A Guide With Practical Examples | DataCamp</a></li>
+<li><a href="https://www.codecademy.com/article/what-is-openrouter">What is OpenRouter? A Guide with Practical Examples | Codecademy</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Users report openrsync is improving but still has issues with remote path handling. A Go implementation (gokrazy/rsync) is noted as an alternative. The community praises the security focus, especially given rsync regressions, and questions pledge/unveil portability to Linux.
+**Discussion**: The community largely praises OpenRouter for simplifying multi-model access and implementing billing caps. Some question the 5% surcharge for heavy usage and note that the platform is not open-source despite its name. The co-founder clarified that the company remains founder-led and aims to build a strong, independent business.
 
-**Tags**: `#openbsd`, `#rsync`, `#security`, `#systems-programming`, `#open-source`
+**Tags**: `#AI Infrastructure`, `#Funding`, `#OpenRouter`, `#LLM Tools`, `#Startups`
 
 ---
 
 <a id="item-7"></a>
-## [Datasette 1.0a31 Enables Write Queries and Stored Queries](https://simonwillison.net/2026/May/29/datasette/#atom-everything) ⭐️ 8.0/10
+## [Microcode inside the Intel 8087 floating-point chip: register exchange](https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html) ⭐️ 8.0/10
 
-Datasette 1.0a31, an alpha release, now allows users with permissions to execute SQL write queries (insert, update, delete) and save stored queries (renamed from canned queries) for private or shared use. This transforms Datasette from a read-only data exploration tool into a collaborative data management platform, enabling teams to edit and save queries directly, which broadens its use cases for data journalism, analysis, and internal tools. The write query interface provides templated insert/update/delete statements based on table permissions; users cannot execute DDL like CREATE TABLE without the create-table permission. Stored queries can be set as private or shared among instance members.
+A detailed analysis reveals the inner workings of the register exchange microcode in the Intel 8087 floating-point coprocessor, based on high-resolution microscope imagery of the chip. This exploration illuminates the historical design choices that shaped the IEEE 754 floating-point standard and the early PC architecture, offering retrocomputing enthusiasts and hardware historians a rare look at the microcode behind complex instructions. The 8087 lacked a hardware multiplier, relying on CORDIC algorithms and microcode to implement operations; the register exchange routine highlights how the stack-based register file was managed internally.
 
-rss · Simon Willison · May 29, 03:32
+hackernews · pwg · May 30, 17:27 · [Discussion](https://news.ycombinator.com/item?id=48338656)
 
-**Background**: Datasette is an open-source tool by Simon Willison for exploring and publishing SQLite databases as a web interface. Previously, it focused on read-only data exploration with support for canned queries—predefined SQL templates—but lacked built-in write capabilities. The 1.0a31 alpha release marks a major shift toward collaborative data editing.
+**Background**: The Intel 8087, released in 1980, was the first floating-point coprocessor for the x86 architecture, significantly boosting math performance in early PCs and influencing the IEEE 754 standard. Microcode is a low-level code layer that translates machine instructions into sequences of hardware-specific operations, allowing complex instructions to be implemented more easily. The 8087 used microcode to implement its floating-point operations, as it lacked a hardware multiplier and relied on algorithms like CORDIC. Reverse-engineering its microcode provides insights into the chip's internal design and the engineering trade-offs of the era.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://docs.datasette.io/en/stable/sql_queries.html">Running SQL queries - Datasette documentation</a></li>
-<li><a href="https://data.mysociety.org/datasette/?mysoc=uk_ruc/uk_ruc/latest">Datasette</a></li>
+<li><a href="https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html">Microcode inside the Intel 8087 floating-point chip: register exchange</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Intel_8087">Intel 8087</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Microcode">Microcode</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#datasette`, `#open-source`, `#data-tools`, `#sql`, `#python`
+**Discussion**: The Hacker News community responded with enthusiasm, with one user calling the article a 'treasure' and another expressing eagerness to read it. The author engaged with readers, offering to answer questions, which fostered a positive and insightful discussion.
+
+**Tags**: `#retrocomputing`, `#hardware`, `#microcode`, `#intel-8087`, `#computer-history`
 
 ---
 
 <a id="item-8"></a>
-## [Open-Source Model Converts Vocal Imitations into Sound Effects](https://www.reddit.com/r/LocalLLaMA/comments/1trve9e/open_source_turning_vocal_imitations_into_sound/) ⭐️ 8.0/10
+## [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/) ⭐️ 8.0/10
 
-A new open-source project called VTS was released, which uses a model to generate sound effects from vocal imitations and text descriptions. This simplifies sound design by allowing creators to search for sounds by imitating them, making the process more intuitive and efficient. The model takes both a vocal imitation and a text prompt to generate the target sound, with a demo available in the GitHub repository.
+A creative project has been released that transforms 500 years of historical omens from the Joseon dynasty's Veritable Records into a modern observability dashboard, using time-series database KairosDB for visualization. This project showcases a unique fusion of ancient historical records and contemporary monitoring tools, sparking interdisciplinary discussions on data interpretation and the value of meticulous record-keeping. The dashboard draws data from the digitized Veritable Records, employing KairosDB for time-series management; it visualizes events like solar eclipses, unusual animal sightings, and even UFO records, all timestamped with lunar calendar dates.
 
-reddit · r/LocalLLaMA · /u/Danny-1257 · May 30, 09:40
+hackernews · poppypetalmask · May 30, 19:23 · [Discussion](https://news.ycombinator.com/item?id=48339753)
 
-**Background**: Sound designers often struggle to find the perfect sound effect and resort to vocal imitations to communicate ideas. This project automates the conversion of such imitations into high-quality sounds, potentially streamlining workflows in video production and game development.
+**Background**: The Joseon dynasty (1392–1910) maintained meticulous daily records called the Veritable Records, which included natural phenomena and omens seen as heavenly signs. An observability dashboard is a modern software tool that monitors system health by displaying time-series metrics and generating alerts. KairosDB is a scalable time-series database built on Apache Cassandra, designed for fast storage and retrieval of time-stamped data, making it suitable for historical trend visualization.
 
-**Tags**: `#audio-processing`, `#sound-generation`, `#open-source`, `#machine-learning`, `#creative-tools`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://kairosdb.github.io/">KairosDB</a></li>
+<li><a href="https://snowplow.io/blog/data-observability-dashboard">What does a data observability dashboard look like and how does it work? | Snowplow Blog</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community response was enthusiastic, with users appreciating the creative mashup of ancient history and modern monitoring. Commenters highlighted the richness of the source records, joked about 'actionable' omen alerts, and shared specific fascinating entries like a UFO sighting, reflecting a blend of technical interest and historical curiosity.
+
+**Tags**: `#history`, `#dashboard`, `#data-visualization`, `#kairos`, `#observability`
 
 ---
 
 <a id="item-9"></a>
-## [Probe-Targeted Fine-Tuning Makes LLMs Accurately Verbalize Confidence](https://www.reddit.com/r/MachineLearning/comments/1tqrtkn/making_llms_tell_you_how_confident_they_really/) ⭐️ 8.0/10
+## [Running Python ASGI apps in the browser via Pyodide + a service worker](https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything) ⭐️ 8.0/10
 
-Researchers developed a probe-targeted fine-tuning method that teaches LLMs to verbalize internal confidence signals; they validated it on 8 models across 4 families (7B–70B) and proved causality with activation patching. This method addresses a critical trustworthiness gap where LLMs overstate confidence, enabling safer deployment in high-stakes applications by allowing models to honestly communicate uncertainty. The method uses LoRA with a few hundred examples in under 10 minutes on an M3 Ultra. Internal probes achieve 0.76–0.88 AUROC in detecting correctness. Activation patching at a specific hidden-state position changes verbalized confidence with a gradient correlation of ρ=0.976, confirming a causal mechanism. At 70B scale, the softmax distribution contains the metacognitive signal, but argmax text output still defaults to 99% confidence.
+Simon Willison demonstrated a new approach to run Python ASGI applications entirely in the browser using Pyodide and service workers, overcoming the previous limitation where scripts in Datasette Lite would not execute. This enables full-featured Python web apps to run in the browser without a server, including plugins that rely on JavaScript, significantly expanding the capabilities of projects like Datasette Lite and reducing infrastructure dependencies. The solution uses a service worker to intercept HTTP requests and pass them to an ASGI app running in Pyodide, ensuring <script> tags execute correctly. It was built with assistance from Claude Opus 4.8 and tested with Datasette 1.0a31.
 
-reddit · r/MachineLearning · /u/Synthium- · May 29, 05:15
+rss · Simon Willison · May 30, 21:02
 
-**Background**: Probing trains a classifier on a model's hidden states to reveal internal properties, while confidence calibration measures how well a model's reported confidence matches its actual correctness. Activation patching is a causal interpretability technique that swaps activations between clean and corrupted inputs to identify which neurons drive specific behaviors. LLMs often display overconfidence, claiming near-certainty even when wrong.
+**Background**: Pyodide is a Python distribution for the browser based on WebAssembly. ASGI is a modern asynchronous interface for Python web servers and applications. Service workers are browser scripts that act as a network proxy, intercepting and handling requests. Datasette Lite is a version of the Datasette data exploration tool that runs in the browser using Pyodide.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.neelnanda.io/mechanistic-interpretability/attribution-patching">Attribution Patching: Activation Patching At Industrial Scale — Neel Nanda</a></li>
-<li><a href="https://en.wikipedia.org/wiki/AUROC">AUROC</a></li>
-<li><a href="https://arxiv.org/abs/2510.21531">[2510.21531] Probe-based Fine-tuning for Reducing Toxicity</a></li>
+<li><a href="https://pyodide.org/">Pyodide — Version 0.29.4</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers">Using Service Workers - Web APIs | MDN</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ASGI">ASGI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#confidence calibration`, `#fine-tuning`, `#large language models`, `#probing`, `#interpretability`
+**Tags**: `#python`, `#pyodide`, `#webassembly`, `#asgi`, `#service-worker`
 
 ---
 
 <a id="item-10"></a>
-## [Baseten Releases 8-Step Distilled FLUX.2-dev with DMD2](https://www.reddit.com/r/StableDiffusion/comments/1trx9es/8step_flux2dev_dmd2_distillation/) ⭐️ 8.0/10
+## [LLM-Powered Tool Generates Modular 3D Objects in Blender](https://www.reddit.com/r/artificial/comments/1ts5ql9/i_built_a_tool_that_generates_3d_objects/) ⭐️ 8.0/10
 
-Baseten has open-sourced a distilled FLUX.2-dev model that reduces the sampling steps to just 8, leveraging the DMD2 (Improved Distribution Matching Distillation) technique, and made it available in Diffusers format on Hugging Face. This distillation drastically accelerates image generation for the powerful FLUX.2-dev model, enabling near-real-time inference on consumer hardware and reducing computational costs, which can broaden access to high-quality text-to-image synthesis. The model is released in Diffusers format, which may require conversion for use in some interfaces like ComfyUI; the underlying DMD2 method eliminates regression loss and uses a two time-scale update rule with integrated GAN loss for stable distillation.
+A developer created Nova3D, an open-source tool that uses an LLM to write Blender Python code, producing multi-part 3D models with logical assembly, such as a microwave with internal components and an opening door, enabling easy editing and animation. It addresses a major limitation of typical AI 3D generators that output monolithic meshes, making the models unusable for game development and animation; this structured, modular approach saves time and improves production workflows. The tool treats the LLM as a structured code compiler, generating Blender Python (bpy) scripts that directly manipulate the scene graph, preserving pivot axes, and exporting clean multi-part GLB files; users must provide their own API key.
 
-reddit · r/StableDiffusion · /u/rerri · May 30, 11:21
+reddit · r/artificial · /u/mhb-11 · May 30, 17:17
 
-**Background**: FLUX.2-dev is the development version of FLUX.2, a state-of-the-art text-to-image model by Black Forest Labs. Diffusion models typically require many iterative denoising steps (often 50-100), making them slow. DMD2 is a recent distillation technique that compresses models to as few as 4-8 steps without significant quality loss, by matching the distribution of generated images to real ones and stabilizing training with GAN loss. The Diffusers format stores model components in a structured folder, compatible with the Hugging Face ecosystem.
+**Background**: Standard AI 3D models are often single, unstructured meshes that are difficult to animate or edit. Blender's Python API (bpy) allows full programmatic control over 3D creation. A scene graph organizes objects hierarchically, and GLB is a compact binary format that stores complete 3D scenes with geometry, textures, and transformations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2405.14867">[2405.14867] Improved Distribution Matching Distillation for Fast Image Synthesis</a></li>
-<li><a href="https://huggingface.co/black-forest-labs/FLUX.2-dev">black-forest-labs/FLUX.2-dev · Hugging Face</a></li>
-<li><a href="https://huggingface.co/docs/diffusers/using-diffusers/other-formats">Model formats · Hugging Face</a></li>
+<li><a href="https://pypi.org/project/bpy/">bpy · PyPI</a></li>
+<li><a href="https://cloudinary.com/guides/image-formats/glb-format-how-it-works-use-cases-and-pros-cons-you-should-know">GLB Format : How It Works, Use Cases, and Pros/Cons You Should...</a></li>
+<li><a href="https://developer.blender.org/docs/features/cycles/scene_graph/">Scene Graph - Blender Developer Documentation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#FLUX`, `#distillation`, `#image-generation`, `#diffusion-models`, `#model-efficiency`
+**Tags**: `#3D generation`, `#Blender`, `#LLM`, `#procedural generation`, `#game development`
 
 ---
 
 <a id="item-11"></a>
-## [NAVA: 6.3B Model for Joint Audio-Video Generation with Align-then-Fuse](https://www.reddit.com/r/StableDiffusion/comments/1trb93v/nava_a_63b_audiovideo_model/) ⭐️ 8.0/10
+## [Malicious Websites Use SSD Timing to Spy on User Activity](https://futurism.com/future-society/websites-spying-solid-state-drive) ⭐️ 8.0/10
 
-NAVA is a 6.3 billion parameter model that generates synchronized video and audio from text prompts using a novel Align-then-Fuse MMDiT architecture, setting new state-of-the-art on Verse-Bench with 2-5x fewer parameters than existing models. This model shows that joint audio-video generation can achieve superior synchronization with significantly fewer parameters, challenging larger approaches. Its open-source release accelerates research in multimodal AI and lowers barriers for applications like video production, virtual avatars, and interactive media. NAVA first aligns audio and video in a dedicated space, then fuses context via cross-attention, supporting multi-speaker speech with timbre control and image-conditioned continuations. It achieves top scores on Verse-Bench metrics Sync-C, Sync-D, video quality, and audio WER.
+Researchers have disclosed a new no-interaction attack called FROST, where malicious websites exploit the browser's OPFS and SSD read/write timing to infer the websites or apps a user is accessing simultaneously, without installing software or requiring clicks. This novel side-channel attack achieves up to 89% accuracy for website prediction and 96% for app prediction, posing a serious privacy threat because it requires no user consent and is difficult to detect. The attack was tested only on Mac and Linux, but researchers say Windows is also vulnerable; closing browser tabs promptly after use reduces the risk, though complete mitigation is not yet addressed.
 
-reddit · r/StableDiffusion · /u/AgeNo5351 · May 29, 18:35
+telegram · zaihuapd · May 31, 01:55
 
-**Background**: MMDiT (Multimodal Diffusion Transformers) is a unified architecture that extends diffusion models with transformer backbones to handle mixed modalities like video and audio. Verse-Bench is a benchmark dataset released in 2025 with 600 image-text pairs for evaluating joint audio-visual generation. Align-then-Fuse is a paradigm that first aligns cross-modal features before fusing them, improving efficiency and performance over direct fusion or post-hoc alignment.
+**Background**: Side-channel attacks infer sensitive information by analyzing physical implementations like timing or power consumption rather than software flaws. The Origin Private File System (OPFS) is a browser API that allows websites to read and write files in a per-origin sandbox without user permission. The FROST attack leverages OPFS to generate measurable SSD timing variations that correlate with user activities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.emergentmind.com/topics/multimodal-diffusion-transformers-mmdit">MMDit: Multimodal Diffusion Transformers</a></li>
-<li><a href="https://huggingface.co/datasets/dorni/Verse-Bench">dorni/ Verse - Bench · Datasets at Hugging Face</a></li>
-<li><a href="https://proceedings.neurips.cc/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf">Align before Fuse: Vision and Language Representation ...</a></li>
+<li><a href="https://news.qq.com/rain/a/20260528A044PG00">新浏览器侧信道攻击 FROST 曝光：分析 SSD 固态硬盘活动监视访客</a></li>
+<li><a href="https://www.telerik.com/blogs/how-store-files-user-device-opfs">How to Store Files on a User’s Device Using OPFS</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/25590891831">什么是 Side Channel Attack（侧信道攻击）？ - 知乎</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#audio-video generation`, `#multimodal AI`, `#open-source model`, `#MMDiT`, `#text-to-video`
+**Tags**: `#side-channel attack`, `#privacy`, `#browser security`, `#SSD`, `#OPFS`
 
 ---
 
 <a id="item-12"></a>
-## [LLM-Powered Tool Generates Modular 3D Objects via Blender Code](https://www.reddit.com/r/artificial/comments/1ts5ql9/i_built_a_tool_that_generates_3d_objects/) ⭐️ 8.0/10
+## [Shantell Sans: A Variable Font with a Formality Axis](https://shantellsans.com/process) ⭐️ 7.0/10
 
-A free open-source tool named Nova3D uses a large language model to write Blender Python scripts that construct 3D objects as separate, logical parts (e.g., a microwave with a swinging door), rather than as a single monolithic mesh. This approach solves a critical limitation of typical AI 3D generators that output uneditable, unriggable blobs, enabling game developers and animators to directly use and modify the generated assets in interactive environments. The LLM acts as a structured code compiler, outputting native Blender Python (bpy) code that targets specific scene graph nodes; final exports are clean multi-part GLB files with transform nodes and pivot axes preserved, but users must bring their own API key.
+Shantell Sans is a new variable font that introduces a unique ‘formality’ axis, allowing letter shapes to dynamically transition from casual, handwritten styles to more formal, structured forms. This innovation expands the creative potential of variable fonts beyond standard axes like weight and width, demonstrating how typography can adapt to context and potentially improve accessibility for readers, including those with dyslexia. The formality axis interpolates between informal and formal letterforms, and the font is available under an open-source license.
 
-reddit · r/artificial · /u/mhb-11 · May 30, 17:17
+hackernews · aleda145 · May 30, 22:06 · [Discussion](https://news.ycombinator.com/item?id=48341062)
 
-**Background**: A scene graph is a hierarchical tree structure that organizes 3D objects as nodes with parent-child relationships, enabling spatial transforms and efficient culling. GLB (binary glTF) is a standard format for transmitting 3D scenes that preserves these node hierarchies and pivot points. Blender's Python API (bpy) allows scripting of scene graph nodes, which Nova3D leverages rather than relying on mesh-only diffusion models that produce monolithic blobs.
+**Background**: Variable fonts are a relatively recent technology, standardized in OpenType 1.8 in 2016, that enables a single font file to contain a continuous range of design variations. Typically, variable fonts adjust standard registered axes such as weight, width, or slant. Custom axes, like the formality axis in Shantell Sans, allow designers to interpolate along any conceivable visual parameter, giving users fine-grained control over typographic appearance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Scene_graph">Scene graph - Wikipedia</a></li>
-<li><a href="https://cloudinary.com/guides/image-formats/glb-format-how-it-works-use-cases-and-pros-cons-you-should-know">GLB Format : How It Works, Use Cases, and Pros/Cons You Should...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Variable_font">Variable font</a></li>
+<li><a href="https://fonts.google.com/knowledge/introducing_type/introducing_variable_fonts">Introducing variable fonts – Fonts Knowledge - Google Fonts</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#3D generation`, `#LLM code generation`, `#Blender`, `#procedural modeling`, `#game development`
+**Discussion**: The community response has been overwhelmingly positive, with many praising the formality slider as one of the coolest uses of variable font axes in recent memory. Users note its superiority over Comic Sans, with one remarking that their dyslexic daughter prefers it to Roboto. There is also a request for a monospaced version.
+
+**Tags**: `#typography`, `#variable-fonts`, `#design`, `#accessibility`, `#open-source`
 
 ---
 
 <a id="item-13"></a>
-## [Real-Time Game Generation from Images on Consumer GPUs](https://www.reddit.com/r/artificial/comments/1trs21e/deep_neural_network_that_turns_any_image_into_a/) ⭐️ 8.0/10
+## [Accenture to Acquire Ookla to Bolster Network Intelligence](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) ⭐️ 7.0/10
 
-A researcher has developed a 0.4B parameter transformer model that autoregressively generates playable game frames from a single image in real-time, conditioned on keyboard inputs, and runs on an RTX 5090 without fine-tuning. This approach demonstrates that complex interactive media can be generated locally on consumer hardware, bypassing the need for large datacenters, which could democratize game creation and real-time content generation. The model uses a causal transformer with KV caching for efficiency, avoids classifier-free guidance, and currently struggles with motion artifacts and context issues despite its speed.
+Accenture announced the acquisition of Ookla, the company behind Speedtest, Downdetector, Ekahau, and RootMetrics, in a deal valued at approximately $1.2 billion, aiming to enhance its network intelligence and AI capabilities for enterprise clients. This acquisition highlights the increasing value of crowdsourced network performance data for telecom operators and enterprises, and could reshape the competitive landscape in network analytics and consulting services. Ookla's platform processes over 250 million consumer-initiated speed tests per month, and its data products have been used by nearly every major telecom provider; Accenture previously acquired network analytics firm Umlaut, positioning it as a direct competitor.
 
-reddit · r/artificial · /u/lucidml_lover · May 30, 06:30
+hackernews · Garbage · May 30, 16:28 · [Discussion](https://news.ycombinator.com/item?id=48337987)
 
-**Background**: Autoregressive generation predicts each frame sequentially based on previous frames and inputs, similar to how large language models generate text. KV cache stores intermediate computations to speed up inference by avoiding recalculations. Classifier-free guidance is a technique that improves generation quality by combining conditional and unconditional predictions, but it was not used here.
+**Background**: Ookla is best known for Speedtest, a free internet speed measurement tool used by consumers globally. It also operates Downdetector, which tracks service outages based on user reports. Accenture is a multinational professional services company specializing in IT and consulting. This deal follows a trend of IT service firms acquiring specialized data platforms to offer integrated solutions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://magazine.sebastianraschka.com/p/coding-the-kv-cache-in-llms">Understanding and Coding the KV Cache in LLMs from Scratch</a></li>
-<li><a href="https://aws.amazon.com/what-is/autoregressive-models/">What are Autoregressive Models? - AR Models Explained - AWS</a></li>
-<li><a href="https://arxiv.org/abs/2207.12598">[2207.12598] Classifier-Free Diffusion Guidance</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ookla">Ookla</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Downdetector">Downdetector</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#neural-networks`, `#real-time-generation`, `#interactive-media`, `#transformer`, `#game-ai`
+**Discussion**: Commenters note that the acquisition is primarily a data play, with Ookla's real business being the sale of network performance data to telecom companies that pay six-figure annual fees. Some express surprise at the deal's size given the apparent simplicity of the products, while insiders confirm that Ookla's value lies in its extensive data platform and customer base.
+
+**Tags**: `#acquisition`, `#networking`, `#data-analytics`, `#telecom`, `#Speedtest`
 
 ---
 
 <a id="item-14"></a>
-## [Huawei Proposes Tao's Law for Time Scaling in Semiconductors](https://t.me/zaihuapd/41648) ⭐️ 8.0/10
+## [Comanche's 'Voxel' Rendering Was a Height Map, Not True Voxels](https://s-macke.github.io/VoxelSpace/) ⭐️ 7.0/10
 
-At the 2026 International Symposium on Circuits and Systems in Shanghai, Huawei announced 'Tao's Law,' a new semiconductor principle that replaces traditional geometric scaling with temporal scaling. The company has already designed and mass-produced 381 chips using this approach over six years and plans to release a new Kirin chip with 'logic folding' technology this fall. As Moore's Law nears physical limits, Tao's Law offers an alternative path for semiconductor progress, enabling continued improvements in transistor density and performance. This is the first time a Chinese company has proposed a new guiding principle for the global chip industry, potentially reshaping future chip design. Huawei projects that by 2031, chips based on Tao's Law could achieve transistor density equivalent to the 1.4nm node. The upcoming Kirin chip's LogicFolding technology is said to increase transistor count by 53.5%, reaching about 238 million transistors per mm², but faces challenges in manufacturing complexity and yield.
+A 2017 technical deep-dive into the Comanche game's terrain rendering algorithm resurfaces on Hacker News, clarifying that the 'Voxel Space' engine actually uses a height map with square-based prisms rather than true volumetric pixels. This demystifies a classic graphics technique, showcasing the ingenuity of early 3D games and providing a valuable learning resource for understanding the constraints and creativity in pre-GPU rendering. The algorithm renders terrain by iterating screen columns, stepping along a height map to draw vertical spans; the core logic fits in under 20 lines of code but cannot represent overhangs or caves.
 
-telegram · zaihuapd · May 30, 02:18
+hackernews · davikr · May 30, 14:25 · [Discussion](https://news.ycombinator.com/item?id=48336564)
 
-**Background**: Moore's Law has driven semiconductor progress by shrinking transistor dimensions (geometric scaling), but it is approaching atomic limits. Tao's Law proposes instead to optimize time-related parameters—such as transistor switching speed and circuit response times—across multiple levels from devices to systems. Huawei, facing US sanctions that restrict access to cutting-edge manufacturing, has developed this approach to continue advancing chip performance.
+**Background**: In 1992, NovaLogic's Comanche wowed players with its outdoor 3D landscapes, powered by the proprietary Voxel Space engine. True voxels are volumetric pixels that partition space uniformly, but the engine actually relied on a 2D height map—a grid where each cell stores an elevation. By drawing vertical columns of color, it created a convincing 2.5D illusion, similar to Doom's sector-based approach but optimized for vast terrains.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.globaltimes.cn/page/202605/1361841.shtml">Huawei unveils new semiconductor law , charting... - Global Times</a></li>
-<li><a href="https://www.eetimes.com/from-shrinking-transistors-to-compressing-time-deciphering-huaweis-τ-law/">From Shrinking Transistors to Compressing Time: Huawei’s τ Law- EE Times</a></li>
-<li><a href="https://www.gizmochina.com/2026/05/25/huawei-previews-kirin-2026-chip-with-higher-transistor-density-and-efficiency/">Huawei previews Kirin 2026 chip with higher transistor density and...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Voxel_Space">Voxel Space - Wikipedia</a></li>
+<li><a href="https://github.com/s-macke/VoxelSpace">GitHub - s-macke/VoxelSpace: Terrain rendering algorithm in ...</a></li>
+<li><a href="https://hellogithub.com/en/repository/s-macke/VoxelSpace">s-macke/VoxelSpace: Terrain Rendering Algorithm in... - HelloGitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductor`, `#Moore's Law`, `#Huawei`, `#innovation`, `#chip design`
+**Discussion**: Commenters highlight that the technique is a height map with prisms, not true voxels, akin to Doom maps. Nostalgia runs high, with stories of replicating the effect in Visual Basic and using the game's first mission as a metaphor for minimal testing. Several ports in C++ and AGS are shared, reflecting the algorithm's lasting influence.
+
+**Tags**: `#graphics`, `#algorithms`, `#retro-computing`, `#game-development`, `#height-map-rendering`
 
 ---
 
 <a id="item-15"></a>
-## [Domain Expertise, Not Coding, Is the Real Moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) ⭐️ 7.0/10
+## [Openrsync: OpenBSD's Secure rsync with Pledge and Unveil](https://github.com/kristapsdz/openrsync) ⭐️ 7.0/10
 
-A blog post argues that as AI commoditizes coding skills, deep domain expertise becomes the lasting competitive advantage, shifting the focus from technical ability to specialized knowledge. This perspective highlights a shift in the tech industry where understanding specific business contexts may outweigh pure coding ability, affecting hiring, career strategies, and how products are built. The post and comments note that AI enables domain experts to build apps via vibe coding, but lack of engineering rigor leads to flawed designs, and strategic decision-making remains a human bottleneck.
+The OpenBSD team has released openrsync, a new implementation of the rsync file synchronization tool that utilizes pledge(2) and unveil(2) system calls for enhanced security sandboxing, attracting attention as a more robust alternative amid concerns over recent code quality issues in the mainstream rsync project. By integrating OpenBSD's privilege separation and filesystem restriction mechanisms, openrsync significantly reduces the attack surface when handling untrusted data, offering a timely and hardened option for backup and synchronization tasks where security is critical. Openrsync is being developed as part of an RPKI validator project; it has some operational discrepancies from GNU rsync, such as a reported issue with remote file creation behavior; and its core security features rely on OpenBSD-specific syscalls, making porting to Linux non-trivial without equivalents.
 
-hackernews · aaronbrethorst · May 30, 20:40 · [Discussion](https://news.ycombinator.com/item?id=48340411)
+hackernews · sph · May 30, 10:51 · [Discussion](https://news.ycombinator.com/item?id=48334854)
 
-**Background**: A “moat” is a business’s sustainable competitive advantage. Vibe coding refers to non-programmers using AI to generate code by describing ideas, often resulting in poorly structured software. As large language models automate routine coding, unique expertise in a specific field (e.g., healthcare, fishing) becomes the critical edge.
+**Background**: rsync is a widely used utility for efficiently synchronizing files and directories between two locations over a network. OpenBSD's pledge(2) syscall allows a process to declare a limited set of allowed system operations, dropping privileges if other actions are attempted. unveil(2) restricts a process's filesystem visibility to a specified set of paths, preventing access to sensitive areas. These mechanisms provide strong defenses against exploitation if a program is compromised.
 
-**Discussion**: Some agree domain expertise has always been key for career growth, while others are fatigued by shifting advice on what matters with AI. A fishing app example underscores the necessity of domain knowledge, and one commenter notes the new bottleneck is strategic decision-making, not implementation.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://man.openbsd.org/pledge.2">pledge(2) - OpenBSD manual pages</a></li>
+<li><a href="https://man.openbsd.org/unveil">unveil (2) - OpenBSD manual pages</a></li>
+<li><a href="https://lwn.net/Articles/767137/">OpenBSD's unveil () - LWN.net</a></li>
 
-**Tags**: `#domain-expertise`, `#software-engineering`, `#AI`, `#opinion`, `#hackernews-discussion`
+</ul>
+</details>
+
+**Discussion**: Community comments are generally positive, welcoming openrsync as a needed alternative given recent regressions in mainstream rsync. Some users note behavioral differences, like unexpected directory creation, and point out the challenge of porting pledge/unveil to other operating systems. There's also mention that openrsync development is driven by an RPKI validator project, and someone highlights a Go reimplementation of rsync as another alternative.
+
+**Tags**: `#openbsd`, `#rsync`, `#security`, `#file-synchronization`, `#open-source`
 
 ---
 
 <a id="item-16"></a>
-## [New Curated Collection of Pandoc Templates Launched](https://pandoc-templates.org/) ⭐️ 7.0/10
+## [Pope Leo's First Encyclical Condemns Tech Messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism) ⭐️ 7.0/10
 
-A new website, pandoc-templates.org, has been launched featuring a curated collection of user-contributed Pandoc templates for generating polished documents in formats like PDF, DOCX, and HTML. This resource lowers the barrier for casual Pandoc users to produce professional-looking documents without mastering template syntax, potentially increasing Pandoc's adoption for academic, creative, and business writing. The collection includes templates for various output formats, addressing common pain points like table layout and font fallback, though some users note that underlying Pandoc limitations in PDF generation may still persist.
+Pope Leo has released his first encyclical, directly attacking the quasi-religious faith in technology and the messianic ambitions of some tech leaders. This encyclical brings a major religious voice into the global debate on AI ethics and control, potentially influencing public opinion and policy on the societal risks of unchecked technological development. The encyclical introduces the concept of 'technological messianism,' criticizing the belief that technology alone can solve humanity's problems, and implicitly targets tech CEOs who have spoken of creating gods or religions.
 
-hackernews · ankitg12 · May 30, 09:56 · [Discussion](https://news.ycombinator.com/item?id=48334515)
+hackernews · 1vuio0pswjnm7 · May 30, 10:30 · [Discussion](https://news.ycombinator.com/item?id=48334710)
 
-**Background**: Pandoc is a free, open-source universal document converter that transforms files between markup formats such as Markdown, LaTeX, and DOCX. Templates control the styling and structure of output documents, but creating them requires knowledge of Pandoc's templating language and target formats, which can be daunting. The new site collects ready-made templates to simplify this process.
+**Background**: An encyclical is a formal papal letter addressing significant issues. This is the first from Pope Leo, reflecting the Vatican's growing concern over AI and transhumanism. 'Technological messianism' describes the blind faith that technology will bring salvation, often promoted by Silicon Valley leaders.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Pandoc">Pandoc</a></li>
-<li><a href="https://pandoc.org/">Pandoc - index</a></li>
+**Discussion**: Hacker News commenters largely agree with the encyclical's critique, pointing out 'AI psychosis' among tech CEOs, framing the issue as a power struggle over technology control among technologists, users, governments, and religions, and referencing Peter Thiel's discussions on antichrists and existential risks.
 
-</ul>
-</details>
-
-**Discussion**: The Hacker News community reacted positively, with users sharing personal use cases like academic papers and novel formatting. Some praised the templates' visual appeal, while others noted persistent issues with PDF tables, Unicode glyph support, and page breaks. One commenter recommended Quarto as a higher-level alternative, and another highlighted related tools like Metanorma for standards-compatible output. Overall, the site was welcomed as a valuable resource despite Pandoc's known quirks.
-
-**Tags**: `#pandoc`, `#templates`, `#markdown`, `#document-conversion`, `#typesetting`
+**Tags**: `#technology ethics`, `#AI`, `#religion`, `#society`, `#pope`
 
 ---
 
 <a id="item-17"></a>
-## [Pope Leo's First Encyclical Criticizes Technological Messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism) ⭐️ 7.0/10
+## [Anthropic Details Multi-Layered Sandboxing for Claude Products](https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything) ⭐️ 7.0/10
 
-Pope Leo issued his first encyclical, sharply criticizing the worship of technology as a savior, a concept he calls 'technological messianism,' and challenging the notion that AI can solve all human problems. This has ignited debate on AI hype, corporate tech culture, and societal control. This papal critique brings moral and ethical weight to the ongoing debate over AI's role in society, emphasizing the risks of idolizing technology and ceding too much control to tech corporations, and could influence policy and public opinion on AI regulation. The encyclical tackles the growing trend of treating LLMs and AI as near-divine, referencing statements by tech leaders who speak about creating gods or religions around AI, and questions the concentration of technological power in the hands of a few corporations.
+Anthropic published a detailed technical overview of how it sandboxes Claude across products: Claude.ai uses gVisor, Claude Code uses Seatbelt (macOS) or Bubblewrap (Linux), and Cowork runs in a full VM. The post includes specific containment boundaries like process sandboxes, filesystem boundaries, and egress controls, plus lessons from past exfiltration vectors. This level of transparency sets a new standard for AI safety documentation, helping developers and security researchers trust and verify agent containment. It also informs the broader industry about practical sandboxing strategies for LLM-powered tools. Claude.ai relies on gVisor for process isolation; Claude Code locally uses OS-specific sandboxes (Seatbelt/Bubblewrap); Cowork uses full virtual machines. The post also details a past exfiltration path via the api.anthropic.com/v1/files endpoint, and highlights Anthropic's open-source sandbox-runtime (srt) tool now mature enough for use.
 
-hackernews · 1vuio0pswjnm7 · May 30, 10:30 · [Discussion](https://news.ycombinator.com/item?id=48334710)
+rss · Simon Willison · May 30, 21:36
 
-**Background**: An encyclical is a formal papal letter addressing important doctrinal or moral issues. 'Technological messianism' refers to the belief that technology will save humanity from its problems, often leading to uncritical acceptance of tech solutions. In recent years, AI has been described in religious terms by some tech leaders, with figures like Sam Altman and Dario Amodei speaking about creating gods or new religions, prompting concerns about the societal impact of such narratives.
+**Background**: Sandboxing isolates programs to limit what they can access. gVisor is a Google-developed container runtime that provides strong isolation by implementing many Linux system calls in a memory-safe language, unlike standard containers that share the kernel. Apple's Seatbelt is a kernel-level sandbox on macOS that restricts file and network access per policy. Bubblewrap is a lightweight, unprivileged sandbox for Linux often used by Flatpak. A full VM sandbox runs the entire operating system within a virtual machine, offering hardware-level isolation.
 
-**Discussion**: The Hacker News community reacted with a blend of irony and concern, mocking the religious overtones while seriously debating the psychosis of tech CEOs and the struggle between technologists, governments, and the public for control over technology. Commenters noted the dangerous conflation of AGI with divinity and the need for broader democratic oversight.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://gvisor.dev/">The Container Security Platform - gVisor</a></li>
+<li><a href="https://deepwiki.com/waywardgeek/gemini-cli/11.2-macos-seatbelt-sandboxing">macOS Seatbelt Sandboxing | waywardgeek/gemini-cli | DeepWiki</a></li>
+<li><a href="https://github.com/containers/bubblewrap">GitHub - containers/bubblewrap: Low-level unprivileged ...</a></li>
 
-**Tags**: `#ai`, `#ethics`, `#religion`, `#technology`, `#critique`
+</ul>
+</details>
+
+**Tags**: `#AI safety`, `#sandboxing`, `#Claude`, `#Anthropic`, `#security`
 
 ---
 
 <a id="item-18"></a>
-## [Running Python ASGI Apps in Browser with Pyodide and Service Workers](https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything) ⭐️ 7.0/10
+## [30B Model Surpasses 235B with 13.5K Synthetic Data in Open-Source Agent Training](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893825&idx=2&sn=2f1e5fdae519fe910eda7f64a58247ca) ⭐️ 7.0/10
 
-Simon Willison has found a way to run Python ASGI applications entirely in the browser using Pyodide and a Service Worker, overcoming the previous limitation where JavaScript in <script> tags would not execute. This was achieved by using a Service Worker to intercept requests and serve dynamic responses from the ASGI app running in Pyodide. This breakthrough enables fully functional client-side web applications in Python, including frameworks like Datasette, and allows plugins and JavaScript code to run correctly without a traditional server. It could expand the scope of Python in the browser for offline-first and privacy-preserving applications. The approach uses a Service Worker to intercept all HTTP requests and route them to an ASGI app running in a Pyodide Web Worker. This avoids the earlier method of fetching HTML and losing script execution, but introduces complexity in managing service worker installation and cross-origin isolation.
+Renmin University and Zhi Zhi Research Institute open-sourced the full-chain agent training pipeline, Claw Agent, including data, training, and evaluation. Their method uses only 13.5K synthetic data samples to train a 30-billion-parameter model, which outperforms a 235-billion-parameter model. This breakthrough could drastically lower the compute and data requirements for building powerful AI agents, making advanced agent capabilities accessible to more researchers and organizations. It also shows that small, curated synthetic datasets can rival massive models, potentially accelerating agent development across the industry. The pipeline covers data generation, model training, and evaluation stages. The 30B model surpasses the 235B model in performance, though specific benchmark details and task domains were not disclosed in the available information.
 
-rss · Simon Willison · May 30, 21:02
+rss · 量子位 · May 30, 04:00
 
-**Background**: Pyodide is a port of CPython to WebAssembly, allowing Python code to run in the browser. ASGI is a standard for asynchronous Python web servers and applications, the successor to WSGI. Service Workers are scripts that the browser runs in the background, separate from a web page, enabling features like offline support and request interception. Datasette Lite is a browser-based version of Datasette that originally used Web Workers but had issues with JavaScript in fetched HTML.
+**Background**: Large language models (LLMs) are often used as the reasoning core for AI agents, but fine-tuning them for agent tasks usually demands extensive high-quality data and substantial computational resources. Parameter count (e.g., 30B vs 235B) roughly indicates model capacity and resource needs—larger models are typically more capable but costlier. Synthetic data, artificially generated rather than human-annotated, helps when real-world data is scarce or expensive. Open-sourcing the entire pipeline (data, code, evaluation) fosters reproducibility and collective progress.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://pyodide.org/">Pyodide</a></li>
-<li><a href="https://en.wikipedia.org/wiki/ASGI">ASGI</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API">Service Worker API - Web APIs | MDN</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Pyodide`, `#WebAssembly`, `#Service Workers`, `#ASGI`, `#Datasette`
+**Tags**: `#agent`, `#synthetic-data`, `#open-source`, `#llm`, `#training`
 
 ---
 
 <a id="item-19"></a>
-## [Open-Source Claw Agent Pipeline: 30B Model Beats 235B](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893825&idx=2&sn=2f1e5fdae519fe910eda7f64a58247ca) ⭐️ 7.0/10
+## [Boston Children's Hospital uses AI for rare disease diagnosis](https://openai.com/index/boston-childrens-hospital) ⭐️ 7.0/10
 
-Renmin University and Zhizhi Research Institute have open-sourced Claw Agent, a comprehensive pipeline including synthetic data generation, training, and evaluation tools, which enabled a 30-billion-parameter model to outperform a 235-billion-parameter model using only 13.5K synthetic training examples. This demonstrates that efficient synthetic data and open-source tooling can drastically reduce the compute and data requirements for building powerful AI agents, potentially accelerating innovation and lowering entry barriers for researchers and startups. The pipeline leverages synthetic data to train agents, with the 30B model surpassing a 235B model; however, the announcement does not specify the exact agent tasks, benchmarks used, or architectural details beyond parameter counts.
+Boston Children's Hospital has employed OpenAI technology to diagnose over 40 rare disease cases, improving patient care and reducing operational burden. This demonstrates a significant practical application of AI in healthcare, potentially accelerating rare disease diagnosis, reducing costs, and setting a precedent for AI integration in clinical settings. The specific OpenAI models or methods used are not disclosed, limiting technical insight; diagnostic outcomes and integration details remain unclear.
 
-rss · 量子位 · May 30, 04:00
+rss · OpenAI Blog · May 29, 12:00
 
-**Background**: AI agents are systems that use large language models to perceive, plan, and execute actions in environments to achieve goals. Training them effectively often requires vast amounts of task-specific interaction data, which is expensive and time-consuming to collect. Synthetic data generation offers a way to create diverse, high-quality training examples programmatically, but its effectiveness depends on the generation methodology. Open-sourcing the entire pipeline promotes transparency and reproducibility.
+**Background**: Rare diseases are challenging to diagnose due to low prevalence and diverse symptoms, often requiring extensive specialist knowledge. AI can assist by analyzing large datasets of medical records and literature to identify patterns. OpenAI technology may involve language models for parsing clinical notes or knowledge retrieval.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.zdnet.com/article/will-synthetic-data-derail-generative-ais-momentum-or-be-the-breakthrough-we-need/">Will synthetic data derail generative AI 's momentum or be... | ZDNET</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Agents`, `#Synthetic Data`, `#Open Source`, `#Large Language Models`, `#Training Efficiency`
+**Tags**: `#healthcare`, `#AI`, `#diagnosis`, `#OpenAI`, `#rare-diseases`
 
 ---
 
 <a id="item-20"></a>
-## [AI Helps Boston Children's Diagnose 40+ Rare Diseases](https://openai.com/index/boston-childrens-hospital) ⭐️ 7.0/10
+## [Dell XPS Laptop with NVIDIA N1X Unveiled at Computex](https://www.reddit.com/r/LocalLLaMA/comments/1tsifgs/dell_confirms_xps_laptop_with_nvidia_n1x_at/) ⭐️ 7.0/10
 
-Boston Children's Hospital utilized OpenAI technology to diagnose over 40 rare disease cases, enhancing diagnostic accuracy and reducing operational burden. Rare disease diagnosis is notoriously difficult and time-consuming; this AI-assisted approach can shorten the diagnostic odyssey for patients and demonstrates a scalable model for integrating AI into clinical workflows. The hospital deployed OpenAI's advanced language models, though specific model versions, fine-tuning methods, or integration details were not disclosed in the announcement.
+Dell confirmed at Computex that its upcoming XPS laptop will feature the NVIDIA N1X processor, bringing the AI performance of the DGX Spark GB10 mini PC to a portable Windows form factor. This marks the first time NVIDIA's high-memory AI chip, previously only in the $4,000 DGX Spark desktop, is integrated into a mainstream consumer laptop, potentially democratizing local AI development and inference for developers and enthusiasts. The N1X is an ARM-based processor co-developed with MediaTek, featuring a rumored 10-core heterogeneous design and likely offering up to 128GB of unified memory similar to the DGX Spark's GB10, though exact specs and pricing are not yet detailed.
 
-rss · OpenAI Blog · May 29, 12:00
+reddit · r/LocalLLaMA · /u/fallingdowndizzyvr · May 31, 02:16
 
-**Background**: Rare diseases affect an estimated 30 million Americans but often take years to identify due to low prevalence and overlapping symptoms. Patients typically undergo numerous tests and specialist consultations. AI, particularly large language models, can rapidly analyze medical literature and patient data to suggest potential diagnoses, helping clinicians expedite care.
+**Background**: NVIDIA's DGX Spark is a $4,000 personal AI supercomputer with a GB10 Grace Blackwell Superchip and 128GB unified memory, ideal for running large AI models locally. The N1X is an upcoming ARM-based CPU designed with MediaTek specifically for laptops, bringing similar AI acceleration to a more portable form factor. Computex is a major annual tech trade show where Dell made this announcement.
 
-**Tags**: `#AI`, `#healthcare`, `#rare-diseases`, `#OpenAI`, `#diagnostics`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tomsguide.com/computing/cpus/nvidia-n1x-cpu-everything-we-know-so-far">Nvidia N1X and N1 CPU: Everything we know so far - Tom's Guide</a></li>
+<li><a href="https://www.digitalfoundry.net/news/2026/04/nvidia-is-making-laptops-now-n1n1x-leak-shows-a-128gb-monster-derived-from-their-dgx-spark-desktop-ai-workhorse">Nvidia Is Making Laptops Now: N1/N1X Leak Shows a 128GB ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#local-llm`, `#nvidia`, `#dell`, `#hardware`, `#ai-laptop`
 
 ---
 
 <a id="item-21"></a>
-## [OpenAI Launches Rosalind Biodefense for Biosecurity](https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense) ⭐️ 7.0/10
+## [125 tok/s for Qwen3.6 Q4_XL on 2x 4060 Ti: Insane Perf/Dollar](https://www.reddit.com/r/LocalLLaMA/comments/1tryp2q/125_toks_for_qwen36_q4xl_on_2x_4060ti_is_insane/) ⭐️ 7.0/10
 
-OpenAI has launched Rosalind Biodefense, a program that grants vetted developers and U.S. government partners trusted access to GPT‑Rosalind, its frontier reasoning model for life sciences, to build defensive applications against biological threats and improve pandemic preparedness. This initiative applies cutting‑edge AI directly to biosecurity, addressing urgent risks like AI‑enabled bioweapons while accelerating the development of countermeasures, diagnostics, and public health tools—potentially strengthening global resilience against pandemics and bioterrorism. GPT‑Rosalind is a frontier reasoning model specialized in drug discovery, genomics, and protein reasoning; access is restricted to vetted partners, with select U.S. federal agencies receiving early access.
+A user demonstrated achieving 125 tokens per second with the Qwen3.6 model using Q4_XL quantization on two NVIDIA RTX 4060 Ti GPUs, a setup costing under $1000 and consuming ~300W. This performance rivals far more expensive mini PCs from 2026, highlighting that cost-effective local LLM hosting with high throughput is attainable using older hardware and optimized software. The user employed llama.cpp's server-cuda13 container, split-mode tensor with 0.95/0.95 distribution, flash-attn enabled, and speculative decoding via draft-mtp with 2 draft tokens, targeting 150 t/s on CUDA 13.3.
 
-rss · OpenAI Blog · May 29, 03:00
+reddit · r/LocalLLaMA · /u/Chuyito · May 30, 12:31
 
-**Background**: Frontier AI models are advanced foundation models trained on massive datasets, capable of sophisticated reasoning. In the life sciences, such models can dramatically speed up research in drug discovery, genomics, and molecular biology. Biodefense encompasses measures to protect against biological threats, including pandemics and bioterrorism. OpenAI first unveiled GPT‑Rosalind in April 2026 as a dedicated life‑sciences model; this new program extends its use to high‑impact defensive applications.
+**Background**: Qwen3.6 is a recent large language model; Q4_XL is a 4-bit quantization variant designed to balance quality and speed. RTX 4060 Ti GPUs are mid-range cards from 2023 with 16GB VRAM each, costing around $500. llama.cpp is a popular C/C++ inference framework with CUDA support, and FlashAttention reduces memory overhead for transformer attention. Speculative decoding (draft-mtp) accelerates generation by predicting multiple tokens at once.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/">Strengthening societal resilience with Rosalind Biodefense | OpenAI</a></li>
-<li><a href="https://www.axios.com/2026/05/29/openai-biodefense-program">Exclusive: OpenAI launches biodefense program</a></li>
-<li><a href="https://www.rdworldonline.com/openai-launches-rosalind-biodefense-offers-federal-agencies-early-access-to-its-life-sciences-model/">OpenAI launches Rosalind Biodefense, offers federal agencies early access to its life-sciences model</a></li>
+<li><a href="https://github.com/ggml-org/llama.cpp/blob/master/tools/quantize/README.md">llama . cpp /tools/ quantize /README.md at master · ggml-org/ llama . cpp</a></li>
+<li><a href="https://en.wikipedia.org/wiki/FlashAttention">FlashAttention</a></li>
+<li><a href="https://singhajit.com/llm-inference-speed-comparison/">Local LLM Speed: RTX 3060, Qwen2 & Llama Benchmark Results...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#OpenAI`, `#biodefense`, `#frontier AI`, `#public health`, `#pandemic preparedness`
+**Tags**: `#local-llm`, `#performance`, `#llama.cpp`, `#qwen`, `#gpu`
 
 ---
 
 <a id="item-22"></a>
-## [NVIDIA Releases NVFP4-Quantized Qwen3.6-35B-A3B with 3x Compression](https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/) ⭐️ 7.0/10
+## [GPU Comparison for Local LLMs Counters Mac Hype with Data](https://www.reddit.com/r/LocalLLaMA/comments/1trkze4/i_compared_all_specs_of_the_major_gpusmachines/) ⭐️ 7.0/10
 
-NVIDIA has released Qwen3.6-35B-A3B-NVFP4, a post-training quantized version of Alibaba's 35B-parameter Qwen3.6-35B-A3B model, using its NVFP4 data type to reduce the model size by approximately 3.06x with negligible accuracy loss across multiple benchmarks. This release makes a powerful 35B MoE model feasible for local deployment on consumer GPUs by significantly reducing memory requirements, and it demonstrates NVFP4 as a practical low-precision format for LLM inference without substantial accuracy trade-offs. Only the weights and activations of linear operators in transformer blocks are quantized; the model is optimized for vLLM inference. Benchmarks show NVFP4 scores within 1% of BF16 on MMLU Pro, GPQA Diamond, and AIME 2025.
+A Reddit user posted a detailed side-by-side comparison of GPU specs for local LLM inference, highlighting cost-per-TFLOP and cost-per-GB metrics to challenge the common recommendation of Macs as the best value. This analysis provides a much-needed reality check, showing that compute performance and overall cost-efficiency are often overlooked in favor of memory bandwidth alone, which could lead to more balanced hardware choices for diverse LLM workloads. The table includes high-end GPUs like the RTX PRO 6000 Blackwell (463 FP16 TFLOPS, 96GB VRAM) and budget options such as a dual Tesla P100 setup (32GB at 700 GB/s for ~$200). It also notes that many GPUs support lower precision math (FP8/INT8) for 2-4x speedups.
 
-reddit · r/LocalLLaMA · /u/pmttyji · May 30, 17:49
+reddit · r/LocalLLaMA · /u/Ok_Top9254 · May 30, 00:44
 
-**Background**: Qwen3.6-35B-A3B is Alibaba's open-weight autoregressive language model with 35 billion parameters, optimized via a mixture-of-experts architecture where only 3B parameters are active per token. NVFP4 is NVIDIA's 4-bit floating-point quantization format, introduced for efficient low-precision inference, using non-power-of-two scaling factors for better accuracy. Post-training quantization (PTQ) reduces model size and latency without retraining, applied here using NVIDIA Model Optimizer.
+**Background**: For local LLM inference, GPU FP16 TFLOPS measures half-precision compute power, while memory bandwidth determines data transfer speed between VRAM and the processor. Metrics like $/TFLOP and $/GB help evaluate true cost efficiency. Newer architectures such as NVIDIA Blackwell bring higher TFLOPS and efficiency through specialized tensor cores.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://developer.nvidia.com/blog/introducing-nvfp4-for-efficient-and-accurate-low-precision-inference/">Introducing NVFP4 for Efficient and Accurate Low-Precision Inference | NVIDIA Technical Blog</a></li>
-<li><a href="https://huggingface.co/Qwen/Qwen3.6-35B-A3B">Qwen/Qwen3.6-35B-A3B · Hugging Face</a></li>
+<li><a href="https://gpupoet.com/gpu/ranking/ai/fp16-flops">GPU FP 16 TFLOPs Ranking — All GPUs Compared | GPU Poet</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/">The Engine Behind AI Factories | NVIDIA Blackwell Architecture</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#quantization`, `#Qwen`, `#NVFP4`, `#local-llm`, `#Nvidia`
+**Tags**: `#local-llm`, `#gpu-comparison`, `#hardware-benchmark`, `#cost-analysis`, `#performance-metrics`
 
 ---
 
 <a id="item-23"></a>
-## [125 tok/s Qwen3.6 q4xl on Dual RTX 4060 Ti GPUs](https://www.reddit.com/r/LocalLLaMA/comments/1tryp2q/125_toks_for_qwen36_q4xl_on_2x_4060ti_is_insane/) ⭐️ 7.0/10
+## [NVIDIA PiD Enables 64MP Tiled Image Upscaling with Creative Enhancement](https://www.reddit.com/r/StableDiffusion/comments/1ts3ofu/nvidia_pid_preview_inside_a_nextgen_tiled/) ⭐️ 7.0/10
 
-A user demonstrated achieving 125 tokens per second inference speed using the Qwen3.6 model with q4xl quantization on two Nvidia RTX 4060 Ti GPUs, running via llama.cpp. The setup reportedly costs under $1000 and draws about 300W, outperforming more expensive mini PCs. This highlights a cost-efficient path to local large language model inference, enabling high-speed performance on affordable consumer hardware. It challenges the need for expensive dedicated AI hardware and makes advanced AI more accessible. The setup uses llama.cpp server with CUDA 13, tensor parallelism (split 0.95 across GPUs), flash attention enabled, and speculative decoding with MTP. The model is a 27B parameter Qwen3.6 GGUF quantized to 4-bit using the Q4_K_XL variant, with a context size of 100,000 tokens.
+A detailed implementation demonstrates how NVIDIA's PiD diffusion decoder can be integrated into a tiled upscaling workflow to achieve up to 64 megapixel image enhancement, significantly surpassing typical 1K–4K resolution limits. The workflow focuses on creative repair and enhancement rather than pure photo restoration. This approach unlocks new levels of generative detail for AI artists and creators, enabling high-quality, large-format outputs that were previously impractical due to memory constraints. It showcases how novel diffusion decoders like PiD can streamline resolution enhancement within the Stable Diffusion ecosystem. The workflow uses tiling to overcome VRAM limitations, processing image chunks sequentially. PiD replaces a standard VAE decoder, directly predicting high-resolution pixels from latent representations in a single pass, but the method is tailored for creative edits rather than faithful photo restoration, as aggressive changes are harder to blend seamlessly.
 
-reddit · r/LocalLLaMA · /u/Chuyito · May 30, 12:31
+reddit · r/StableDiffusion · /u/TBG______ · May 30, 15:57
 
-**Background**: Quantization (e.g., Q4_K_XL) reduces model size by storing weights in lower precision, enabling large models to run on limited VRAM. llama.cpp is an open-source library optimized for efficient LLM inference on commodity hardware. Flash Attention is a memory-efficient implementation of the attention mechanism, reducing memory usage during inference. Dual GPU setups with tensor parallelism allow splitting model layers across GPUs to fit larger models.
+**Background**: NVIDIA PiD (Pixel-constrained Conditional Diffusion) is a plug-and-play diffusion decoder that unifies decoding and upsampling, turning latent representations into high-resolution pixels. Tiled upscaling processes an image in overlapping tiles to avoid exhausting GPU memory when handling large resolutions. These techniques build upon latent diffusion models like Stable Diffusion, which generate images in a compressed latent space before decoding.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://knightli.com/en/2026/04/05/llm-quantization-guide-fp16-q4-q2/">LLM Quantization Explained: How to Choose FP16, Q8, Q5, Q4, or Q2</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Llama.cpp">Llama.cpp</a></li>
+<li><a href="https://research.nvidia.com/labs/sil/projects/pid/">PiD: Fast and High-Resolution Latent Decoding with Pixel ...</a></li>
+<li><a href="https://github.com/nv-tlabs/PiD">GitHub - nv-tlabs/PiD: PiD: Fast and High-Resolution Latent ...</a></li>
+<li><a href="https://deepwiki.com/LucianoCirino/efficiency-nodes-comfyui/5.3-tiled-upscaling">Tiled Upscaling | LucianoCirino/efficiency-nodes-comfyui ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#local-llm`, `#llama.cpp`, `#performance-benchmark`, `#gpu-inference`, `#qwen-model`
+**Tags**: `#AI`, `#image upscaling`, `#Stable Diffusion`, `#NVIDIA`, `#deep learning`
 
 ---
 
 <a id="item-24"></a>
-## [Best Buy Clearance: RTX 5060 Ti 16GB $301, 5070 Ti 16GB $700](https://www.reddit.com/r/LocalLLaMA/comments/1tse423/psa_5060ti_16gb_for_30099_5070ti_16gb_for_69999/) ⭐️ 7.0/10
+## [Pixal3D Ported to Apple Silicon for Mac Users](https://www.reddit.com/r/StableDiffusion/comments/1ts82da/i_ported_pixal3d_to_apple_silicon/) ⭐️ 7.0/10
 
-Best Buy is offering in-store clearance prices for Nvidia RTX 5060 Ti 16GB at $300.99 and RTX 5070 Ti 16GB at $699.99, with an additional Nvidia promo for a free game. These discounts make 16GB VRAM GPUs more accessible for local LLM users, enabling larger models and better performance without cloud costs. Prices are in-store only, not available online, and may vary by location; however, if online stock exists, customers can order in-store for the clearance price using provided SKUs.
-
-reddit · r/LocalLLaMA · /u/fallingdowndizzyvr · May 30, 22:55
-
-**Background**: The RTX 50 series, built on Nvidia's Blackwell architecture, features 4th-gen RT cores and 5th-gen Tensor Cores, enhancing ray tracing and AI tasks. The 16GB VRAM is particularly valuable for running local language models, which require ample video memory to load large neural networks efficiently.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/RTX_5070_Ti">RTX 5070 Ti</a></li>
-<li><a href="https://www.reddit.com/r/LocalLLM/comments/1jcbu34/discussion_seriously_how_do_you_actually_use/">[Discussion] Seriously, How Do You Actually Use Local LLMs? - Reddit</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#GPU`, `#Deals`, `#Hardware`, `#Local LLM`, `#RTX 50 series`
-
----
-
-<a id="item-25"></a>
-## [Rapid-MLX Tops Local LLM Benchmark on M1 Max 64GB](https://www.reddit.com/r/LocalLLaMA/comments/1tsh5i6/benchmarked_inference_engines_for_m1_max/) ⭐️ 7.0/10
-
-A Reddit user benchmarked popular local LLM inference engines—rapid-mlx, omlx, mlx-lm, and ollama—on an M1 Max 64GB MacBook Pro using the Qwen3.5-4B model, and submitted results to the mlx-chronos community leaderboard. The comparison provides clear, practical guidance for Mac users choosing an inference backend, showing rapid-mlx delivers the best speed and memory efficiency, which can significantly improve local LLM workflows and reduce hardware constraints. Testing used the mlx-chronos tool with Qwen3.5-4B on an M1 Max 64GB; rapid-mlx not only led in tokens per second but also showed the lowest memory consumption, while ollama lagged in both metrics.
-
-reddit · r/LocalLLaMA · /u/jarec707 · May 31, 01:14
-
-**Background**: Apple Silicon Macs (M1–M4 series) use a unified memory architecture ideal for running large language models locally. MLX is Apple's machine learning framework optimized for these chips. Multiple inference servers have emerged, such as ollama (general-purpose), mlx-lm (official MLX package), omlx (with continuous batching and SSD caching), and rapid-mlx (focusing on speed). Benchmarks help users pick the right engine for their needs.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.reddit.com/r/LocalLLM/comments/1tbwduo/rapidmlx_review_4x_faster_local_llm_server_for_mac/">Rapid-MLX Review: 4x Faster Local LLM Server for Mac : r/LocalLLM - Reddit</a></li>
-<li><a href="https://github.com/jundot/omlx">GitHub - jundot/omlx: LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar</a></li>
-<li><a href="https://github.com/ml-explore/mlx-lm">GitHub - ml-explore/mlx-lm: Run LLMs with MLX · GitHub</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#local-llm`, `#inference`, `#benchmarking`, `#apple-silicon`, `#mlx`
-
----
-
-<a id="item-26"></a>
-## [NVIDIA PiD Powers Next-Gen Tiled Upscaler to 64MP Outputs](https://www.reddit.com/r/StableDiffusion/comments/1ts3ofu/nvidia_pid_preview_inside_a_nextgen_tiled/) ⭐️ 7.0/10
-
-A new workflow integrating NVIDIA's PiD model for tiled upscaling and enhancement has been previewed, achieving up to 64-megapixel outputs in a creative repair-and-enhance process that goes beyond typical 4K limits. This advancement allows Stable Diffusion users to generate ultra-high-resolution images with improved quality, opening up new possibilities for large-format art and professional image editing while demonstrating the practicality of PiD for efficient super-resolution. PiD reformulates latent-to-pixel decoding as a conditional diffusion model in pixel space, enabling fast and high-fidelity upscaling; the tiling approach breaks the image into manageable parts, but the creative modifications can make seamless blending challenging.
-
-reddit · r/StableDiffusion · /u/TBG______ · May 30, 15:57
-
-**Background**: PiD (Pixel Diffusion) is a NVIDIA research project that unifies decoding and upsampling into a single diffusion model operating directly in high-resolution pixel space. Tiled upscaling is a technique that processes an image in overlapping tiles to overcome GPU memory constraints, commonly used in Stable Diffusion. The 'creative repair-and-enhance' workflow described here means the model may creatively alter details beyond simple restoration, which affects blending consistency.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://research.nvidia.com/labs/sil/projects/pid/">PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion</a></li>
-<li><a href="https://huggingface.co/nvidia/PiD">nvidia/PiD · Hugging Face</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#upscaling`, `#image-enhancement`, `#stable-diffusion`, `#NVIDIA`, `#AI`
-
----
-
-<a id="item-27"></a>
-## [Pixal3D 3D Generation Model Ported to Apple Silicon](https://www.reddit.com/r/StableDiffusion/comments/1ts82da/i_ported_pixal3d_to_apple_silicon/) ⭐️ 7.0/10
-
-A Reddit user successfully ported the open-weights 3D generation model Pixal3D from Tencent ARC to Apple Silicon, enabling single-image 3D model creation on Macs, whereas the original was CUDA-only. This port expands access to high-quality 3D generation for Mac users, who are often excluded from CUDA-only AI tools, and exemplifies the open-source community's role in democratizing AI across hardware platforms. The port likely involves converting CUDA kernels to Metal Performance Shaders or PyTorch MPS backend; the model outputs GLB 3D meshes. No official integration or pull request has been mentioned.
+A Reddit user ported the CUDA-only Pixal3D model to Apple Silicon, allowing Mac users to generate 3D models from single images. This addresses a gap for Mac users who were previously unable to run the model, expanding accessibility and potential adoption of this 3D generation technology. Pixal3D is an open-weights model from Tencent ARC, and the port removes the strict CUDA dependency, though the post lacks technical details on the porting process.
 
 reddit · r/StableDiffusion · /u/Mazur92 · May 30, 18:49
 
-**Background**: Pixal3D is an open-weights generative model that creates 3D meshes from a single 2D image, developed by Tencent ARC. It originally required NVIDIA CUDA for GPU acceleration. Apple Silicon Macs use a proprietary GPU that does not support CUDA, necessitating ports to Metal or MPS backends. 'Open-weights' means the model parameters are publicly available for use and modification.
+**Background**: Pixal3D is a pixel-aligned 3D generation model that creates high-fidelity 3D assets from single 2D images. It was developed by Tencent ARC and released as open-weights, but initially only supported NVIDIA GPUs via CUDA. Apple Silicon refers to Apple's custom ARM-based processors (M1, M2, etc.) used in modern Macs, which do not natively support CUDA, necessitating a porting effort to leverage Metal or other APIs.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://pixal3d.ai/">Pixal 3 D Pixel-Aligned AI 3 D Generator | Image to GLB</a></li>
 <li><a href="https://pixal-3d.com/">Pixal 3 D - Pixel-Aligned High-Fidelity Image to 3 D Generation</a></li>
-<li><a href="https://opensource.org/ai/open-weights">Open Weights: not quite what you've been told - Open Source Initiative</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CUDA">CUDA</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Apple Silicon`, `#3D Generation`, `#Model Porting`, `#Stable Diffusion`, `#Open Source`
+**Tags**: `#machine-learning`, `#3d-generation`, `#apple-silicon`, `#open-source`, `#cross-platform`
+
+---
+
+<a id="item-25"></a>
+## [Proposal: Training Flow Models in Oklab Perceptual Color Space](https://www.reddit.com/r/StableDiffusion/comments/1ts994w/atttn_black_forest_labs_and_other_researchers/) ⭐️ 7.0/10
+
+Researchers from Black Forest Labs and others have put forward a proposal to fine-tune generative models using the Oklab color space. This approach aims to straighten flow trajectories and disentangle lightness from chroma, reducing hue drift and enabling faster, more stable image generation. If validated, this technique could allow generative image models to produce cleaner, more controllable color with fewer inference steps, benefiting both creators and researchers. It addresses a fundamental limitation in current models trained on sRGB, a color space not optimized for machine learning, and aligns with the broader trend of incorporating perceptual principles into AI. The proposal leverages Oklab's perceptual uniformity so that Euclidean distance corresponds to perceived color difference, and uses β-VAE disentanglement with a ΔE(Oklab) loss to separate lightness and chroma. It draws on prior work like PaletteDiffusion and ColorCond, but has not yet been empirically tested, remaining a theoretical blueprint.
+
+reddit · r/StableDiffusion · /u/crantob · May 30, 19:36
+
+**Background**: Traditional image generators are trained in sRGB, a color standard from the 1990s CRT era that entangles luminance and chrominance, forcing models to learn complex color corrections. Oklab (introduced in 2020) is a perceptual color space designed so that numerical distance matches human color perception, making it ideal for gradient-based optimization. Flow matching is a recent generative modeling framework that learns straight probability paths between noise and data, reducing the need for many sampling steps. The proposal suggests training in Oklab could simplify these paths and allow independent control of lightness and color.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Oklab_color_space">Oklab color space - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2210.02747">[2210.02747] Flow Matching for Generative Modeling - arXiv.org</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value/oklab">oklab () CSS function - CSS | MDN - MDN Web Docs</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#generative-models`, `#color-science`, `#stable-diffusion`, `#machine-learning`, `#research-proposal`
+
+---
+
+<a id="item-26"></a>
+## [Llama Surgery: Continuous Sparsification via Differentiable Ultrametric Topology](https://www.reddit.com/r/artificial/comments/1tshkls/llama_surgery_continuous_sparsification_of/) ⭐️ 7.0/10
+
+Llama Surgery introduces a method to inject learned block-sparse attention topologies into frozen Llama 3.1 8B models without retraining, using ultrametric tree routing and a Continuous Logit Homotopy that preserves the pre-trained manifold, while resolving attention sink and gradient collapse failure modes. This method reduces attention inference complexity to O(N), enabling more efficient large language model deployment without sacrificing output quality, and represents the first differentiable topology injection into a production-scale LLM. It employs factorized Gumbel-Softmax routing over a Bruhat-Tits p-adic tree, a Straight-Through Estimator to bypass discrete masking gradient collapse, and permanently anchors the first token to prevent attention sink. A custom Triton kernel with pipelining executes the block-sparse prefill phase.
+
+reddit · r/artificial · /u/LooseSwing88 · May 31, 01:34
+
+**Background**: Ultrametric spaces are hierarchical structures with a stronger triangle inequality, underlying the Bruhat-Tits p-adic tree used for routing topology. Homotopy provides a continuous deformation between functions, here ensuring a smooth transition from dense to sparse attention. Llama 3.1 8B is a widely‑used open‑source language model with full dense attention.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Building_(mathematics)">Building (mathematics) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ultrametric_space">Ultrametric space - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Homotopy">Homotopy - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#machine-learning`, `#natural-language-processing`, `#attention-mechanism`, `#sparsity`, `#model-compression`
+
+---
+
+<a id="item-27"></a>
+## [mlx-code: Local LLM Coding Agent for Apple Silicon](https://www.reddit.com/r/artificial/comments/1tshkvj/mlxcode_local_llm_coding_agent_for_apple_silicon/) ⭐️ 7.0/10
+
+mlx-code is a new lightweight local LLM coding agent designed for Apple Silicon that uses parallel subagents to manage context efficiently, aiming to scale to larger coding tasks without context bloat. It addresses the problem of context rot in LLMs by isolating tasks into focused subagents, enabling more reliable local code generation and assistance on Macs, which is significant for privacy-conscious developers and offline use. Limited technical details are provided, but from the MLX framework context, it likely leverages MLX for fast inference on Apple Silicon (e.g., 30–60 tokens/s for 7B models). The subagent architecture is similar to patterns used in other AI coding tools, splitting work to avoid long-context degradation.
+
+reddit · r/artificial · /u/Turbulent-Guest154 · May 31, 01:35
+
+**Background**: MLX is an array framework optimized for machine learning on Apple silicon, leveraging Metal for GPU acceleration. Subagents are autonomous workers spawned by a parent agent to handle scoped tasks and return results, helping to isolate context. Context rot refers to the performance degradation of LLMs as input context length increases, which subagents help mitigate by keeping contexts focused.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://mlx-framework.org/">MLX</a></li>
+<li><a href="https://nevo.systems/blogs/nevo-journal/ai-subagents">AI Subagents: What They Are, How They Work & Why They Matter ...</a></li>
+<li><a href="https://www.trychroma.com/research/context-rot">Context Rot: How Increasing Input Tokens Impacts LLM Performance | Chroma</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#local-llm`, `#coding-agent`, `#apple-silicon`, `#mlx`, `#subagent`
 
 ---
 
 <a id="item-28"></a>
-## [Proposal: Train Flow Models in Oklab Color Space](https://www.reddit.com/r/StableDiffusion/comments/1ts994w/atttn_black_forest_labs_and_other_researchers/) ⭐️ 7.0/10
+## [Transformer-Based NN Turns Images into Playable Games on Consumer GPUs](https://www.reddit.com/r/artificial/comments/1trs21e/deep_neural_network_that_turns_any_image_into_a/) ⭐️ 7.0/10
 
-A proposal suggests training flow-based generative models directly in the Oklab perceptually uniform color space to simplify latent manifolds, reduce color artifacts, and enable disentangled chromatic control. If validated, this approach could significantly improve training efficiency and output quality in image generation models, reducing hue drift and enabling precise color steering without architectural overhauls. The method combines rectified flow matching with Oklab's perceptual uniformity to straighten ODE trajectories, uses β-VAE with ΔE(Oklab) loss for latent disentanglement, and suggests harmonic conditioning for color control; however, it currently lacks experimental validation.
+A Reddit user demonstrated a novel small transformer model (0.4B parameters) trained from scratch that converts any static image into a real-time playable game on a consumer-grade RTX 5090 GPU, using autoregressive decoding with KV caching. This approach challenges the reliance on large-scale video generation models and datacenters, showing that small, custom-trained transformers can enable real-time interactive simulation on consumer hardware, potentially democratizing game content creation and real-time AI applications. The 0.4B model exhibits issues like poor motion quality and visual flashes, and uses BF16 without quantization. The next iteration will be 0.8B parameters. Notably, the model processes keyboard inputs directly without classifier-free guidance.
 
-reddit · r/StableDiffusion · /u/crantob · May 30, 19:36
+reddit · r/artificial · /u/lucidml_lover · May 30, 06:30
 
-**Background**: Oklab is a perceptually uniform color space designed so Euclidean distance approximates perceived color difference, improving over sRGB and CIELAB. Flow matching is a recent generative modeling paradigm that trains continuous normalizing flows by regressing vector fields, enabling efficient sampling. β-VAE is a variant of variational autoencoders that encourages disentangled latent factors via a tunable β weight on KL divergence.
+**Background**: Transformer models, originally designed for natural language processing, excel at sequence prediction and are now used for image and video generation. KV caching stores intermediate key-value states to avoid recomputation, speeding up autoregressive generation where each output is conditioned on previous ones. Classifier-free guidance is a technique commonly used in diffusion models to improve output coherence by amplifying the prompt's effect, which was not used here.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Oklab_color_space">Oklab color space</a></li>
-<li><a href="https://arxiv.org/abs/2210.02747">[2210.02747] Flow Matching for Generative Modeling</a></li>
-<li><a href="https://openreview.net/forum?id=Sy2fzU9gl">beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework | OpenReview</a></li>
+<li><a href="https://medium.com/@joaolages/kv-caching-explained-276520203249">Transformers KV Caching Explained | by João Lages | Medium</a></li>
+<li><a href="https://stats.stackexchange.com/questions/287013/what-is-an-autoregressive-decoder">What is an autoregressive decoder? - Cross Validated</a></li>
+<li><a href="https://arxiv.org/abs/2207.12598">[2207.12598] Classifier-Free Diffusion Guidance</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#generative-ai`, `#stable-diffusion`, `#color-space`, `#flow-matching`, `#latent-representation`
-
----
-
-<a id="item-29"></a>
-## [System Prompt for LLM to Handle Danbooru Tags and Natural Language in Anima Image Generation](https://www.reddit.com/r/StableDiffusion/comments/1tsi95z/anima_prompt_skill_systempromt/) ⭐️ 7.0/10
-
-A custom system prompt was introduced that turns an LLM into a specialist capable of preserving Danbooru tags, integrating natural language, and preventing the alteration of wildcards in prompts for Anima-style image generation models. This solution addresses a key pain point for Stable Diffusion power users who rely on both precise tag control and spatial descriptions, improving prompt reliability and image composition without manual intervention. The prompt enforces tag priority, adds only spatial relationships, outputs a single English paragraph, and fully preserves wildcard syntax like {standing, sitting} without expansion.
-
-reddit · r/StableDiffusion · /u/mayasoo2020 · May 31, 02:08
-
-**Background**: Danbooru tags are comma-separated keywords used to annotate and search anime-style images. Wildcards (e.g., {A|B}) allow random selection during prompt processing to add variation. Anima is a text-to-image model that accepts both tags and natural language, but LLMs often mishandle them by expanding wildcards or dropping tags.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://danbooru.donmai.us/tags">Tags - Danbooru</a></li>
-<li><a href="https://github.com/vladmandic/sdnext/wiki/Wildcards">Wildcards · vladmandic/sdnext Wiki - GitHub</a></li>
-<li><a href="https://huggingface.co/circlestone-labs/Anima">circlestone-labs/Anima · Hugging Face</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Stable Diffusion`, `#prompt engineering`, `#LLM`, `#Danbooru`, `#system prompt`
-
----
-
-<a id="item-30"></a>
-## [Pope Leo XIV Calls on EU to Disarm Lethal AI Weapons](https://www.reddit.com/r/artificial/comments/1ts8trn/why_pope_leo_is_right_to_call_on_eu_to_disarm/) ⭐️ 7.0/10
-
-Pope Leo XIV has issued a public call for the European Union to disarm lethal AI weapons, marking a high-profile moral intervention in the debate over autonomous weapons. His intervention underscores the ethical urgency of banning lethal autonomous weapons and may accelerate EU regulatory efforts, given the Vatican's global influence. The appeal specifically targets the EU, urging policy measures to ensure human control over lethal decisions, amid ongoing international negotiations on autonomous weapons.
-
-reddit · r/artificial · /u/EUobs · May 30, 19:19
-
-**Background**: Lethal autonomous weapons (LAWs) are systems that can select and engage targets without human intervention, raising ethical and legal concerns. The Vatican has long advocated for a ban on such weapons, arguing they violate international humanitarian law. The European Union has been debating regulations around AI in warfare, with some member states pushing for stricter controls.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Lethal_autonomous_weapon">Lethal autonomous weapon</a></li>
-<li><a href="https://disarmament.unoda.org/en/our-work/emerging-challenges/lethal-autonomous-weapon-systems">Lethal Autonomous Weapon Systems | United Nations Office for Disarmament Affairs</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI ethics`, `#lethal autonomous weapons`, `#EU policy`, `#arms control`, `#Pope`
-
----
-
-<a id="item-31"></a>
-## [Llama Surgery: Sparse Attention via Differentiable Ultrametric Topology](https://www.reddit.com/r/artificial/comments/1tshkls/llama_surgery_continuous_sparsification_of/) ⭐️ 7.0/10
-
-Llama Surgery introduces a novel method to replace standard dense attention in pre-trained LLaMA models with block-sparse attention without any retraining, by using a Dynamic Topology Router based on Bruhat-Tits p-adic trees and factorized Gumbel-Softmax routing. This approach significantly reduces the computational complexity of attention to O(N) theoretically, enabling efficient inference for large language models while preserving output quality, which is crucial for cost-effective deployment. Key innovations include a Continuous Logit Homotopy to preserve the pre-trained manifold at initialization, a Straight-Through Estimator bridge to handle gradient flow through discrete masks, and anchoring Token 0 to prevent Attention Sink instability; a custom Triton kernel was implemented for Ampere and Hopper GPUs.
-
-reddit · r/artificial · /u/LooseSwing88 · May 31, 01:34
-
-**Background**: Bruhat-Tits trees are hierarchical structures from p-adic geometry that provide a natural ultrametric topology. Ultrametric spaces satisfy a strong triangle inequality, making them suitable for hierarchical clustering and routing. Homotopy methods gradually transform a simple initial problem into the desired complex one; here, a continuous homotopy ensures a smooth transition from dense to sparse attention without disrupting the pre-trained representations.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://ncatlab.org/nlab/show/Bruhat-Tits+tree">Bruhat-Tits tree in nLab</a></li>
-<li><a href="https://proceedings.mlr.press/v202/lin23n/lin23n.pdf">[PDF] Continuation Path Learning for Homotopy Optimization</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#sparse attention`, `#language models`, `#differentiable routing`, `#efficient inference`, `#research paper`
-
----
-
-<a id="item-32"></a>
-## [From Summaries to Actions: Desktop Agent Breaks AI Skepticism](https://www.reddit.com/r/artificial/comments/1tsg02o/the_take_that_ai_doesnt_do_anything_useful_yet/) ⭐️ 7.0/10
-
-A Reddit user shared that AI became useful once they replaced a summary-only chatbot with a desktop agent that reads Gmail, Calendar, and Slack and executes tasks across apps, with permission prompts for control. This highlights a broader shift toward agentic AI that takes direct action, moving beyond text generation to completing real-world workflows, which could significantly boost productivity and enterprise adoption. The agent automated a Monday review that previously required manual copy-pasting between six apps; it requests user permission before each action, balancing autonomy with control.
-
-reddit · r/artificial · /u/Deep_Ad1959 · May 31, 00:19
-
-**Background**: Traditional chatbots like GPT-4 generate text but cannot interact with other software; desktop agents use computer-use capabilities to control GUIs, read screens, and perform multi-step actions. Agentic AI enables these systems to pursue goals using tools under human-defined constraints, as seen in OpenAI's Computer-Using Agent and Microsoft's Copilot Studio. This evolution addresses the limitation that AI's output requires manual execution.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Agentic_AI">Agentic AI</a></li>
-<li><a href="https://openai.com/index/computer-using-agent/">Computer-Using Agent | OpenAI</a></li>
-<li><a href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/computer-use">Automate web and desktop apps with computer use - Microsoft Copilot Studio | Microsoft Learn</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#agentic AI`, `#desktop agents`, `#AI utility`, `#chatbots vs agents`, `#user experience`
-
----
-
-<a id="item-33"></a>
-## [SpaceX Wins $4.16B Golden Dome Satellite Contract](https://www.bloomberg.com/news/articles/2026-05-29/spacex-wins-4-billion-contract-for-us-golden-dome-satellites) ⭐️ 7.0/10
-
-SpaceX has won a $4.16 billion contract from the U.S. Space Force to develop a satellite-based system for tracking missiles and aerial threats under the Golden Dome program. This contract significantly expands SpaceX's role in national defense and enhances the Golden Dome system's ability to monitor threats from space, reducing reliance on ground-based sensors. The system will integrate space-based sensors, communications, and ground processing; SpaceX is also developing a space-based interceptor prototype and participating in the software consortium.
-
-telegram · zaihuapd · May 30, 01:53
-
-**Background**: The Golden Dome program is a planned multi-layer missile defense system for the United States, aimed at detecting and destroying ballistic and hypersonic threats. It combines various capabilities to create a comprehensive defense architecture, as outlined by the U.S. government.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Golden_Dome_(missile_defense_system)">Golden Dome (missile defense system) - Wikipedia</a></li>
-<li><a href="https://www.lockheedmartin.com/en-us/capabilities/missile-defense/golden-dome-missile-defense.html">Golden Dome for America | Lockheed Martin</a></li>
-<li><a href="https://www.congress.gov/crs-product/IF13115">Defense Primer: The Golden Dome for America - Congress.gov</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#SpaceX`, `#defense contracts`, `#satellite tracking`, `#missile defense`, `#space technology`
-
----
-
-<a id="item-34"></a>
-## [Codex Gains Cross-Device Remote Control and Enhanced Search](https://developers.openai.com/codex/changelog#codex-2026-05-28-app) ⭐️ 7.0/10
-
-Codex can now run in the foreground on Windows to observe, click, and type in desktop applications, and supports remote control from iOS, Android, and Mac to launch and monitor tasks on Windows. It also adds thread coordination for local projects, expands search to include conversation content and Git branch names, and introduces a redesigned profile page with usage statistics and token activity. This update significantly enhances developer productivity by enabling seamless cross-device workflows and better collaboration. It allows managing and monitoring coding sessions from any device, and the improved search makes navigating project history easier. The remote control feature requires Codex to run on Windows with foreground access. Thread coordination allows adding independent background threads for multitasking. The expanded search now indexes conversation content and Git branch names, not just code. The new profile page tracks detailed usage metrics including token activity.
-
-telegram · zaihuapd · May 30, 10:37
-
-**Background**: Codex is OpenAI's AI-powered developer tool that assists with coding by understanding natural language and interacting with codebases. Token activity refers to the amount of text (broken into tokens) processed by AI models; tokens are the basic units, typically words or subwords. Thread coordination in computing involves managing multiple concurrent execution threads to improve performance and responsiveness.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Thread_(computing)">Thread (computing) - Wikipedia</a></li>
-<li><a href="https://learn.microsoft.com/en-us/dotnet/ai/conceptual/understanding-tokens">Understanding tokens - .NET | Microsoft Learn</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#OpenAI`, `#Codex`, `#developer-tools`, `#remote-control`, `#productivity`
-
----
-
-<a id="item-35"></a>
-## [Malicious Websites Use SSD Timing to Infer User Activity](https://futurism.com/future-society/websites-spying-solid-state-drive) ⭐️ 7.0/10
-
-Researchers disclosed a new no-interaction attack called FROST that allows malicious websites to infer a user's concurrent browser activities or app usage by measuring SSD read/write timing via the browser's Origin Private File System (OPFS) API. This side-channel attack achieves high accuracy (88.95% for websites, 95.83% for apps) without requiring software installation or user clicks, posing a significant privacy threat that could enable targeted profiling and surveillance across the web. The attack exploits OPFS to bypass cache and directly access SSD timing, tested on Mac and Linux but likely effective on Windows; closing tabs promptly after use can reduce the risk.
-
-telegram · zaihuapd · May 31, 01:55
-
-**Background**: The Origin Private File System (OPFS) is a browser API for storing files privately per origin, often used for high-performance web apps like video editors. Side-channel attacks infer secrets without breaking cryptography by measuring physical characteristics like timing or power. Here, the timing of SSD operations reveals disk activity patterns from other tabs, which can be correlated with known website or app footprints.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://rxdb.info/rx-storage-opfs.html">Origin Private File System (OPFS) Database with ...</a></li>
-<li><a href="https://hothardware.com/news/frost-side-channel-attack-turns-ssd-activity-into-a-new-browser-privacy-nightmare">FROST Side-Channel Attack Turns SSD Activity Into A New Browser Privacy Nightmare</a></li>
-<li><a href="https://www.techradar.com/pro/security/websites-are-using-this-frost-y-new-technique-to-spy-on-users-by-snooping-on-their-ssd-activity">Websites are using this FROST-y new technique to spy on users by snooping on their SSD activity | TechRadar</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#cybersecurity`, `#side-channel`, `#privacy`, `#browser security`, `#SSD`
+**Tags**: `#deep-learning`, `#game-generation`, `#real-time-simulation`, `#transformer-models`, `#consumer-gpu`
 
 ---
