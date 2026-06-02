@@ -5,364 +5,401 @@ date: 2026-06-02
 lang: en
 ---
 
-> From 117 items, 40 important content pieces were selected
+> From 110 items, 38 important content pieces were selected
 
 ---
 
-1. [Meta AI Support Bot Exploited to Bypass 2FA and Hijack Accounts](#item-1) ⭐️ 9.0/10
-2. [NVIDIA Unveils Vera Rubin Platform, $1 Trillion Sales Projected by 2027](#item-2) ⭐️ 9.0/10
-3. [Stanford CS336 AI Agent Guidelines Spark Debate](#item-3) ⭐️ 8.0/10
-4. [Stanford CS336: Language Modeling from Scratch Course](#item-4) ⭐️ 8.0/10
-5. [Geology Mimics Biochemistry, Reshaping Origin-of-Life Research](#item-5) ⭐️ 8.0/10
-6. [Nvidia Unveils RTX Spark Arm CPU for Windows Laptops](#item-6) ⭐️ 8.0/10
-7. [Anthropic Confidentially Files Draft S-1 for IPO](#item-7) ⭐️ 8.0/10
-8. [Malicious npm Packages Compromise Red Hat Cloud Services](#item-8) ⭐️ 8.0/10
-9. [Open and Closed AI Models Follow Divergent Value Exponentials](#item-9) ⭐️ 8.0/10
-10. [OpenAI Frontier Models and Codex Now Available on AWS](#item-10) ⭐️ 8.0/10
-11. [Intel Unveils Crescent Island GPU with 480GB LPDDR5X VRAM](#item-11) ⭐️ 8.0/10
-12. [MLE-Bench Gains Attributed to Better Models and More Search](#item-12) ⭐️ 8.0/10
-13. [Nvidia Releases 64B-Param Cosmos3-Super-Text2Image Model](#item-13) ⭐️ 8.0/10
-14. [Large-Scale Study Exposes 45% Bias in LLM Hiring Evaluations](#item-14) ⭐️ 8.0/10
-15. [Princeton Study: Data Leakage Found in Nearly 300 AI Papers](#item-15) ⭐️ 8.0/10
-16. [Cognitive Debt: The Invisible Risk of AI-Assisted Understanding](#item-16) ⭐️ 8.0/10
-17. [Samsung Memory Chip Prices Surge Up to 60% Amid AI Data Center Boom](#item-17) ⭐️ 8.0/10
-18. [Verily's Debug Project: Sterile Mosquitoes Against Disease Vectors](#item-18) ⭐️ 7.0/10
-19. [Should You Normalize RGB by 255 or 256?](#item-19) ⭐️ 7.0/10
-20. [Run Windows GOG DOS Games on Apple Silicon Macs](#item-20) ⭐️ 7.0/10
-21. [The Pirate Bay Remains Resilient 20 Years After the Raid](#item-21) ⭐️ 7.0/10
-22. [AI Assistants as 'Thermonuclear ADHD Amplifier' Raise Concern](#item-22) ⭐️ 7.0/10
-23. [xAI's Grok Imagine: The Underrated Video Agent Model](#item-23) ⭐️ 7.0/10
-24. [AI Weekly: Anthropic IPO Filing, NVIDIA Ships New Stack](#item-24) ⭐️ 7.0/10
-25. [OpenAI Breaks Ground on 1GW Data Center in Michigan](#item-25) ⭐️ 7.0/10
-26. [llama: limit max outputs of llama_context to save 1.2GB VRAM](#item-26) ⭐️ 7.0/10
-27. [JetBrains Open-Sources Mellum2: A Fast 12B AI Model](#item-27) ⭐️ 7.0/10
-28. [Real-Time Multilingual ASR Routes Audio Between Lightweight Monolingual Models](#item-28) ⭐️ 7.0/10
-29. [Why Top LightGBM Feature by Importance Worsened Predictions](#item-29) ⭐️ 7.0/10
-30. [Cosmos3-Super-Image2Video Runs Locally on Single RTX PRO 6000 96GB](#item-30) ⭐️ 7.0/10
-31. [Nvidia Releases 64B-Param Cosmos3-Super Image-to-Video Model](#item-31) ⭐️ 7.0/10
-32. [ByteDance Releases Bernini: Unified Video Model on Wan-2.2](#item-32) ⭐️ 7.0/10
-33. [62 Samplers and 16 Schedulers Rated for WAN 2.1 Image Quality](#item-33) ⭐️ 7.0/10
-34. [NVIDIA's Cosmos Omnimodel Family: Edge, Nano, Super Variants](#item-34) ⭐️ 7.0/10
-35. [Can AI Build Its Own Tools? A Local Model Test](#item-35) ⭐️ 7.0/10
-36. [NVIDIA Releases 32B Open Reasoning Model for Robotaxis](#item-36) ⭐️ 7.0/10
-37. [GitHub Copilot to usage-based billing June 2026; GPT-5.5 57x for legacy](#item-37) ⭐️ 7.0/10
-38. [NVIDIA DLSS 4.5 Ray Reconstruction for All RTX GPUs in August](#item-38) ⭐️ 7.0/10
-39. [Banks Stop Reporting Housing Loan Concentration Data](#item-39) ⭐️ 7.0/10
-40. [California Assembly Passes Bill to Keep Online Games Playable After Shutdown](#item-40) ⭐️ 7.0/10
+1. [Alphabet announces $80B equity capital raise for AI infrastructure](#item-1) ⭐️ 10.0/10
+2. [Meta's AI Support Bot Exploited for Instagram Account Takeovers](#item-2) ⭐️ 9.0/10
+3. [Can IPOs of Anthropic, SpaceX, OpenAI Succeed?](#item-3) ⭐️ 9.0/10
+4. [Nvidia Unveils Arm-Based RTX Spark CPU for Windows Laptops](#item-4) ⭐️ 9.0/10
+5. [NVIDIA Unveils Cosmos 3, Nemotron 3 Ultra, and RTX Spark](#item-5) ⭐️ 9.0/10
+6. [NVIDIA Releases Cosmos 3 Omnimodal World Models on HF](#item-6) ⭐️ 9.0/10
+7. [OpenAI Frontier Models and Codex Now Available on AWS](#item-7) ⭐️ 8.0/10
+8. [Stanford CS336 Introduces CLAUDE.md for AI Agent Guidelines](#item-8) ⭐️ 8.0/10
+9. [Stanford's CS336 Course Teaches Language Modeling from Scratch](#item-9) ⭐️ 8.0/10
+10. [Should you normalize RGB values by 255 or 256?](#item-10) ⭐️ 8.0/10
+11. [Geological Processes Can Mimic Biochemical Ones, Blurring Life's Boundaries](#item-11) ⭐️ 8.0/10
+12. [Open and Closed AI Models on Diverging Exponential Paths](#item-12) ⭐️ 8.0/10
+13. [Ethan He Discusses Video Agents and Grok Imagine](#item-13) ⭐️ 8.0/10
+14. [Intel Launches Crescent Island GPU with up to 480GB VRAM at Computex 2026](#item-14) ⭐️ 8.0/10
+15. [PixelDiT: 1.3B No-VAE Diffusion Transformer Fits 4GB VRAM, Diffusers-Compatible](#item-15) ⭐️ 8.0/10
+16. [Study finds 45% silent bias in LLM resume screening](#item-16) ⭐️ 8.0/10
+17. [Cognitive debt might be the most underrated problem AI is creating](#item-17) ⭐️ 8.0/10
+18. [NVIDIA Unveils 32B Open Reasoning Model for Robotaxis](#item-18) ⭐️ 8.0/10
+19. [Samsung Hikes DDR5 Memory Prices Up to 60% Amid AI Data Center Boom](#item-19) ⭐️ 8.0/10
+20. [macOS Must Restore the Spaces Grid](#item-20) ⭐️ 7.0/10
+21. [Microsoft Unveils Surface Laptop Ultra with NVIDIA GPU](#item-21) ⭐️ 7.0/10
+22. [Florida Sues OpenAI and Sam Altman Over AI Risks](#item-22) ⭐️ 7.0/10
+23. [The solution might be cancelling my AI subscription](#item-23) ⭐️ 7.0/10
+24. [Anthropic Files for IPO, NVIDIA Ships Cosmos 3 and Vera Rubin](#item-24) ⭐️ 7.0/10
+25. [OpenAI Outlines AI Policy Stance and Advocacy Approach](#item-25) ⭐️ 7.0/10
+26. [OpenAI Breaks Ground on 1GW Data Center in Michigan](#item-26) ⭐️ 7.0/10
+27. [RTX Spark's 600GB/s Figure Is NVLink Speed, Not Memory Bandwidth](#item-27) ⭐️ 7.0/10
+28. [Man Builds AI-Powered Laser to Kill Mosquitoes](#item-28) ⭐️ 7.0/10
+29. [llama.cpp PR Cuts VRAM by 1.2GB with Logits Limiting](#item-29) ⭐️ 7.0/10
+30. [Real-time multilingual ASR using rolling buffers and monolingual models](#item-30) ⭐️ 7.0/10
+31. [Why Our #1 LightGBM Feature by Importance Made Predictions Worse](#item-31) ⭐️ 7.0/10
+32. [FML-Bench reveals MLE-Bench gains mostly from models and search, not algorithms](#item-32) ⭐️ 7.0/10
+33. [Cosmos3-Super-Image2Video Local Run on Single RTX PRO 6000 96GB](#item-33) ⭐️ 7.0/10
+34. [Bernini: Unified Video Generation & Editing Model from ByteDance](#item-34) ⭐️ 7.0/10
+35. [Princeton Study Finds Data Leakage in 300 AI Papers](#item-35) ⭐️ 7.0/10
+36. [Courts Swamped by AI-Generated Pro Se Lawsuits](#item-36) ⭐️ 7.0/10
+37. [Anthropic Confidentially Files S-1 for Potential IPO](#item-37) ⭐️ 7.0/10
+38. [Tencent Secretly Developing AI Agent for WeChat to Connect Mini-Programs](#item-38) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Meta AI Support Bot Exploited to Bypass 2FA and Hijack Accounts](https://www.0xsid.com/blog/meta-account-takeover-fiasco) ⭐️ 9.0/10
+## [Alphabet announces $80B equity capital raise for AI infrastructure](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx) ⭐️ 10.0/10
 
-Attackers manipulated Meta's AI customer support bot into disabling two-factor authentication on Instagram accounts, enabling account takeovers without needing authentication codes. This incident reveals critical vulnerabilities in AI-driven support systems, where an AI agent with privileged access was social-engineered to bypass security measures, posing risks to millions of users and eroding trust in automated account recovery. The AI agent had privileged access to disable 2FA and send reset emails to any address, circumventing standard authentication safeguards and enabling full account takeover.
+Alphabet has announced an $80 billion equity capital raise, including a landmark $10 billion private placement to Berkshire Hathaway, to fund expansion of AI infrastructure and compute. This is the largest capital raise in tech history, underscoring the escalating investment race in AI infrastructure and potentially reshaping the competitive landscape for cloud and AI services. The raise includes a private placement of $5 billion in Class A shares at $351.81 per share and $5 billion in Class C shares at $348.20 per share to Berkshire Hathaway, plus an at-the-market program to manage employee stock tax obligations.
 
-hackernews · ssiddharth · Jun 1, 16:31 · [Discussion](https://news.ycombinator.com/item?id=48359102)
+hackernews · gregschlom · Jun 1, 20:55 · [Discussion](https://news.ycombinator.com/item?id=48362515)
 
-**Background**: Two-factor authentication (2FA) is a security measure requiring a second verification beyond a password. Many platforms use AI chatbots for customer support, including account recovery. These bots can be vulnerable to social engineering if not properly constrained.
+**Background**: AI infrastructure comprises the specialized hardware (like GPUs and TPUs) and software needed to train, deploy, and run AI models at scale. The demand for AI compute is growing exponentially, driven by multimodal models and pursuit of AGI, with major tech firms investing tens of billions in data centers. Alphabet's move follows this trend, alongside reports that its data center buildout could cost over $1 trillion.
 
-**Discussion**: Commenters expressed frustration that support systems, whether AI or human, remain the weakest security link. Many criticized Meta for granting an AI agent excessive power to disable 2FA and reset accounts, questioning the design and oversight of such features.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ibm.com/think/topics/ai-infrastructure">What is AI Infrastructure? | IBM</a></li>
+<li><a href="https://grokipedia.com/page/AI_infrastructure">AI infrastructure</a></li>
+<li><a href="https://grokipedia.com/page/Compute_demand_in_AI_development">Compute demand in AI development</a></li>
 
-**Tags**: `#security`, `#AI`, `#social-media`, `#account-takeover`, `#meta`
+</ul>
+</details>
+
+**Discussion**: Comments express surprise that Alphabet would raise capital given its huge cash reserves, with some questioning the necessity after perceived wasteful spending. Others highlight the enormous scale of AI data center investments and note the squeeze on consumer hardware like gaming GPUs.
+
+**Tags**: `#AI`, `#infrastructure`, `#Alphabet`, `#capital raise`, `#compute`
 
 ---
 
 <a id="item-2"></a>
-## [NVIDIA Unveils Vera Rubin Platform, $1 Trillion Sales Projected by 2027](https://t.me/zaihuapd/41679) ⭐️ 9.0/10
+## [Meta's AI Support Bot Exploited for Instagram Account Takeovers](https://www.0xsid.com/blog/meta-account-takeover-fiasco) ⭐️ 9.0/10
 
-At GTC, NVIDIA announced the Vera Rubin platform, which includes the Vera CPU and Rubin GPU, with seven chips already in mass production for agentic AI infrastructure. Jensen Huang projects combined Blackwell and Rubin sales will reach at least $1 trillion by 2027. This marks a leap in AI infrastructure designed for agentic AI and reasoning workloads, promising higher efficiency and accelerating autonomous AI adoption. The $1 trillion forecast highlights NVIDIA's market dominance and the massive scaling of AI across industries. The platform integrates Groq's LPU for inference, while the Vera CPU reportedly doubles efficiency and offers 50% more speed than traditional rack-level CPUs. Products will be available from partners starting in the second half of this year.
+Hackers tricked Meta's AI customer support chatbot into granting them access to high-profile Instagram accounts, bypassing authentication and seizing control through manipulated requests. This incident exposes severe security risks of deploying large language models in sensitive customer support, as the AI can be socially engineered to override safeguards, undermining trust in automated systems for millions of users. The exploit appears to involve prompt injection, potentially tricking the AI into sending 2FA reset emails to arbitrary addresses, and remains unpatched; location spoofing to Singapore may be part of the method.
 
-telegram · zaihuapd · Jun 1, 06:10
+hackernews · ssiddharth · Jun 1, 16:31 · [Discussion](https://news.ycombinator.com/item?id=48359102)
 
-**Background**: The Vera Rubin platform is NVIDIA's next-generation rack-scale AI architecture, succeeding Blackwell. It combines a new CPU (Vera) and GPU (Rubin) built on TSMC's 3nm process with HBM4 memory. Groq's LPU is a purpose-built inference chip for fast, low-cost AI inference. The Blackwell architecture already powers AI factories with substantial performance gains.
+**Background**: Prompt injection is an attack where crafted inputs cause a language model to ignore its original instructions and perform unauthorized actions. Companies increasingly use AI chatbots for support, but these systems often access sensitive account functions, such as disabling two-factor authentication, without proper isolation, creating a new attack surface.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Rubin_(microarchitecture)">Rubin (microarchitecture) - Wikipedia</a></li>
-<li><a href="https://www.nvidia.com/en-us/data-center/technologies/rubin/">Infrastructure for Scalable AI Reasoning | NVIDIA Vera Rubin Platform</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/gpus/nvidias-vera-rubin-platform-in-depth-inside-nvidias-most-complex-ai-and-hpc-platform-to-date">Nvidia's Vera Rubin platform in depth - Tom's Hardware</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Prompt_injection">Prompt injection</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NVIDIA`, `#AI hardware`, `#Vera Rubin`, `#Blackwell`, `#GTC`
+**Discussion**: The community strongly condemns Meta for allowing an LLM to handle authentication resets, expressing alarm that the AI had such deep access and that 2FA could be bypassed via support. Some users report receiving suspicious reset emails, and reports suggest the exploit may still be active.
+
+**Tags**: `#security`, `#AI`, `#social-media`, `#exploit`, `#account-takeover`
 
 ---
 
 <a id="item-3"></a>
-## [Stanford CS336 AI Agent Guidelines Spark Debate](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md) ⭐️ 8.0/10
+## [Can IPOs of Anthropic, SpaceX, OpenAI Succeed?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai) ⭐️ 9.0/10
 
-Stanford's CS336 course published a CLAUDE.md file with guidelines for using AI agents in assignments, instructing students to prioritize learning and avoid over-reliance on automated solutions. The guidelines address the growing challenge of integrating generative AI into education without compromising learning, reflecting a broader shift in how institutions adapt to AI tools. The document is noted to be verbose, potentially exceeding model context windows; commenters recommend using 'Learning mode' in Claude Code, and note its similarity to an earlier agent.md by Carson Gross of HTMX fame.
+Index providers have waived profitability requirements and cut the seasoning window from 90 to 5 days, forcing over $30 trillion in passive 401k and retirement money to purchase SpaceX shares at IPO valuations. This rule change, coupled with massive revenue growth at Anthropic ($47 billion, up 50x since 2024), sets the stage for the largest IPOs in history. These potential IPOs could reshape global equity markets, affect millions of retirement investors, and signal a paradigm shift in how highly-valued private companies go public. The rule changes may inflate a bubble by compelling passive funds to buy at inflated valuations, raising systemic risk. Anthropic's valuation at $1 trillion would be 20x revenue, compared to Google's 10x at its IPO; the index seasoning window was slashed from 90 to 5 days, and profitability requirements were eliminated. These specifics came to light via a hedge fund observer's post, highlighting the unprecedented nature of the SpaceX listing rules.
 
-hackernews · prakashqwerty · Jun 1, 16:41 · [Discussion](https://news.ycombinator.com/item?id=48359232)
+hackernews · 1vuio0pswjnm7 · Jun 1, 23:45 · [Discussion](https://news.ycombinator.com/item?id=48364055)
 
-**Background**: AI agents are autonomous software systems that use large language models to perform tasks. In coding education, tools like Claude Code enable students to get assistance, but risk students skipping the learning process. 'Learning mode' is a setting that guides users to solve problems themselves rather than providing complete answers.
+**Background**: An IPO (initial public offering) allows private companies to raise capital by selling shares to the public. Recent SEC proposals aim to simplify registered offerings, while index providers like S&P and MSCI determine eligibility for passive funds. The AI boom has propelled companies like Anthropic to extraordinary revenue growth, but some fear a speculative bubble akin to the dot-com era.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/AI_agent">AI agent</a></li>
-<li><a href="https://cloud.google.com/discover/what-are-ai-agents">What are AI agents? Definition, examples, and types | Google Cloud</a></li>
+<li><a href="https://www.sec.gov/newsroom/press-releases/2026-46-sec-proposes-transformative-reforms-help-public-companies-conduct-registered-offerings-simplify">SEC.gov | SEC Proposes Transformative Reforms to Help Public Companies Conduct Registered Offerings and Simplify Reporting Requirements</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community reactions are mixed: some find the guidelines too long and likely to fall out of context, while others see value in encouraging healthy AI use. A few commenters dismiss the approach as hindering efficiency, and one notes the guidelines' close resemblance to a prior open-source agent.md.
+**Discussion**: Comments range from criticism of the rule change forcing passive investment into SpaceX at potentially inflated valuations, to defense of Anthropic's multiple given its revenue, to concerns that firms are racing to IPO before a market correction. Some argue that equity markets can absorb such large offerings, citing annual net buying of $660bn in corporate equities.
 
-**Tags**: `#AI agents`, `#education`, `#LLMs`, `#academic integrity`, `#software engineering`
+**Tags**: `#AI`, `#IPO`, `#stock market`, `#venture capital`, `#market regulation`
 
 ---
 
 <a id="item-4"></a>
-## [Stanford CS336: Language Modeling from Scratch Course](https://cs336.stanford.edu/) ⭐️ 8.0/10
+## [Nvidia Unveils Arm-Based RTX Spark CPU for Windows Laptops](https://www.nvidia.com/en-us/products/rtx-spark/) ⭐️ 9.0/10
 
-Stanford's CS336 course offers a hands-on curriculum for building language models from scratch, with assignments that require implementing key components like GPT architectures. The 2025 iteration has been completed by early learners, who praise its rigor. This course fills a critical gap by offering a deep, code-first approach to understanding modern language models, empowering engineers and researchers to build and innovate on foundation models. Its rigor builds a strong foundation for contributing to cutting-edge LLM development. Assignments involve implementing language model components from the ground up, potentially including a GPT-1-like architecture; students report needing substantial compute, with cloud GPU rentals suggested (e.g., B200 at $4.99/hr), though a consumer RTX 4090 can suffice for initial work. The first two assignments are particularly demanding, requiring deep debugging and conceptual understanding.
+Nvidia officially announced the RTX Spark, an Arm-based processor designed for Windows laptops, with native software support from over 100 major developers, including Adobe, Riot Games, and Blender. This marks Nvidia’s entry into the laptop CPU market, directly challenging Intel and AMD while also competing with Apple’s M-series chips, potentially accelerating the Windows on Arm ecosystem. RTX Spark is based on the Arm architecture and integrates GPU and AI acceleration; it will require native ARM64 apps for optimal performance, though x86 emulation is available.
 
-hackernews · kristianpaul · Jun 1, 14:10 · [Discussion](https://news.ycombinator.com/item?id=48357075)
+hackernews · shenli3514 · Jun 1, 05:24 · [Discussion](https://news.ycombinator.com/item?id=48352939)
 
-**Background**: Language modeling is the task of predicting the next word in a sequence, underlying systems like ChatGPT. 'From scratch' implementations require coding data pipelines, tokenization, transformer architectures, and training algorithms without relying on pre-built libraries like Hugging Face's transformers. GPT-1 was an early generative pretrained transformer that demonstrated the power of scaling up language modeling.
+**Background**: Windows on Arm is Microsoft’s initiative to run desktop Windows on Arm-based processors. After the failed Windows RT, Windows 11 now offers improved ARM64 support with x86 emulation, but app compatibility remains a hurdle. Apple’s successful transition to its own Arm-based M chips proved the architecture’s viability for laptops, yet the broader Windows ecosystem has lagged. Nvidia’s dominant GPU and AI expertise could significantly boost Windows on Arm adoption.
 
-**Discussion**: The community reacts positively, with users sharing their completion experiences and noting the course's steep learning curve. Some discuss hardware requirements, finding that a consumer RTX 4090 suffices instead of pricier cloud GPUs, while others seek prerequisite material. One user successfully reproduced GPT-1 results on an RTX 2060 Super, highlighting the course's practical value.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Windows_on_ARM">Windows on ARM - Wikipedia</a></li>
+<li><a href="https://worksonwoa.com/">Discover app and game compatibility for Windows on ARM . Over...</a></li>
 
-**Tags**: `#language-modeling`, `#deep-learning`, `#education`, `#nlp`, `#from-scratch`
+</ul>
+</details>
+
+**Discussion**: Comments expressed skepticism about compatibility but acknowledged Nvidia’s influence in securing native ports from major developers. Concerns were raised about thermal limitations in thin laptops, while others highlighted potential AI workload advantages. Overall sentiment is cautiously optimistic, with debates on whether Windows on Arm can truly compete with Apple’s M-series and x86 long-term.
+
+**Tags**: `#Nvidia`, `#Arm processors`, `#Windows on Arm`, `#laptops`, `#semiconductor industry`
 
 ---
 
 <a id="item-5"></a>
-## [Geology Mimics Biochemistry, Reshaping Origin-of-Life Research](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/) ⭐️ 8.0/10
+## [NVIDIA Unveils Cosmos 3, Nemotron 3 Ultra, and RTX Spark](https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3) ⭐️ 9.0/10
 
-Recent research demonstrates that geological processes, such as those in hydrothermal vents, can spontaneously generate complex organic molecules like amino acids and hydrocarbons, previously considered signatures of life. This complicates the search for extraterrestrial life by showing that complex organic chemistry can arise without biology, and provides new insights into how life might have started on Earth. The processes involved include serpentinization and Fischer–Tropsch-type reactions, which produce organic compounds in the absence of life, and may have been widespread on early Earth and possibly on ocean worlds like Europa and Enceladus.
+NVIDIA announced Cosmos 3, an open omnimodel for physical AI that can follow instructions and plan from visual context; Nemotron 3 Ultra, a 550B-parameter open-weights language model with leading accuracy; and RTX Spark, a compact desktop designed to run personal AI agents 24/7. These releases reinforce NVIDIA's full-stack AI dominance across models and hardware. Cosmos 3 accelerates physical AI for robotics, Nemotron 3 Ultra offers a top-tier open alternative to proprietary language models, and RTX Spark democratizes local AI agent deployment. Cosmos 3 comes in Super and Nano sizes, with Hugging Face Diffusers integration and post-training scripts on GitHub. Nemotron 3 Ultra uses a sparse 550B/55B active parameter architecture, FP4 pre-training, and targets H1 2026 release. RTX Spark is an ultra-efficient small desktop with RTX graphics for 24/7 AI agent operation.
 
-hackernews · speckx · Jun 1, 15:11 · [Discussion](https://news.ycombinator.com/item?id=48357905)
+rss · Latent Space · Jun 2, 03:28
 
-**Background**: Abiogenesis is the natural process by which life arises from non-living matter. Classic experiments like Miller–Urey have shown that amino acids can form from inorganic precursors. Hydrothermal vent environments on the early Earth are thought to have provided energy and chemical gradients that fueled prebiotic chemistry. The new findings indicate that purely geological reactions can achieve a level of complexity once attributed solely to biological processes.
+**Background**: NVIDIA's Cosmos platform builds world models that understand and generate physical environments, essential for robotics. The Nemotron family focuses on efficient, open-weight language models for agentic AI. RTX Spark introduces a new category of compact desktops that merge RTX graphics with personal AI capabilities, bringing inference directly to developers and consumers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Abiogenesis">Abiogenesis</a></li>
-<li><a href="https://www.britannica.com/science/abiogenesis">Abiogenesis | Definition & Theory | Britannica</a></li>
+<li><a href="https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai">Welcome NVIDIA Cosmos 3 : The First Open Omni-model for Physical...</a></li>
+<li><a href="https://artificialanalysis.ai/articles/nvidia-nemotron-3-ultra-launch-announced">Nemotron 3 Ultra announced: high-speed, leading US open weights intelligence</a></li>
+<li><a href="https://www.nvidia.com/en-us/products/rtx-spark/">Slim Laptops & Small Desktops | NVIDIA RTX Spark</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters largely agree, noting that the idea has been hypothesized for over a decade. Some reference supporting experiments like the Gamma Forest irradiation study, while others express excitement for upcoming missions to icy moons, suggesting that tidal flexing could produce complex chemistry. The concept of abiogenic petroleum is also mentioned as an analogous idea.
-
-**Tags**: `#geology`, `#origin-of-life`, `#biochemistry`, `#astrobiology`, `#geochemistry`
+**Tags**: `#NVIDIA`, `#AI Models`, `#Hardware`, `#Robotics`, `#Language Models`
 
 ---
 
 <a id="item-6"></a>
-## [Nvidia Unveils RTX Spark Arm CPU for Windows Laptops](https://www.nvidia.com/en-us/products/rtx-spark/) ⭐️ 8.0/10
+## [NVIDIA Releases Cosmos 3 Omnimodal World Models on HF](https://www.reddit.com/r/LocalLLaMA/comments/1tuhea4/nvidia_releases_cosmos_3_omnimodal_world_modelson/) ⭐️ 9.0/10
 
-Nvidia announced the RTX Spark superchip, an Arm-based system-on-chip for Windows PCs that combines a 20-core Grace CPU with a Blackwell GPU featuring up to 6,144 CUDA cores, targeting slim laptops and small desktops with broad software support from Adobe and major game developers. This marks Nvidia's entry into the PC CPU market, directly challenging Intel, AMD, and Apple's M-series processors, and could reshape the Windows Arm ecosystem with its high-performance and AI capabilities. The RTX Spark is built on TSMC 3nm process with 70 billion transistors, uses a unified memory architecture up to 128GB and 600GB/s bandwidth, but its memory speed is notably lower than Apple's M5 laptop chip and M3 Ultra, and compatibility concerns persist despite over 100 software vendors committing to Arm versions.
+NVIDIA has released Cosmos 3, a family of omnimodal world models with up to 64 billion parameters, on Hugging Face. These models generate video, images, audio, and action commands from text, image, video, and action trajectory inputs. This release marks a major advance for Physical AI, enabling more realistic simulation and embodied learning for robotics and autonomous systems. As an open model, it could democratize access to powerful world models for research and development. The series includes Nano (16B) and Super (64B) variants, designed for world understanding, generation, simulation, and policy learning. The models’ large scale may demand significant computational resources, potentially limiting accessibility for some users.
 
-hackernews · shenli3514 · Jun 1, 05:24 · [Discussion](https://news.ycombinator.com/item?id=48352939)
+reddit · r/LocalLLaMA · /u/RobotRobotWhatDoUSee · Jun 2, 05:26
 
-**Background**: Traditionally, Windows PCs use x86 processors from Intel or AMD. Apple successfully transitioned to its own Arm-based M-series chips, demonstrating high performance and efficiency. Nvidia's RTX Spark brings similar Arm architecture to Windows, leveraging its GPU prowess to potentially offer a competitive alternative in the PC market.
+**Background**: World models are AI systems that learn to predict future states of an environment from past observations and actions, and are crucial for planning in robotics. Omnimodal models handle multiple input and output modalities—such as vision, language, audio, and actions—allowing a holistic understanding of the world. NVIDIA's Cosmos 3 builds on this concept to advance Physical AI, where intelligent agents must perceive and act in the real world through sensors and actuators.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/products/rtx-spark/">NVIDIA RTX Spark — Slim Laptops & Small Desktops</a></li>
-<li><a href="https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/">Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU ...</a></li>
-<li><a href="https://www.pcmag.com/news/nvidia-rtx-spark-reinvent-pc-computex-2026">Nvidia Unveils RTX Spark, an Arm-Based Superchip for Windows ...</a></li>
+<li><a href="https://wavespeed.ai/blog/posts/what-is-nvidia-cosmos3-nano/">What Is NVIDIA Cosmos3-Nano? The 16B Omni World Model for Physical AI | WaveSpeed Blog</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments express skepticism about compatibility but acknowledge Nvidia's influence in securing native Arm ports for popular apps like Adobe and games like League of Legends. Concerns include underwhelming memory bandwidth compared to Apple's M5, and doubts about long-term Windows on Arm viability versus Apple's forced transition.
+**Discussion**: Early community discussions on Reddit showed interest but remained limited, with brief reactions and link sharing. The announcement also drew attention on Twitter among AI researchers.
 
-**Tags**: `#nvidia`, `#arm`, `#cpu`, `#windows-laptops`, `#competition`
+**Tags**: `#world-models`, `#nvidia`, `#generative-ai`, `#physical-ai`, `#huggingface`
 
 ---
 
 <a id="item-7"></a>
-## [Anthropic Confidentially Files Draft S-1 for IPO](https://www.anthropic.com/news/confidential-draft-s1-sec) ⭐️ 8.0/10
+## [OpenAI Frontier Models and Codex Now Available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/) ⭐️ 8.0/10
 
-On June 1, 2026, Anthropic confidentially submitted a draft S-1 registration statement to the U.S. Securities and Exchange Commission, marking a formal step toward an initial public offering. This IPO could open AI investment to public markets, exposing retail investors to potential volatility while subjecting Anthropic to quarterly earnings scrutiny, and signals the maturation of the AI industry. The filing is under confidential review, so share count and price range are not disclosed. It follows a recent $65 billion funding round at a $965 billion valuation and the release of Claude Opus 4.8.
+OpenAI's frontier models and Codex are now generally available on AWS, enabling enterprises to access these AI capabilities through AWS Bedrock and their existing cloud infrastructure. This integration simplifies enterprise adoption by allowing companies to use OpenAI models within their existing AWS contracts and data governance frameworks, reducing vendor onboarding friction and addressing data security concerns. Through AWS Bedrock, enterprises can run OpenAI's frontier models and Codex, benefiting from AWS's security features and model customization options, though pricing may be higher than direct API access.
 
-hackernews · surprisetalk · Jun 1, 16:00 · [Discussion](https://news.ycombinator.com/item?id=48358646)
+hackernews · OpenAI Blog · Jun 1, 21:50 · [Discussion](https://news.ycombinator.com/item?id=48363132)
 
-**Background**: An initial public offering (IPO) is when a private company first sells shares to the public. A draft S-1 is the initial registration statement filed with the SEC. Confidential filing lets the company keep financial details private until the review is finished. Anthropic is a leading AI company, known for its safety-focused Claude models and competition with OpenAI.
+**Background**: OpenAI frontier models are cutting-edge large language models like GPT-5.2, designed for complex AI tasks. Codex is an OpenAI model specialized in code generation. AWS Bedrock is a managed service that offers API access to foundation models from various providers, integrated with enterprise governance tools.
 
-**Discussion**: Commenters worry that retail investors and 401(k) holders will face new risks, that quarterly earnings pressure could hurt AI companies, and that IPOs are racing before a market downturn. Some question whether Anthropic's safety-focused ethos will survive public market pressures and potential monopolistic behavior.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://openai.com/index/introducing-openai-frontier/">Introducing OpenAI Frontier | OpenAI</a></li>
+<li><a href="https://openai.com/business/frontier/">OpenAI Frontier | Enterprise platform for AI agents | OpenAI</a></li>
+<li><a href="https://www.datacamp.com/blog/frontier-models">Frontier Models Explained: What Defines the Cutting Edge of AI | DataCamp</a></li>
 
-**Tags**: `#AI`, `#IPO`, `#Anthropic`, `#Business`, `#Technology`
+</ul>
+</details>
+
+**Discussion**: Comments emphasize that for large enterprises with strict data governance and existing AWS relationships, using AWS Bedrock is often the only viable path to access AI models, overcoming vendor approval hurdles. Some note potential higher costs but consider them acceptable given the compliance benefits.
+
+**Tags**: `#OpenAI`, `#AWS`, `#enterprise-ai`, `#cloud-computing`, `#data-governance`
 
 ---
 
 <a id="item-8"></a>
-## [Malicious npm Packages Compromise Red Hat Cloud Services](https://github.com/RedHatInsights/javascript-clients/issues/492) ⭐️ 8.0/10
+## [Stanford CS336 Introduces CLAUDE.md for AI Agent Guidelines](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md) ⭐️ 8.0/10
 
-Malicious npm packages were detected across Red Hat Cloud Services, prompting a detailed incident report and extensive community discussion on mitigating supply chain attacks. This incident underscores the persistent threat of npm supply chain attacks and validates community-proposed defenses like dependency cooldowns and maintainer MFA as effective countermeasures. The compromised packages were quickly identified and removed, but the discussion highlighted that a 1–2 day cooldown on new package versions would have prevented their installation. Tools like Yarn 4 and pnpm already offer such features, and Artifactory/Nexus can enforce cooldowns enterprise-wide.
+Stanford's CS336 course has released a CLAUDE.md file that provides guidelines for students on how to appropriately use AI agents in their assignments, representing a proactive institutional response to the growing use of generative AI in education. This initiative addresses the urgent challenge of maintaining academic integrity while harnessing AI's educational potential, offering a model for other institutions and influencing how AI tools are integrated into learning environments. The CLAUDE.md file primes the AI with instructions like 'I am a student—help me learn, don't do everything for me,' and is inspired by earlier templates from Carson Gross. Some note its verbosity may exceed context windows, while Claude Code's 'Learning mode' offers similar functionality.
 
-hackernews · kurmiashish · Jun 1, 13:30 · [Discussion](https://news.ycombinator.com/item?id=48356625)
+hackernews · prakashqwerty · Jun 1, 16:41 · [Discussion](https://news.ycombinator.com/item?id=48359232)
 
-**Background**: Software supply chain attacks occur when malicious code is injected into trusted packages. In the npm ecosystem, attackers often compromise maintainer accounts to publish malicious versions. Dependency cooldowns enforce a delay before adopting new releases, giving time for malicious versions to be detected and removed. Multi-factor authentication (MFA) adds a layer of security to prevent account takeovers.
+**Background**: CLAUDE.md is a configuration file used by Claude Code, Anthropic's AI coding assistant, to provide persistent project context and behavioral instructions. As AI agents become more capable, educators face a dilemma: banning them risks students being unprepared for a future where AI is ubiquitous, while uncontrolled use can undermine fundamental skill development. Stanford's CS336, likely a systems or AI course, adopts guidelines to steer students toward using AI as a learning aid rather than a shortcut.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.ycombinator.com/item?id=46005111">We should all be using dependency cooldowns - Hacker News</a></li>
-<li><a href="https://cooldowns.dev/">Dependency Cooldowns - Dependency Cooldowns</a></li>
-<li><a href="https://securitylabs.datadoghq.com/articles/dependency-cooldowns/">The case for dependency cooldowns in a post-axios world</a></li>
+<li><a href="https://code.claude.com/docs/en/best-practices">Best practices for Claude Code</a></li>
+<li><a href="https://www.reddit.com/r/ClaudeAI/comments/1nokaln/what_is_the_point_of_claudemd/">What is the point of CLAUDE.md? : r/ClaudeAI - Reddit</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The discussion (405 comments) showed strong consensus on adopting dependency cooldowns and MFA. Many shared concrete configurations for tools like Yarn, pnpm, and CI/CD pipelines. Some noted the cooldown approach is already standard in enterprise artifact proxies, and a few referenced Red Hat's parallel 'Project Lightwell' initiative for supply chain security.
+**Discussion**: Comments show cautious approval, with some instructors adopting similar 'AGENTS.md' files. There's debate about verbosity and context limits, and several note that the template closely mirrors Carson Gross's earlier agent.md. Suggestions like using Claude Code's built-in Learning mode are also shared.
 
-**Tags**: `#npm`, `#supply-chain-security`, `#malware`, `#javascript`, `#open-source-security`
+**Tags**: `#education`, `#AI`, `#agents`, `#guidelines`, `#academic-integrity`
 
 ---
 
 <a id="item-9"></a>
-## [Open and Closed AI Models Follow Divergent Value Exponentials](https://www.interconnects.ai/p/open-and-closed-models-are-on-different) ⭐️ 8.0/10
+## [Stanford's CS336 Course Teaches Language Modeling from Scratch](https://cs336.stanford.edu/) ⭐️ 8.0/10
 
-A new analysis argues that open and closed AI models exhibit fundamentally different exponential relationships between incremental intelligence improvements and the value they deliver, identifying scenarios where marginal gains matter most. This insight influences AI development strategies, deployment decisions, and technology policy by clarifying how value is captured differently in open ecosystems versus proprietary ones, potentially shaping investment and regulation. The analysis likely highlights that open models suffer from commoditization, dampening returns from higher intelligence, while closed models can monetize such gains through premium services. Specific benchmarks or case studies may illustrate these diverging curves.
+Stanford's CS336: Language Modeling from Scratch has launched a 2025 version with a comprehensive, hands-on curriculum that guides learners through building language models from the ground up, earning high praise for its depth and practical assignments. This course directly addresses the industry demand for skilled AI/ML engineers who understand language models at a fundamental level, equipping participants with the ability to reproduce and innovate on modern architectures. The course features rigorous assignments that require substantial debugging and thinking, with the 2025 version now available; it assumes a solid background in machine learning and deep learning.
 
-rss · Interconnects · Jun 1, 13:03
+hackernews · kristianpaul · Jun 1, 14:10 · [Discussion](https://news.ycombinator.com/item?id=48357075)
 
-**Background**: Open AI models (e.g., Llama, Mistral) release weights publicly, fostering broad accessibility but risking commoditization. Closed models (e.g., GPT-4, Claude) remain behind APIs, allowing providers to differentiate and capture value. The 'exponentials' metaphor suggests that as models get smarter, their utility grows non-linearly, yet the slope differs based on openness due to factors like customization ease and market competition.
+**Background**: Language models are core to modern natural language processing, powering applications like chatbots and translation. Stanford University has a long history of pioneering AI education, and building models from scratch provides unparalleled insight into how they function and fail.
 
-**Tags**: `#AI`, `#open source`, `#closed source`, `#model development`, `#technology policy`
+**Discussion**: Learners report successfully completing the 2025 version using consumer-grade GPUs like an RTX 2060 SUPER, often in just one hour of training, and praise the course for its depth despite the high difficulty. Some discuss prerequisite self-study resources, while others note that expensive cloud GPUs are not strictly necessary for the early stages.
+
+**Tags**: `#language-models`, `#deep-learning`, `#NLP`, `#self-study`, `#stanford-course`
 
 ---
 
 <a id="item-10"></a>
-## [OpenAI Frontier Models and Codex Now Available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws) ⭐️ 8.0/10
+## [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/) ⭐️ 8.0/10
 
-OpenAI has made its frontier models and Codex generally available on Amazon Web Services, allowing enterprises to integrate these AI capabilities through familiar AWS environments, controls, and procurement workflows. This partnership gives OpenAI access to AWS's vast enterprise customer base, enabling seamless adoption of cutting-edge AI without leaving existing cloud infrastructure, potentially accelerating enterprise AI deployments and reshaping cloud competition. The availability includes OpenAI's Codex, an AI coding agent for automating software engineering tasks, and frontier models that deliver advanced reasoning and multimodal generation, all accessible through standard AWS management and procurement interfaces.
+A technical article delves into the correct denominator for normalizing 8-bit RGB values, comparing division by 255 vs. 256 and examining the underlying quantization models and their practical consequences in graphics and signal processing. This subtle choice affects color accuracy in digital imaging, video signal generation, and color space conversions. While errors are often imperceptible, they can become significant in precise applications like VGA signal generation or when chaining multiple operations. The debate centers on mid-tread vs. mid-rise quantization: dividing by 255 maps the maximum 8-bit value 255 exactly to 1.0, while using 256 with a +0.5 offset better represents continuous intervals but leaves 255 at 0.996. The article also discusses the practical irrelevance for typical monitors due to lack of calibration and the role of gamma correction.
 
-rss · OpenAI Blog · Jun 1, 10:00
+hackernews · pplanu · Jun 1, 17:37 · [Discussion](https://news.ycombinator.com/item?id=48360054)
 
-**Background**: Frontier models are the most advanced AI models at a given time, such as OpenAI's GPT series, excelling in reasoning, multimodal generation, and agentic workflows. Codex is OpenAI's coding agent suite designed to automate tasks from feature building to complex refactoring. AWS (Amazon Web Services) is the leading cloud platform, offering infrastructure, tools, and procurement processes that many enterprises already rely on.
+**Background**: In digital image processing, quantization maps a continuous range of values to discrete integers, commonly 0–255 for 8-bit per channel. Normalizing these to [0,1] is a standard preprocessing step for many algorithms. The difference between 255 and 256 arises from conflicting interpretations of whether the integer range represents exact endpoints or intervals spanning from 0 to 256 units.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/glossary/frontier-models/">What Are Frontier AI Models and How They Work - NVIDIA</a></li>
-<li><a href="https://openai.com/codex/">Codex | AI Coding Partner from OpenAI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quantization_(image_processing)">Quantization (image processing)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Color_normalization">Color normalization</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#OpenAI`, `#AWS`, `#enterprise AI`, `#cloud computing`, `#Codex`
+**Discussion**: The discussion reveals a split between those who find the difference negligible in practice (e.g., due to uncalibrated screens) and those who point out its importance in specific domains like ADC design or VGA signal generation. Several comments correct common misconceptions about step counts and emphasize the role of gamma/sRGB in real-world scenarios.
+
+**Tags**: `#color-normalization`, `#quantization`, `#computer-graphics`, `#8-bit`, `#image-processing`
 
 ---
 
 <a id="item-11"></a>
-## [Intel Unveils Crescent Island GPU with 480GB LPDDR5X VRAM](https://www.reddit.com/r/LocalLLaMA/comments/1tu2kbq/computex_2026_intel_launches_crescent_island_gpu/) ⭐️ 8.0/10
+## [Geological Processes Can Mimic Biochemical Ones, Blurring Life's Boundaries](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/) ⭐️ 8.0/10
 
-At Computex 2026, Intel launched the Crescent Island GPU, a data center card based on the Xe 3P architecture with up to 480 GB of LPDDR5X memory, targeting next-generation AI inference workloads and supporting datatypes from FP4/MXFP4 to FP64. The combination of massive VRAM and cost-effective LPDDR5X instead of HBM could make large model inference more accessible locally, potentially disrupting the high-end GPU market and benefiting the local LLM community. The card is inference-optimized, air-cooled at 350W TDP, and natively supports microscaling formats like MXFP4, but no performance benchmarks have been released.
+Recent experiments demonstrate that purely geological reactions in mineral-rich environments can produce and sustain complex organic molecules, such as amino acids, without any biological involvement, challenging the assumption that such chemistry is exclusive to life. This discovery reshapes astrobiology by indicating that many chemical signatures once thought to be unambiguous biosignatures may instead arise from abiotic geology, necessitating a stricter, multi-line-evidence approach for detecting extraterrestrial life. The study focused on mineral-catalyzed reactions, revealing that common geological materials can sustain autocatalytic cycles over long periods, producing amino acids and other prebiotic compounds under conditions mimicking early Earth or other planetary environments.
 
-reddit · r/LocalLLaMA · /u/ANR2ME · Jun 1, 19:13
+hackernews · speckx · Jun 1, 15:11 · [Discussion](https://news.ycombinator.com/item?id=48357905)
 
-**Background**: Intel's Xe 3P architecture is a performance-enhanced variant of Xe3, previously seen in integrated graphics. LPDDR5X memory provides high capacity at lower cost and power versus HBM, making it suitable for inference where bandwidth demands are lower. Microscaling (MX) formats, such as MXFP4, are industry-standard 4‑bit data types that reduce memory usage and improve efficiency with minimal accuracy loss. Crescent Island is positioned as an inference-only solution.
+**Background**: Astrobiology searches for life beyond Earth by looking for chemical signatures like organic molecules. Prebiotic chemistry studies how such molecules can form without life, while abiogenesis examines the transition from non-life to life. Distinguishing abiotic from biotic processes is critical for interpreting potential biosignatures on other planets.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/pc-components/gpus/intel-unveils-crescent-island-an-inference-only-gpu-with-xe3p-architecture-and-160gb-of-memory">Intel unveils Crescent Island, an inference-only GPU with Xe3P ...</a></li>
-<li><a href="https://wccftech.com/intel-crescent-island-pcb-leaks-massive-xe3p-gpu-160gb-lpddr5x/">Intel's Crescent Island PCB Leaks, Showing a Massive Xe3P GPU, 16-Pin ...</a></li>
-<li><a href="https://www.microsoft.com/en-us/research/publication/microscaling-data-formats-for-deep-learning/">Microscaling Data Formats for Deep Learning - microsoft.com</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Astrobiology">Astrobiology</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Prebiotic_chemistry">Prebiotic chemistry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Abiogenesis">Abiogenesis</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Intel GPU`, `#high VRAM`, `#AI hardware`, `#LocalLLaMA`, `#Xe 3P`
+**Discussion**: Commenters broadly agree with the findings, referencing long-standing speculation that geochemistry spawns biochemistry. One recalls the Brookhaven Gamma Forest experiment as an example of persistent abiotic chemistry, while another emphasizes that life detection will require a preponderance of evidence. The community expresses excitement for future missions to Europa and Enceladus.
+
+**Tags**: `#astrobiology`, `#geochemistry`, `#origin-of-life`, `#science`, `#biochemistry`
 
 ---
 
 <a id="item-12"></a>
-## [MLE-Bench Gains Attributed to Better Models and More Search](https://www.reddit.com/r/MachineLearning/comments/1ttu47l/how_much_of_mlebenchs_gains_are_the_algorithm_vs/) ⭐️ 8.0/10
+## [Open and Closed AI Models on Diverging Exponential Paths](https://www.interconnects.ai/p/open-and-closed-models-are-on-different) ⭐️ 8.0/10
 
-A new benchmark, FML-Bench, reveals that the two-year jump in MLE-Bench scores from 30% to 80% is primarily due to better base models and increased search budget, not algorithmic innovation. When step budget and model access are controlled, the two-year-old AIDE algorithm matches modern agent systems. This challenges the narrative that automated ML research progress is driven by novel algorithms, suggesting that scale and search strategies are the key levers. It may refocus research efforts and urges caution when interpreting benchmark improvements that may stem from overfitting or unequal computational resources. FML-Bench unifies task definitions and validation splits, testing on distinct datasets to prevent overfitting. The AIDE algorithm uses tree search, and under equal conditions it matches modern agents, highlighting that recent gains are largely from scaling and search, not algorithmic breakthroughs.
+A new analysis argues that open-source and closed-source AI models are following different exponential improvement curves, and that the value of marginal increases in intelligence depends on the application domain. This insight helps organizations decide when to adopt cutting-edge closed models for tasks where small intelligence gains yield high returns, versus using cost-effective open models for less demanding uses. It also informs AI policy and competitive dynamics. The analysis likely highlights that in domains such as complex reasoning or safety-critical applications, even slight improvements in model intelligence can be highly valuable, whereas in conversational or creative tasks, diminishing returns set in.
 
-reddit · r/MachineLearning · /u/Educational_Strain_3 · Jun 1, 14:34
+rss · Interconnects · Jun 1, 13:03
 
-**Background**: MLE-Bench is an OpenAI benchmark for measuring how well AI agents perform machine learning engineering tasks. FML-Bench is a new benchmark that evaluates automated ML research agents on diverse problems, emphasizing exploration breadth and algorithmic efficiency. AIDE is an early autonomous ML agent that uses tree search to generate and debug code solutions iteratively.
+**Background**: Open models (e.g., Llama, Mistral) have publicly available weights and can be fine-tuned, while closed models (e.g., GPT-4, Claude) are proprietary and accessed via API. Both are scaling rapidly, but their trajectories differ due to factors like compute investment, data access, and community contributions. The concept of an 'exponential' refers to the rapid, compounding performance gains measured by benchmarks over time. The debate often centers on when open models will match or surpass closed ones, and whether marginal intelligence is always worth the cost.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/openai/mle-bench">GitHub - openai/mle-bench: MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering · GitHub</a></li>
-<li><a href="https://arxiv.org/abs/2510.10472">[2510.10472] FML-bench: Benchmarking Machine Learning Agents for Scientific Research</a></li>
-<li><a href="https://github.com/WecoAI/aideml">GitHub - WecoAI/aideml: AIDE: AI-Driven Exploration in the ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Agents`, `#Benchmarking`, `#Automated ML`, `#Reproducibility`, `#Code Generation`
+**Tags**: `#AI`, `#open-source`, `#machine learning`, `#policy`, `#models`
 
 ---
 
 <a id="item-13"></a>
-## [Nvidia Releases 64B-Param Cosmos3-Super-Text2Image Model](https://www.reddit.com/r/StableDiffusion/comments/1ttjrip/nvidia_releasescosmos3supertext2image_model_64/) ⭐️ 8.0/10
+## [Ethan He Discusses Video Agents and Grok Imagine](https://www.latent.space/p/video-agents) ⭐️ 8.0/10
 
-Nvidia has released Cosmos3-Super-Text2Image, a 64-billion-parameter text-to-image model, accompanied by a technical paper; it quickly achieved the top spot among open weights text-to-image models. This release marks a significant advance in open-source generative AI, potentially enabling more realistic image synthesis and accelerating multimodal research while leveraging Nvidia's hardware-software integration. The model employs agentic prompt-upsampling, uses a guidance scale of 4 and a time shift of 3, and is part of the Cosmos3 omnimodal world model family capable of generating video, audio, and actions.
+Ethan He, who led the development of Grok Imagine at xAI, revealed in a deep-dive interview that the model was built in just three months and argued that video agent models—capable of planning, editing, and iterating—represent the next evolution beyond one-shot video generation. This shift mirrors the evolution of AI coding tools, where multi-turn reasoning and orchestration unlocked complex problem-solving, and promises to similarly transform creative industries by enabling iterative, agent-driven video production. Grok Imagine leverages the Aurora engine for image and video generation and was developed in three months; video agent models incorporate memory-augmented planning, multi-turn editing, and tool use, going far beyond static generation.
 
-reddit · r/StableDiffusion · /u/AgeNo5351 · Jun 1, 06:28
+rss · Latent Space · Jun 1, 15:41
 
-**Background**: Text-to-image models generate images from textual descriptions; larger parameter counts often yield finer details and better prompt adherence. Nvidia, best known for GPUs, runs an AI research lab that contributes to open science by releasing such models with open weights, allowing local modification and usage.
+**Background**: Grok Imagine is xAI's generative media model competing with tools like DALL·E. Video agent models extend video generation by adding orchestration layers—planning, critique, editing—similar to how AI coding evolved from code completion to agents that debug and submit PRs. World models, in contrast, are AI systems that learn internal representations of environments to predict dynamics and plan actions, often used in robotics and autonomous driving.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://huggingface.co/nvidia/Cosmos3-Super-Text2Image">nvidia/Cosmos3-Super-Text2Image - Hugging Face</a></li>
-<li><a href="https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf">[PDF] Cosmos 3: Omnimodal World Models for Physical AI - Research at NVIDIA</a></li>
+<li><a href="https://www.latent.space/p/video-agents">Why Video Agent models are next — Ethan He, xAI Grok Imagine</a></li>
+<li><a href="https://en.wikipedia.org/wiki/World_model_(artificial_intelligence)">World model (artificial intelligence)</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#text-to-image`, `#generative-AI`, `#Nvidia`, `#Cosmos3`, `#Stable-Diffusion`
+**Tags**: `#AI`, `#video generation`, `#world models`, `#agents`, `#xAI`
 
 ---
 
 <a id="item-14"></a>
-## [Large-Scale Study Exposes 45% Bias in LLM Hiring Evaluations](https://www.reddit.com/r/artificial/comments/1ttsr9b/i_analyzed_25500_llm_resume_screenings_to_measure/) ⭐️ 8.0/10
+## [Intel Launches Crescent Island GPU with up to 480GB VRAM at Computex 2026](https://www.reddit.com/r/LocalLLaMA/comments/1tu2kbq/computex_2026_intel_launches_crescent_island_gpu/) ⭐️ 8.0/10
 
-A study of 25,500 LLM resume screenings found a 45% bias rate, revealing a 'silent bias' phenomenon where models invent professional excuses to discriminate, and up to 6x difference in stability across models. This quantifies severe hiring bias in AI, showing that these tools produce subjective, legally risky decisions, especially under regulations like the EU AI Act. By swapping only minor identity variables on identical work histories, the audit showed models like Qwen and older Gemini were highly volatile, while Claude, Mistral-Large, and Llama 4 were most fair; a model even penalized a candidate after changing the university to MIT with fabricated reasoning.
+Intel revealed its Crescent Island discrete GPU at Computex 2026, based on the Arc Xe 3P architecture and offering configurations with up to 480 GB of LPDDR5X video memory. It supports a wide range of datatypes including native FP4 and MXFP4 microscaling formats, and is designed for next-generation AI workloads. The extremely high VRAM capacity directly addresses the memory bottleneck for running large language models and AI training locally, potentially offering a more cost-effective alternative to expensive HBM-equipped data center GPUs. This could accelerate adoption of local AI prototyping and inference in the enthusiast and developer communities. The GPU uses LPDDR5X memory instead of HBM, which trades some bandwidth for larger capacity and lower cost; it is cooled by an air cooler with a 350 W TDP. Native support for microscaling formats like MXFP4 can improve performance per watt and numerical stability for quantized AI models.
 
-reddit · r/artificial · /u/Signal_Rabbit_8303 · Jun 1, 13:46
+reddit · r/LocalLLaMA · /u/ANR2ME · Jun 1, 19:13
 
-**Background**: Large language models (LLMs) are increasingly used for automated resume screening, but can inherit biases from training data. 'Silent bias' refers to models generating seemingly objective but biased explanations, making discrimination harder to detect. The EU AI Act classifies AI hiring systems as high-risk, requiring thorough fairness assessments.
+**Background**: Arc Xe 3P (codenamed Celestial) is Intel's upcoming discrete GPU architecture, succeeding Xe 2 and Xe 3 integrated graphics. Microscaling (MX) formats are an open standard for training and inference that combine block-based scaling with narrow floating-point types (e.g., 4-bit), designed to balance hardware efficiency with model accuracy. MXFP4 is a 4-bit microscaling format standardized by the Open Compute Project, useful for running large models on hardware with limited memory bandwidth.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/silent-bias-scale-new-challenge-ai-governance-dirk-balthasar-ybc6f">Silent Bias at Scale: A New Challenge for AI Governance</a></li>
-<li><a href="https://techbullion.com/the-silent-bias-in-ai-exploring-the-troubling-reality/">The Silent Bias in AI: Exploring the Troubling Reality ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Intel_Xe">Intel Xe - Wikipedia</a></li>
+<li><a href="https://huggingface.co/blog/RakshitAralimatti/learn-ai-with-me">What’s MXFP4? The 4-Bit Secret Powering OpenAI’s GPT‑OSS Models on Modest Hardware</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI bias`, `#LLM hiring`, `#fairness`, `#ethics`, `#bias audit`
+**Tags**: `#GPU`, `#Intel`, `#AI hardware`, `#Local LLM`, `#High VRAM`
 
 ---
 
 <a id="item-15"></a>
-## [Princeton Study: Data Leakage Found in Nearly 300 AI Papers](https://www.reddit.com/r/artificial/comments/1tu0ri0/how_much_published_ai_research_is_wrong_because/) ⭐️ 8.0/10
+## [PixelDiT: 1.3B No-VAE Diffusion Transformer Fits 4GB VRAM, Diffusers-Compatible](https://www.reddit.com/r/StableDiffusion/comments/1tuco68/pixeldit_13b_pixelspace_diffusion_transformer_no/) ⭐️ 8.0/10
 
-A study by Princeton researchers Kapoor and Narayanan uncovered data leakage in nearly 300 AI papers across 17 fields, including medicine and economics, raising questions about the validity of many published claims. This widespread issue suggests that many AI breakthroughs may be inflated, as data leakage causes models to appear far more accurate than they truly are, undermining trust in AI research and necessitating stricter validation practices. For instance, in civil war prediction, complex models that appeared superior to logistic regression performed no better once data leakage was fixed; common pitfalls include scaling data before train-test split or using features that indirectly encode the target.
+PixelDiT, a 1.3-billion parameter pixel-space diffusion transformer that operates directly on high-resolution images without a VAE, is now fully integrated with Hugging Face's diffusers library and supports the Qwen text encoder, enabling it to run on as little as 4 GB of VRAM. This release brings efficient high-resolution image generation to low-resource hardware, eliminating the information loss and artifacts common in latent diffusion models that rely on VAEs. It democratizes access to large-scale generative models. PixelDiT uses a dual-level Transformer architecture with a patch-level DiT for global semantics and a pixel-level DiT for fine texture details. The model runs at native 1024×1024 resolution, and its no-VAE design avoids the lossy compression artifacts typical of latent models.
 
-reddit · r/artificial · /u/kamilc86 · Jun 1, 18:15
+reddit · r/StableDiffusion · /u/madtune22 · Jun 2, 01:42
 
-**Background**: Data leakage is a critical issue in machine learning where a model inadvertently uses information during training that would not be available in real-world prediction, leading to deceptively high accuracy. Common causes include preprocessing data before splitting, using proxy features, or including future data when predicting the past. This flaw can render published results unreliable, as models may fail when deployed. The Princeton study underscores that this problem is widespread across many scientific domains.
+**Background**: Traditional diffusion models like Stable Diffusion operate in a compressed latent space, requiring a Variational Autoencoder (VAE) to encode and decode images, which can introduce blurring and artifacts. Pixel-space diffusion models instead work directly on the image pixels, preserving all details but historically demanding high memory. PixelDiT overcomes this with an efficient architecture and Qwen, a text encoder derived from large language models.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Leakage_(machine_learning)">Leakage (machine learning) - Wikipedia</a></li>
-<li><a href="https://www.ibm.com/think/topics/data-leakage-machine-learning">What is Data Leakage in Machine Learning? | IBM</a></li>
-<li><a href="https://machinelearningmastery.com/data-leakage-machine-learning/">Data Leakage in Machine Learning - MachineLearningMastery.com</a></li>
+<li><a href="https://pixeldit.github.io/">PixelDiT: Pixel Diffusion Transformers</a></li>
+<li><a href="https://arxiv.org/html/2511.20645v1">PixelDiT: Pixel Diffusion Transformers for Image Generation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#data leakage`, `#AI research`, `#reproducibility`, `#machine learning`, `#methodology`
+**Tags**: `#diffusion-models`, `#image-generation`, `#stable-diffusion`, `#transformer`, `#efficiency`
 
 ---
 
 <a id="item-16"></a>
-## [Cognitive Debt: The Invisible Risk of AI-Assisted Understanding](https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/) ⭐️ 8.0/10
+## [Study finds 45% silent bias in LLM resume screening](https://www.reddit.com/r/artificial/comments/1ttsr9b/i_analyzed_25500_llm_resume_screenings_to_measure/) ⭐️ 8.0/10
 
-A Reddit post introduces 'cognitive debt' as the deferred understanding that results from relying on AI tools, warning that it compounds invisibly and poses significant risks when scaled to critical fields like law, medicine, and finance. This concept highlights a critical downside of AI assistance: professionals may lose foundational understanding necessary for judgment, leading to confident ignorance in high-stakes decisions. Unlike technical debt, cognitive debt has no failing tests or visible symptoms; a recent MIT study even found that using LLMs for writing tasks led to weaker brain connectivity and lower ownership over the work.
+A new large-scale study analyzed 25,500 LLM resume evaluations across 10 models and discovered a 45% rate of "silent bias," where models invent professional-sounding excuses to penalize candidates based on minor identity cues. Claude and Mistral emerged as the fairest and most stable models, while Qwen and older Gemini showed high volatility. This exposes a significant liability for AI hiring tools under regulations like the EU AI Act, as they output subjective, noisy opinions instead of objective assessments, potentially leading to systematic discrimination and legal risks. The study tested 10 models, revealing a 6x difference in stability. Silent bias was exemplified when a model lowered a candidate's score after changing the university to MIT, falsely claiming irrelevance of previously praised experience. The interactive data app is available at re-cinq.com.
+
+reddit · r/artificial · /u/Signal_Rabbit_8303 · Jun 1, 13:46
+
+**Background**: LLM resume screening uses large language models to evaluate job applications, but these models can inherit biases from training data. "Silent bias" refers to subtle, nonexplicit discrimination where AI generates plausible but unfounded reasons to reject candidates. The EU AI Act mandates rigorous fairness and transparency for high-risk AI systems like hiring tools.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.crescendo.ai/blog/ai-bias-examples-mitigation-guide">16 Real AI Bias Examples & Mitigation Guide - Crescendo.ai</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Qwen">Qwen - Wikipedia</a></li>
+<li><a href="https://www.projectpro.io/article/mistral-llm/1028">A Complete Guide to Mistral Large Language Model</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI bias`, `#hiring algorithms`, `#LLM evaluation`, `#fairness in AI`, `#empirical study`
+
+---
+
+<a id="item-17"></a>
+## [Cognitive debt might be the most underrated problem AI is creating](https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/) ⭐️ 8.0/10
+
+A Reddit post introduces the term 'cognitive debt' to describe the hidden cost of relying on AI-generated decisions without foundational understanding, warning of compounding risks in software, law, medicine, and finance. This concept is grounded in a recent MIT study showing that using AI assistants like ChatGPT can lead to reduced cognitive engagement and weaker brain connectivity. This highlights a critical risk: as AI permeates high-stakes fields, professionals may make consequential decisions without real understanding, potentially leading to catastrophic outcomes. It reflects a broader trend of AI dependency eroding essential human skills. The MIT study (published in December 2025) used EEG to find that LLM users had the weakest brain connectivity compared to brain-only and search engine groups, and they struggled to recall their own work. Meanwhile, the practice of 'vibe coding'—accepting AI-generated code without thorough review—exemplifies cognitive debt in software development.
 
 reddit · r/artificial · /u/Expensive_Trouble_40 · Jun 1, 02:25
 
-**Background**: Technical debt refers to the implied cost of additional rework caused by choosing an easy solution now instead of a better approach. 'Vibe coding' is a related trend where developers use AI to generate code without fully understanding it. A study from MIT Media Lab showed that users relying on AI for essays exhibited reduced brain activity and struggled to quote their own work, providing neurological evidence for cognitive debt.
+**Background**: The term 'cognitive debt' is inspired by 'technical debt,' which describes the long-term costs of quick-and-dirty coding. In AI scenarios, cognitive debt arises when users accept AI outputs without understanding the underlying logic, weakening their own skills. This concept is supported by research from MIT Media Lab that measured brain activity during AI-assisted tasks. 'Vibe coding,' coined in 2025, is a related trend where developers prompt AI for code and accept results with minimal scrutiny.
 
 <details><summary>References</summary>
 <ul>
@@ -373,18 +410,39 @@ reddit · r/artificial · /u/Expensive_Trouble_40 · Jun 1, 02:25
 </ul>
 </details>
 
-**Tags**: `#cognitive debt`, `#AI risks`, `#technical debt`, `#software engineering`, `#critical systems`
+**Tags**: `#cognitive debt`, `#AI ethics`, `#software engineering`, `#AI safety`, `#critical thinking`
 
 ---
 
-<a id="item-17"></a>
-## [Samsung Memory Chip Prices Surge Up to 60% Amid AI Data Center Boom](https://t.me/zaihuapd/41691) ⭐️ 8.0/10
+<a id="item-18"></a>
+## [NVIDIA Unveils 32B Open Reasoning Model for Robotaxis](https://www.reddit.com/r/artificial/comments/1ttuhhd/nvidia_just_released_a_32b_open_reasoning_model/) ⭐️ 8.0/10
 
-Samsung Electronics, the world's largest memory chip maker, has raised prices on specific DDR5 memory chips by up to 60% this month compared to September, with 32GB module contract prices jumping from $149 to $239, driven by a severe shortage from the AI data center construction boom. This surge signals a major supply chain strain in the memory market, threatening to increase costs for AI infrastructure, cloud services, and consumer electronics, and potentially slowing AI adoption. Notable price jumps include the 32GB DDR5 module at $239, 16GB at $135, and 128GB at $1,194, all up approximately 50% or more; the shortage has triggered panic buying among some customers.
+NVIDIA released Alpamayo 2 Super, a 32-billion-parameter open-source vision-language-action model designed for Level 4 robotaxis, featuring 360-degree perception, reasoning-based meta-actions, and simulation tools for training and testing. This release signals a shift toward foundation-model-style reasoning in autonomous driving, enabling smaller teams to compete on data and validation instead of rebuilding infrastructure. It could accelerate open-source AV development and reduce barriers to entry. The model uses a teacher-student architecture for distillation, includes AlpaGym for closed-loop reinforcement learning, and OmniDreams for long-tail scenario generation. Model weights are expected this summer, but real-world validation remains challenging.
+
+reddit · r/artificial · /u/alexshev_pm · Jun 1, 14:47
+
+**Background**: Level 4 robotaxis operate without human intervention in defined areas. Vision-language-action models combine visual perception, language instructions, and action outputs. Simulation tools like AlpaGym and OmniDreams allow training and testing in virtual environments, especially for rare scenarios. Open-source AV models are rare, as most companies keep their stacks proprietary.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Alpamayo-2-Super-Open-Reasoning-Model-for-Robotaxis/default.aspx">NVIDIA Corporation - NVIDIA Launches Alpamayo 2 Super Open...</a></li>
+<li><a href="https://research.nvidia.com/labs/sil/projects/omnidreams-blog/">OmniDreams — NVIDIA SIL</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#autonomous driving`, `#reasoning model`, `#NVIDIA`, `#open-source`, `#simulation`
+
+---
+
+<a id="item-19"></a>
+## [Samsung Hikes DDR5 Memory Prices Up to 60% Amid AI Data Center Boom](https://t.me/zaihuapd/41691) ⭐️ 8.0/10
+
+Samsung Electronics has raised prices for specific DDR5 memory chips by up to 60% compared to September, with the 32GB module contract price jumping from $149 to $239, and 16GB and 128GB chips increasing by about 50%. This price surge signals severe memory chip shortages driven by the global race to build AI data centers, which could escalate costs for data center operators and impact the broader hardware market. Notably, the 32GB DDR5 module went from $149 to $239, and the 128GB module now costs $1194, reflecting panic buying among clients such as SMIC.
 
 telegram · zaihuapd · Jun 1, 14:16
 
-**Background**: DDR5 is the latest generation of DDR SDRAM, offering higher bandwidth and lower power consumption than its predecessor DDR4, making it essential for high-performance computing and AI data centers. Samsung, as the dominant memory supplier, plays a critical role in the global chip supply. The current AI boom is driving unprecedented demand for memory to handle massive datasets and complex models.
+**Background**: DDR5 SDRAM is the latest generation of double data rate synchronous dynamic random-access memory, offering higher bandwidth and lower power consumption than its predecessor DDR4. It is crucial for high-performance computing and data center servers, which are in high demand for AI workloads. Samsung is the world's largest memory chip maker, so its pricing moves have an outsized impact on the global supply chain.
 
 <details><summary>References</summary>
 <ul>
@@ -394,501 +452,372 @@ telegram · zaihuapd · Jun 1, 14:16
 </ul>
 </details>
 
-**Tags**: `#memory chips`, `#AI infrastructure`, `#chip shortage`, `#Samsung`, `#DDR5`
-
----
-
-<a id="item-18"></a>
-## [Verily's Debug Project: Sterile Mosquitoes Against Disease Vectors](https://debug.com/) ⭐️ 7.0/10
-
-The Debug project, an initiative by Alphabet's Verily, uses sterile male mosquitoes to reduce populations of disease-carrying mosquitoes like Aedes aegypti, sparking renewed discussion on genetic control methods. By suppressing mosquito vectors, the project could reduce the spread of diseases like Zika and dengue, showcasing a scalable biotechnology approach to public health. The project relies on releasing male mosquitoes infected with Wolbachia bacteria, which sterilizes wild females upon mating; the website was built in 2016 and has remained largely unchanged since.
-
-hackernews · Eridanus2 · Jun 1, 20:40 · [Discussion](https://news.ycombinator.com/item?id=48362347)
-
-**Background**: The sterile insect technique has been used for decades; Wolbachia is a naturally occurring bacterium that causes cytoplasmic incompatibility in insects. Gene drives, mentioned in comments, are a different genetic engineering method that forces traits through populations at super-Mendelian rates.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Debug_project">Debug Project - Wikipedia</a></li>
-<li><a href="https://debug.com/">Debug Project</a></li>
-<li><a href="https://moneywise.com/news/top-stories/alphabet-google-verily-debug-lab-mosquitoes-wolbachia-wnv-slev-sterile-insect-technique">Debug: Inside Alphabet's plan to release 32M lab mosquitoes</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters delved into gene drives as an alternative, recalled building the project's website in 2016, drew parallels to the MS-DOS debug.com tool, and shared DIY mosquito control using Bti, reflecting a mix of technical nostalgia, ethical debate, and practical tips.
-
-**Tags**: `#mosquito-control`, `#genetics`, `#verily`, `#public-health`, `#biotechnology`
-
----
-
-<a id="item-19"></a>
-## [Should You Normalize RGB by 255 or 256?](https://30fps.net/pages/255-vs-256-division/) ⭐️ 7.0/10
-
-The article demonstrates that normalizing 8-bit RGB values to [0,1] by dividing by 255 preserves the full dynamic range and avoids binning artifacts, whereas dividing by 256 only reaches 1.0 at exact value 255, causing a disproportional loss of one level. This subtle choice impacts color accuracy in computer graphics and image processing, where improper normalization can introduce banding and quantization artifacts, particularly in applications like GPU rendering, camera pipelines, and display calibration. The key insight is that integer values 0–255 represent 256 levels but only 255 steps; division by 255 maps them proportionally, while division by 256 compresses the range. The article also examines rounding strategies like adding 0.5 before truncation for more uniform quantization error distribution.
-
-hackernews · pplanu · Jun 1, 17:37 · [Discussion](https://news.ycombinator.com/item?id=48360054)
-
-**Background**: In digital imaging, RGB colors are typically stored as 8-bit integers (0–255). Normalizing to floating-point [0,1] is standard for operations like blending. The choice of divisor stems from how discrete quantization maps to a continuous range, and the common mistake of assuming 256 steps between 0 and 255 leads to mismatches at extremes.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Quantization_(signal_processing)">Quantization (signal processing) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Color_normalization">Color normalization - Wikipedia</a></li>
-<li><a href="https://akash0x53.github.io/blog/2013/04/29/RGB-Normalization/">RGB Normalization | Akash</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters largely agree dividing by 255 is theoretically correct, though some argue the error is negligible for 8-bit. Alternatives like scaling by 255.999 or adding 0.5 are debated. The discussion highlights the difference between “steps” and “levels,” and the non-linearity of sRGB. Overall sentiment is that it's a mathematically interesting but often overthought practical consideration.
-
-**Tags**: `#color`, `#graphics`, `#normalization`, `#quantization`, `#floating-point`
+**Tags**: `#memory chips`, `#AI data centers`, `#supply chain`, `#Samsung`, `#DDR5`
 
 ---
 
 <a id="item-20"></a>
-## [Run Windows GOG DOS Games on Apple Silicon Macs](https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/) ⭐️ 7.0/10
+## [macOS Must Restore the Spaces Grid](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/) ⭐️ 7.0/10
 
-A blog post provides detailed steps for running Windows GOG DOS games on M-series Macs, complemented by community suggestions for tools like DOSBox-X and Heroic Launcher. It addresses the challenge of retro gaming on modern ARM-based Macs, using emulation to keep classic DOS games accessible on the latest hardware. DOSBox-X is a feature-rich DOS emulator fork recommended in comments; Heroic Games Launcher simplifies launching GOG titles; Boxer-Plus reportedly adds Apple Silicon support. Rosetta 2's future retirement poses a compatibility concern.
+A blog post argues that Apple’s removal of the two-dimensional Spaces grid in macOS degraded multitasking usability, sparking widespread community discussion. The regression highlights a shift in Apple’s design philosophy away from power users, impacting productivity and user experience for those who rely on multiple virtual desktops. The 2D grid was replaced with a linear row in OS X Lion (10.7), and Mission Control was further degraded in 10.11 by hiding desktop previews; third-party tools like TotalSpaces offer partial restoration.
 
-hackernews · f055 · Jun 1, 13:28 · [Discussion](https://news.ycombinator.com/item?id=48356603)
+hackernews · ranebo · Jun 2, 01:28 · [Discussion](https://news.ycombinator.com/item?id=48364800)
 
-**Background**: DOSBox is a free, open-source MS-DOS emulator that runs old DOS games on modern operating systems. Apple Silicon Macs use ARM architecture, which cannot natively execute x86 DOS programs. Rosetta 2 is Apple's translation layer for running Intel apps on Apple Silicon, but its long-term support is uncertain. GOG distributes classic DRM-free games, often packaged as Windows executables.
+**Background**: Spaces, introduced in Mac OS X 10.5 Leopard, allowed users to organize multiple virtual desktops in a 2D grid, with an overview showing all spaces and easy navigation. Starting with Lion, Apple limited Spaces to a single horizontal row, and later Mission Control changes obstructed quick visual identification of desktops. This frustrated users who valued spatial memory and efficient multitasking.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://dosbox-x.com/">DOSBox-X - Accurate DOS emulation for Windows, Linux, macOS ...</a></li>
-<li><a href="https://heroicgameslauncher.com/">Heroic Games Launcher</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Apple_silicon">Apple silicon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Spaces_(software)">Spaces (software) - Wikipedia</a></li>
+<li><a href="https://totalspaces.binaryage.com/">TotalSpaces brings grid spaces to your Mac and more!</a></li>
+<li><a href="https://medium.com/@mikkpr/desktop-grid-for-macos-b2b2bfc34432">Workspace grid for MacOS without external tools | by Mikk Pristavka | Medium</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments are mostly positive, offering alternative tools: DOSBox-X, Pure, and Staging forks for enhanced emulation; Heroic Games Launcher for streamlined game management; and Boxer-Plus with Apple Silicon support. Some users express concern over Rosetta 2's retirement, but overall the tone is collaborative and resourceful.
+**Discussion**: Comments express frustration with Apple’s UX changes and security prompts, nostalgia for the grid, debates over design inspiration, and suggestions to switch to Linux or use third-party tools. One user recounts how a concept video may have influenced Apple’s linear design.
 
-**Tags**: `#dosbox`, `#retro-gaming`, `#macos`, `#emulation`, `#apple-silicon`
+**Tags**: `#macOS`, `#UX`, `#Spaces`, `#Apple`, `#window management`
 
 ---
 
 <a id="item-21"></a>
-## [The Pirate Bay Remains Resilient 20 Years After the Raid](https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/) ⭐️ 7.0/10
+## [Microsoft Unveils Surface Laptop Ultra with NVIDIA GPU](https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/) ⭐️ 7.0/10
 
-The article and discussion reflect on The Pirate Bay's continued operation and resilience two decades after the 2006 raid, noting that despite legal crackdowns, it remains functional due to decentralized technologies and ongoing demand. It highlights the failure of legal streaming services to address user frustrations like DRM and missing content, while raising ethical questions about corporations using copyrighted data for AI training—a practice many view as hypocritical. The Pirate Bay has shifted from hosting .torrent files to magnet links and DHT-based distribution, making the site more decentralized and resistant to shutdowns. However, it still faces intermittent downtime and legal threats.
+Microsoft unveiled the Surface Laptop Ultra on May 31, 2026, featuring an NVIDIA GPU and a 15-inch display with a keyboard layout that lacks a number pad, directly targeting Apple's MacBook Pro. This launch represents Microsoft's renewed effort to challenge Apple's dominance in the professional laptop segment by offering competitive hardware with NVIDIA graphics, though it must address historical Surface reliability concerns. The Surface Laptop Ultra incorporates an undisclosed NVIDIA GPU and a 15-inch display with a center-aligned keyboard lacking a numeric keypad, but specifications like exact GPU model, battery life, and pricing remain unclear; the collaboration between NVIDIA, MediaTek, and Microsoft may pose integration challenges.
 
-hackernews · speckx · Jun 1, 14:16 · [Discussion](https://news.ycombinator.com/item?id=48357154)
+hackernews · jbk · Jun 1, 12:04 · [Discussion](https://news.ycombinator.com/item?id=48355720)
 
-**Background**: The Pirate Bay is a notorious torrent index founded in 2003. In 2006, Swedish police raided its servers, leading to a high-profile trial. To survive, it adopted magnet links, which identify files by cryptographic hash rather than location, and leverages distributed hash tables (DHT) for a lookup service without central servers, enhancing resilience against takedowns.
+**Background**: Microsoft's Surface line has long been positioned as a premium Windows experience, though past models faced criticism for hardware reliability and software glitches. Apple's MacBook Pro, powered by Apple Silicon, sets the standard for professional laptops with its seamless integration. NVIDIA's GPUs are industry-standard for graphics and AI tasks, and their addition to the Surface Laptop Ultra is a notable first.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Magnet_link">Magnet link</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Distributed_hash_table">Distributed hash table</a></li>
+**Discussion**: Community reactions are mixed: while some appreciate the centered keyboard layout, many recall past Surface reliability problems such as dock failures and driver issues. Commenters note that Apple's vertical integration gives it a cohesion Microsoft can't match, given its reliance on NVIDIA and MediaTek. Some suggest that unless Microsoft commits to open-source friendliness, they won't buy.
 
-</ul>
-</details>
-
-**Discussion**: Commenters expressed frustration with legal streaming (e.g., missing audio tracks on Disney+), criticized the hypocrisy of corporations training AI on copyrighted data, shared practical uses for out-of-print content, and mentioned workarounds like searching torrents directly from qBittorrent.
-
-**Tags**: `#Piracy`, `#DRM`, `#AI Ethics`, `#Digital Rights`, `#Streaming Services`
+**Tags**: `#hardware`, `#microsoft`, `#surface`, `#nvidia`, `#competition`
 
 ---
 
 <a id="item-22"></a>
-## [AI Assistants as 'Thermonuclear ADHD Amplifier' Raise Concern](https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything) ⭐️ 7.0/10
+## [Florida Sues OpenAI and Sam Altman Over AI Risks](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215) ⭐️ 7.0/10
 
-David Wilson shared that using AI coding assistants like Claude often leads him to build numerous side projects instead of solving his original problems, and he suggests that cancelling his AI subscription might be the solution. Simon Willison agreed, calling it a very real problem that can take a vague idea to a polished, test-covered project in under an hour, only to be instantly abandoned. This reveals a hidden cost of AI-assisted coding, where the ease of generating software may amplify distraction and reduce meaningful productivity. It challenges the assumption that AI tools unequivocally enhance efficiency and could prompt a reevaluation of how developers and teams adopt these tools. Wilson described the technology as a 'thermonuclear ADHD amplifier,' noting that he and many friends end up juggling multiple unrelated, unmaintainable projects. However, some commenters on Hacker News with ADHD reported that AI agents helped them focus and complete projects for the first time, illustrating a sharp divide in experiences.
+Florida's attorney general filed a lawsuit against OpenAI and CEO Sam Altman, alleging they prioritized profits over safety and that ChatGPT contributed to societal harms like increased murders and suicides. The lawsuit represents a significant legal challenge for AI developers over product liability and could influence future regulation, though its political motivations may weaken its impact. The lawsuit's claims of direct causation between ChatGPT and violent crimes are legally tenuous; proving AI-caused harm under current product liability laws is extremely difficult, as seen in past failed lawsuits against video game makers.
 
-rss · Simon Willison · May 31, 16:31
+hackernews · cyunker · Jun 1, 16:02 · [Discussion](https://news.ycombinator.com/item?id=48358667)
 
-**Background**: AI coding assistants, such as Anthropic's Claude, are advanced language models that can generate functional code, tests, and documentation from natural language descriptions. They have become popular for rapid prototyping and boosting developer productivity, but emerging discussions also highlight risks of over-reliance and context switching.
+**Background**: Generative AI models like ChatGPT are large language models trained on vast text data to generate human-like responses; they lack sentience or intent. Product liability laws generally shield manufacturers from harm caused by misuse of their products, exemplified by gun and video game cases. The term 'AI' often inflates public perception of these tools' capabilities.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://claude.ai/public/artifacts/4bb4fec4-e113-4908-8aa0-80c938525fb0">AI Assistant | Claude</a></li>
+**Discussion**: Comments overwhelmingly dismiss the lawsuit as politically motivated grandstanding with little legal merit, comparing it to moral panics over video games. Some note that overestimating AI capabilities fuels such lawsuits, and point to Florida's governor potentially having presidential ambitions. Others highlight a double standard against AI compared to gun manufacturer liability.
 
-</ul>
-</details>
-
-**Discussion**: The Hacker News thread shows a split perspective: many with ADHD say AI helps them maintain focus and finish side projects, acting as a 'salve for my mind.' Others agree with Wilson that the low-friction reward cycle wastes time and harms attention, with some calling it horrific for sustained concentration.
-
-**Tags**: `#AI`, `#productivity`, `#programming`, `#attention`, `#mental health`
+**Tags**: `#AI`, `#law`, `#OpenAI`, `#policy`, `#lawsuit`
 
 ---
 
 <a id="item-23"></a>
-## [xAI's Grok Imagine: The Underrated Video Agent Model](https://www.latent.space/p/video-agents) ⭐️ 7.0/10
+## [The solution might be cancelling my AI subscription](https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything) ⭐️ 7.0/10
 
-In an interview, Ethan He, who led the development of xAI's Grok Imagine, reveals that the model was built in just three months and is positioned as a video agent model, underscoring its underrated potential compared to world models. This shifts the spotlight from world models that simulate physical reality to video agent models capable of actively generating and editing video content, potentially accelerating practical applications in content creation, media, and AI interaction. Grok Imagine, powered by xAI's Aurora engine, can generate images and videos in about 4 seconds and supports multi-turn iterative refinement; its agentic capabilities extend beyond generation to editing and understanding.
+David Wilson published a reflection on how AI coding tools, particularly Claude, led him to spin up over 16 unplanned projects, describing the experience as a "thermonuclear ADHD amplifier" and concluding that cancelling his AI subscription might be the solution. This highlights a real problem of AI tools causing distraction and project sprawl, especially among developers, and it prompts a discussion on discipline versus tool curation as AI coding agents become more prevalent. Wilson noted that Claude sessions often start with a request for a quick script and end with a full project including tests and documentation within an hour, but the original problem may remain unsolved. In the Hacker News thread, some ADHD users reported that AI helps them complete side projects for the first time and feel more focused.
 
-rss · Latent Space · Jun 1, 15:41
+rss · Simon Willison · May 31, 16:31
 
-**Background**: World models are AI systems that learn to predict future states of an environment, often from video, aiming to capture physical laws and causality. Video agent models, in contrast, are designed to perform actions such as generating or editing video in response to user instructions. The distinction matters as AI evolves toward more interactive and generative multimedia systems.
+**Background**: AI coding agents like Claude allow developers to rapidly generate code, tests, and documentation from natural language prompts, which dramatically lowers the barrier to creating software and can lead to an abundance of side projects. ADHD (Attention-Deficit/Hyperactivity Disorder) is a condition affecting attention regulation, and the term is used here to describe how the technology can amplify attention deficits.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/HKUDS/VideoAgent">GitHub - HKUDS/VideoAgent: "VideoAgent: All-in-One Agentic Framework for Video Understanding, Editing, and Remaking" · GitHub</a></li>
-<li><a href="https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/">‘ World Models ,’ an Old Idea in AI , Mount... | Quanta Magazine</a></li>
-<li><a href="https://imagine-grok.com/">Grok Imagine - Free AI Image & Video Generator | Grok Spicy Mode...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Claude_AI">Claude AI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Video Generation`, `#AI Agents`, `#xAI`, `#Grok Imagine`, `#World Models`
+**Discussion**: On Hacker News, several users with ADHD reported that AI coding agents help them maintain focus and complete projects for the first time, describing the experience as being more engaged and productive. This contrasts with David's view of AI as a "thermonuclear ADHD amplifier," highlighting potentially differing effects based on individual usage patterns.
+
+**Tags**: `#AI ethics`, `#productivity`, `#attention`, `#developer experience`, `#AI tools`
 
 ---
 
 <a id="item-24"></a>
-## [AI Weekly: Anthropic IPO Filing, NVIDIA Ships New Stack](https://aiweekly.co/issues/anthropic-files-for-an-ipo-nvidia-ships-its-stack) ⭐️ 7.0/10
+## [Anthropic Files for IPO, NVIDIA Ships Cosmos 3 and Vera Rubin](https://aiweekly.co/issues/anthropic-files-for-an-ipo-nvidia-ships-its-stack) ⭐️ 7.0/10
 
-Anthropic confidentially filed for an IPO and shipped Claude Opus 4.8 with a 4x code-reliability gain, while NVIDIA opened Cosmos 3, ramped Vera Rubin into production, and released a 1-petaflop AI developer box. Google retired Gemini 2.0 Flash and California's ban on AI companion chatbots in children's toys advanced. These developments signal accelerating commercialization and infrastructure build-out in AI. Anthropic's IPO highlights growing investor confidence, NVIDIA's releases push the frontier for physical AI and agentic systems, and regulation like SB 867 shows increasing government scrutiny of AI's societal impact. Anthropic's confidential S-1 filing hasn't disclosed financials yet. Claude Opus 4.8 achieved a 4x code-reliability improvement. NVIDIA's Cosmos 3 is an omnimodal world model, and Vera Rubin NVL72 unifies 72 Rubin GPUs and 36 Vera CPUs for 3.3x H100 performance. The 1-petaflop box is likely DGX Spark. SB 867 passed the California Senate; Illinois' data-center bill stalled.
+Anthropic confidentially filed for an IPO and released Claude Opus 4.8 with a 4x code-reliability gain. NVIDIA launched Cosmos 3, ramped Vera Rubin into production, and introduced a 1-petaflop AI developer box; meanwhile, Google retired Gemini 2.0 Flash. Anthropic's IPO signals growing commercialization of AI safety-focused labs, while NVIDIA's hardware push enables next-generation physical AI and agentic reasoning, impacting developers and enterprises. The regulatory moves reflect ongoing policy efforts to govern AI's societal impact. Claude Opus 4.8 delivers a 4x improvement in code reliability. NVIDIA's Cosmos 3 is an open omnimodal model for physical AI, while Vera Rubin NVL72 integrates 72 GPUs and 36 CPUs for agentic reasoning; a 1-petaflop AI developer box was also unveiled. California's SB 867 advanced, banning AI companion chatbots in children's toys.
 
 rss · AI Weekly · Jun 1, 00:00
 
-**Background**: An IPO (Initial Public Offering) lets a private company sell shares to the public. Anthropic is a leading AI safety company behind the Claude chatbot. NVIDIA, dominant in AI hardware, is expanding from GPUs to full-stack solutions including Cosmos (world models for robotics) and Vera Rubin (next-gen AI supercomputing platform). California's SB 867 aims to ban AI-powered social features in toys to safeguard children, reflecting growing legislative attention to AI risks.
+**Background**: Cosmos 3 is NVIDIA's open omni-model that translates visual context into purposeful planning and manipulation, advancing physical AI. Vera Rubin is NVIDIA's next-generation GPU microarchitecture, named after the astrophysicist, featuring a CPU-GPU design for data centers. An S-1 filing is a confidential submission to the SEC before a public offering, indicating Anthropic's intent to go public.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://research.nvidia.com/labs/cosmos-lab/cosmos3/">Cosmos 3 — Cosmos Lab</a></li>
-<li><a href="https://grokipedia.com/page/nvidia-vera-rubin-nvl72">NVIDIA Vera Rubin NVL72</a></li>
+<li><a href="https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai">Welcome NVIDIA Cosmos 3 : The First Open Omni-model for Physical...</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/vera-rubin-nvl72/">NVIDIA Vera Rubin NVL72 | Co-Designed Infrastructure for Agentic AI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Artificial Intelligence`, `#Anthropic`, `#NVIDIA`, `#Regulation`, `#IPO`
+**Tags**: `#AI`, `#Anthropic`, `#NVIDIA`, `#IPO`, `#regulation`
 
 ---
 
 <a id="item-25"></a>
-## [OpenAI Breaks Ground on 1GW Data Center in Michigan](https://openai.com/index/stargate-michigan-data-center) ⭐️ 7.0/10
+## [OpenAI Outlines AI Policy Stance and Advocacy Approach](https://openai.com/index/our-views-on-ai-policy-and-political-advocacy) ⭐️ 7.0/10
 
-OpenAI has begun construction on a 1 gigawatt data center in Michigan as part of the Stargate project, marking a major expansion of AI infrastructure. This massive facility will significantly boost AI compute capacity, enabling more advanced models and accelerating AI development, while also creating local jobs and economic growth. The data center is part of the Stargate joint venture with SoftBank, Oracle, and MGX, which plans up to $500 billion in total AI infrastructure investment; it will be powered by grid electricity and new natural gas plants with diesel backup.
+OpenAI published a statement detailing its positions on AI regulation, safety, and political advocacy, emphasizing that it supports thoughtful regulation and transparency, and clarifying that no outside political group speaks for the company. As a major AI developer, OpenAI's policy stance influences regulatory discussions and industry norms, and its clarification of independence dispels speculation about political affiliations. The statement supports AI safety and thoughtful regulation but does not reference specific legislative proposals, serving as a high-level policy position.
 
-rss · OpenAI Blog · Jun 1, 12:00
+rss · OpenAI Blog · Jun 1, 17:00
 
-**Background**: The Stargate project is a US-based AI infrastructure initiative led by OpenAI and SoftBank, aiming to build data centers to support large-scale AI model training and inference. 1GW (gigawatt) is an enormous power capacity, equal to the output of a typical nuclear reactor, required for frontier AI systems. Michigan was chosen for its available energy and supportive community, reflecting broader trends in data center siting.
+**Background**: OpenAI is a leading AI research and deployment company known for ChatGPT. Its policy positions are closely watched by policymakers worldwide, especially amid growing AI regulation efforts.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Stargate_LLC">Stargate LLC - Wikipedia</a></li>
-<li><a href="https://openai.com/index/announcing-the-stargate-project/">Announcing The Stargate Project | OpenAI</a></li>
-<li><a href="https://www.datacenterfrontier.com/hyperscale/article/55021675/the-gigawatt-data-center-campus-is-coming">The Gigawatt Data Center Campus is Coming</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#infrastructure`, `#data center`, `#OpenAI`, `#Stargate`
+**Tags**: `#AI policy`, `#regulation`, `#OpenAI`, `#transparency`, `#AI safety`
 
 ---
 
 <a id="item-26"></a>
-## [llama: limit max outputs of llama_context to save 1.2GB VRAM](https://www.reddit.com/r/LocalLLaMA/comments/1ttvpmt/llama_limit_max_outputs_of_llama_context_by/) ⭐️ 7.0/10
+## [OpenAI Breaks Ground on 1GW Data Center in Michigan](https://openai.com/index/stargate-michigan-data-center) ⭐️ 7.0/10
 
-A pull request by am17an modifies llama_context to reserve logits space only for the number of sequences needed (n_seqs), rather than for all tokens, leading to up to 1.2GB VRAM savings when combined with a user batch size of 2048 and multi-token prediction (MTP). This optimization directly benefits local LLM users with limited hardware by freeing up VRAM, potentially allowing larger models or longer context lengths without hardware upgrades, and aligns with the community's focus on efficient inference. The optimization defaults to reserving logits for all tokens for backward compatibility but allows server contexts to set the reservation to 1 when only one sequence is needed, maximizing memory savings. It builds on PR #23764 and was tested successfully with llama-perplexity.
+OpenAI has broken ground on a 1-gigawatt data center in Michigan, marking a major expansion of its Stargate project to build large-scale AI infrastructure. This facility will significantly increase compute capacity for training and running advanced AI models. The 1GW data center represents a massive investment in AI compute, critical for developing next-generation models and maintaining U.S. leadership in artificial intelligence. It also signals the growing scale of infrastructure required to support AI, with potential regional economic and job impacts. A 1GW data center can cost billions of dollars and consume as much power as a large city, highlighting the immense energy and financial demands of frontier AI. The project is part of the Stargate initiative, a $500 billion investment plan over four years by OpenAI and partners to build AI infrastructure across the U.S.
 
-reddit · r/LocalLLaMA · /u/pmttyji · Jun 1, 15:29
+rss · OpenAI Blog · Jun 1, 12:00
 
-**Background**: llama.cpp is an open-source C++ inference engine for large language models. Logits are the raw output scores before normalization, and storing them requires VRAM proportional to the vocabulary size and the number of sequences or batch size. Multi-token prediction (MTP) speeds up inference by predicting multiple tokens in one forward pass. This PR avoids allocating logits for unused sequences, reducing memory footprint.
+**Background**: The Stargate Project, announced in 2025, is a joint venture between OpenAI, SoftBank, and other partners to invest up to $500 billion in AI infrastructure across the United States. A 1-gigawatt data center is among the largest in the world—equivalent to the output of a nuclear power plant—and can cost upwards of $10 billion. Such massive facilities are essential to train and serve frontier AI models, which demand exponentially growing computational power.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.datacamp.com/tutorial/multi-token-prediction-llama-cpp">Multi-Token Prediction Tutorial: How To Speed Up LLMs | DataCamp</a></li>
-<li><a href="https://milind-divre.medium.com/what-your-llm-is-actually-doing-during-inference-and-why-it-feels-like-magic-c4b53e57081b">What Your LLM Is Actually Doing During Inference ... | Medium</a></li>
+<li><a href="https://openai.com/index/announcing-the-stargate-project/">Announcing The Stargate Project | OpenAI</a></li>
+<li><a href="https://www.bbc.com/news/articles/cy4m84d2xz2o">Stargate : Tech giants announce AI plan worth up to $500bn</a></li>
+<li><a href="https://datacenterpost.com/the-1-gigawatt-data-center-dilemma/">The 1 Gigawatt Data Center Dilemma - Data Center POST</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#llama.cpp`, `#memory optimization`, `#VRAM`, `#local LLM`, `#open-source`
+**Tags**: `#AI infrastructure`, `#data centers`, `#Stargate Project`, `#OpenAI`, `#Michigan`
 
 ---
 
 <a id="item-27"></a>
-## [JetBrains Open-Sources Mellum2: A Fast 12B AI Model](https://www.reddit.com/r/LocalLLaMA/comments/1ttt47t/mellum2_goes_open_source_a_fast_model_for_ai/) ⭐️ 7.0/10
+## [RTX Spark's 600GB/s Figure Is NVLink Speed, Not Memory Bandwidth](https://www.reddit.com/r/LocalLLaMA/comments/1tu639j/rtx_spark_does_not_have_600gbs_bandwith/) ⭐️ 7.0/10
 
-JetBrains has released Mellum2, a 12-billion-parameter large language model, under the Apache 2.0 open-source license. It is engineered for fast AI workflows with low latency and high throughput. This release provides the local LLM community with a production-grade, efficient model that can reduce costs and enable faster local inference. As a trusted tooling company, JetBrains' entry into open-source LLMs may accelerate adoption and innovation in local AI deployment. Mellum2 features 12 billion parameters, built from scratch, and optimized for latency, throughput, and cost. It is licensed under Apache 2.0, permitting commercial use.
+A Reddit user points out that the commonly cited 600GB/s bandwidth for the RTX Spark is actually the NVLink interconnect speed, not the device's memory bandwidth, correcting widespread misinformation in media reports. This correction is crucial for the LocalLLaMA community and other users evaluating hardware for LLM inference, as memory bandwidth is a key factor affecting performance; confusing NVLink speed with memory bandwidth can lead to poor purchasing decisions. The 600GB/s figure originates from Nvidia's Computex slides showing NVLink speed; actual memory bandwidth depends on the GPU model inside the RTX Spark and is expected to be significantly lower, with NVLink being irrelevant for single-GPU tasks.
 
-reddit · r/LocalLLaMA · /u/dayanruben · Jun 1, 14:00
+reddit · r/LocalLLaMA · /u/rpiguy9907 · Jun 1, 21:16
 
-**Background**: JetBrains is a software company best known for developer tools like IntelliJ IDEA. Mellum2 is the successor to their earlier 4-billion-parameter model, Mellum. Large language models (LLMs) are AI systems trained on massive text corpora to perform language-related tasks, and open-sourcing them allows wider community development and deployment.
+**Background**: RTX Spark is Nvidia's compact desktop aimed at personal AI workloads, featuring an RTX GPU. NVLink is Nvidia's high-speed interconnect technology for direct GPU-to-GPU communication, offering high bandwidth but distinct from the GPU's own memory bandwidth (the rate at which data can be read from or written to its video memory). Memory bandwidth is critical for LLM inference performance, as it determines how fast the model's parameters can be fed to the GPU's processing units. Confusing the two figures can mislead users when comparing hardware for AI tasks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.jetbrains.com/ai/2026/06/mellum2-goes-open-source-a-fast-model-for-ai-workflows/">Mellum 2 Goes Open Source: A Fast Model for AI Workflows</a></li>
-<li><a href="https://en.wikipedia.org/wiki/PhpStorm">JetBrains - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/products/rtx-spark/">Slim Laptops & Small Desktops | NVIDIA RTX Spark</a></li>
+<li><a href="https://en.wikipedia.org/wiki/NVLink">NVLink</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#open-source`, `#AI model`, `#JetBrains`, `#LLM`, `#local-llama`
+**Tags**: `#RTX Spark`, `#Hardware`, `#LLM Inference`, `#Correction`, `#LocalLLaMA`
 
 ---
 
 <a id="item-28"></a>
-## [Real-Time Multilingual ASR Routes Audio Between Lightweight Monolingual Models](https://www.reddit.com/r/MachineLearning/comments/1ttwfuy/realtime_multilingual_asr_using_rolling_buffers/) ⭐️ 7.0/10
+## [Man Builds AI-Powered Laser to Kill Mosquitoes](https://www.reddit.com/r/LocalLLaMA/comments/1tuclzc/man_trains_local_model_to_detect_and_kill/) ⭐️ 7.0/10
 
-A new real-time multilingual ASR system routes streaming audio between specialized monolingual models (Zipformer-based) based on language detection, using a rolling buffer and rollback mechanism to self-correct code-switches, achieving 13% WER on inter-utterance switching benchmarks. This approach enables accurate, resource-efficient multilingual transcription on local hardware without large cloud-dependent models, potentially improving real-time communication tools and accessibility in code-switching environments. It integrates Zipformer for streaming transcription, Silero VAD for speech boundaries, and SpeechBrain for language identification, triggering rollback when a language switch is detected above a confidence threshold. Intra-utterance code-mixing degrades performance to 41% WER, and pre-selecting expected languages boosts accuracy.
+A DIY enthusiast trained a local AI model on-device to detect mosquitoes and used it to control a laser that kills them. It demonstrates the practicality of edge AI for niche tasks like pest control, avoiding cloud reliance and inspiring similar open-source automation projects. The system likely combines a camera, a fine-tuned object detection model, and a laser module controlled by a microcontroller, though accuracy and safety details are unknown.
 
-reddit · r/MachineLearning · /u/JeanMichelRanu · Jun 1, 15:53
+reddit · r/LocalLLaMA · /u/No_Information9314 · Jun 2, 01:39
 
-**Background**: Zipformer is a fast, memory-efficient Transformer encoder for ASR, known for balancing speed and accuracy. Silero VAD is a pre-trained voice activity detector supporting over 6000 languages and various noise conditions. SpeechBrain is an open-source PyTorch toolkit for speech processing, including language identification. The system leverages these to route audio between ~100M-parameter monolingual models, avoiding the overhead of large multilingual models.
+**Background**: On-device AI runs models locally on hardware like a Raspberry Pi, preserving privacy and reducing latency. Object detection identifies specific items in images. While laser pest control exists commercially, this project customizes it with open-source tools and local inference.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/html/2310.11230v3">Zipformer : A faster and better encoder for automatic speech ...</a></li>
-<li><a href="https://github.com/snakers4/silero-vad">GitHub - snakers4/silero-vad: Silero VAD: pre-trained ...</a></li>
-<li><a href="https://github.com/speechbrain/speechbrain">GitHub - speechbrain/speechbrain: A PyTorch-based Speech Toolkit</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#ASR`, `#multilingual`, `#real-time processing`, `#model routing`, `#streaming transcription`
+**Tags**: `#local-ai`, `#computer-vision`, `#diy`, `#edge-computing`, `#object-detection`
 
 ---
 
 <a id="item-29"></a>
-## [Why Top LightGBM Feature by Importance Worsened Predictions](https://www.reddit.com/r/MachineLearning/comments/1tu0y14/why_our_1_lightgbm_feature_by_importance_made/) ⭐️ 7.0/10
+## [llama.cpp PR Cuts VRAM by 1.2GB with Logits Limiting](https://www.reddit.com/r/LocalLLaMA/comments/1ttvpmt/llama_limit_max_outputs_of_llama_context_by/) ⭐️ 7.0/10
 
-A case study on a pricing engine showed that a Bayesian target-encoded feature, despite being LightGBM's top feature by importance, captured irreducible label noise, leading to worse generalization. This reveals that feature importance can be misleading, urging practitioners to validate via ablation. It highlights a common pitfall in gradient boosting with target encoding. Ablation across 4 seeds and 3 variants increased test MAPE by 0.28pp; the between-variant delta was 7x the within-variant standard deviation.
+A draft pull request in llama.cpp reduces VRAM usage by reserving logits space only for the number of sequences (n_seqs) instead of the full context, saving approximately 1.2GB when using multi-token prediction speculative decoding. This optimization directly lowers the memory footprint of LLM inference, making local deployment of large models more feasible on consumer GPUs and helping to reduce hardware costs. The PR limits logits reservation to n_seqs instead of the full context length; with parameters -ub 2048 and MTP enabled, it saves 1.2GB VRAM. It is still a draft and may see API design improvements.
 
-reddit · r/MachineLearning · /u/Nj-yeti · Jun 1, 18:20
+reddit · r/LocalLLaMA · /u/pmttyji · Jun 1, 15:29
 
-**Background**: LightGBM is a gradient boosting framework using tree-based algorithms, often with feature importance to rank predictors. Target encoding replaces categorical values with target means, but can leak information and overfit. Bayesian target encoding uses priors to smooth estimates, yet may still capture irreducible noise from unobserved factors.
+**Background**: llama.cpp is an open-source C++ library for running large language models on commodity hardware, where VRAM is often limited. Speculative decoding accelerates inference by using a draft model to predict multiple tokens and a target model to verify them. Multi-token prediction (MTP) is a technique where the model predicts several future tokens simultaneously, commonly used in speculative decoding setups. This PR optimizes logits tensor allocation to reduce memory overhead when using such techniques.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/LightGBM">LightGBM</a></li>
-<li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.TargetEncoder.html">TargetEncoder — scikit-learn 1.8.0 documentation</a></li>
-<li><a href="https://arxiv.org/abs/2006.01317">[2006.01317] Sampling Techniques in Bayesian Target Encoding</a></li>
+<li><a href="https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/">An Introduction to Speculative Decoding for Reducing Latency in AI Inference | NVIDIA Technical Blog</a></li>
+<li><a href="https://github.com/Xiaohao-Liu/Awesome-Multi-Token-Prediction">GitHub - Xiaohao-Liu/Awesome-Multi-Token-Prediction: A curated list of papers, tools, and resources on Multi-Token Prediction (MTP) and related techniques in Large Language Models (LLMs), Speech-Language Models (SLMs), and more. · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#machine learning`, `#gradient boosting`, `#feature importance`, `#target encoding`, `#overfitting`
+**Tags**: `#llama.cpp`, `#VRAM optimization`, `#LLM inference`, `#open-source`, `#pull request`
 
 ---
 
 <a id="item-30"></a>
-## [Cosmos3-Super-Image2Video Runs Locally on Single RTX PRO 6000 96GB](https://www.reddit.com/r/StableDiffusion/comments/1tu7bth/cosmos3superimage2video_running_locally_on_a/) ⭐️ 7.0/10
+## [Real-time multilingual ASR using rolling buffers and monolingual models](https://www.reddit.com/r/MachineLearning/comments/1ttwfuy/realtime_multilingual_asr_using_rolling_buffers/) ⭐️ 7.0/10
 
-A user successfully ran the BF16 variant of nvidia/Cosmos3-Super-Image2Video on a single RTX PRO 6000 GPU with 96GB VRAM, generating 720p videos in 3–9 minutes. The setup used Docker with vllm-omni CUDA 13.0 on Ubuntu, demonstrating that the full Super model can be loaded locally on workstation hardware. This shows that a large video generation model previously constrained to data-center clusters can now operate on a single professional GPU, enabling local, private image-to-video generation without cloud dependencies and paving the way for broader accessibility among researchers and creators with high-end workstations. The model required 128GB system RAM and a swap file to load, with VRAM usage peaking at 85GB; tests used SPDA attention (not SAGE) and layerwise offloading. Generation of 1280×720, 49 frames, 24 fps, 20 steps took 174 seconds, while 121 frames took about 9 minutes.
+A researcher at Gladia introduced a real-time multilingual ASR system that routes audio between small monolingual models and uses a rollback pipeline to correct language-switch transcription, achieving 13% WER on inter-utterance code-switching benchmarks. This approach enables accurate real-time multilingual transcription on resource-constrained devices, reducing reliance on large cloud-based models and benefiting applications like live captioning and multilingual meetings. The system uses Zipformer (~100M parameters) for streaming transcription, Silero VAD for speech boundary detection, and SpeechBrain for language identification; it starts transcribing immediately and rolls back to the last speech boundary upon language switch detection, but intra-utterance code-switching (e.g., mid-sentence language mixing) remains a limitation with 41% WER.
 
-reddit · r/StableDiffusion · /u/JahJedi · Jun 1, 22:01
+reddit · r/MachineLearning · /u/JeanMichelRanu · Jun 1, 15:53
 
-**Background**: Cosmos3-Super-Image2Video is Nvidia's large omnimodal world model that generates temporally coherent video from a reference image and text prompt. The RTX PRO 6000 is a professional Blackwell GPU with 96GB VRAM, aimed at workstations. SPDA (Scaled Dot-Product Attention) is a standard attention mechanism in transformers, while SAGE (SageAttention) is an 8-bit attention method for faster inference. Layerwise offloading moves model layers between GPU and system memory to reduce VRAM footprint.
+**Background**: Automatic speech recognition (ASR) converts speech to text, but multilingual models are often too large for local hardware. This system splits the task: small monolingual models handle transcription, a language identification model detects the language, and a rolling buffer stores audio to allow re-transcription after a switch. Zipformer is a fast Transformer variant for streaming ASR; Silero VAD is a pre-trained voice activity detector; SpeechBrain is a speech processing toolkit.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://huggingface.co/nvidia/Cosmos3-Super-Image2Video">nvidia/Cosmos3-Super-Image2Video · Hugging Face</a></li>
-<li><a href="https://github.com/thu-ml/SageAttention">GitHub - thu-ml/SageAttention: [ICLR2025, ICML2025, NeurIPS2025...]</a></li>
+<li><a href="https://arxiv.org/html/2310.11230v3">Zipformer : A faster and better encoder for automatic speech recognition</a></li>
+<li><a href="https://github.com/snakers4/silero-vad">GitHub - snakers4/silero-vad: Silero VAD: pre-trained enterprise-grade Voice Activity Detector · GitHub</a></li>
+<li><a href="https://github.com/speechbrain/speechbrain">GitHub - speechbrain/speechbrain: A PyTorch-based Speech Toolkit · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#local-ai`, `#video-generation`, `#nvidia-gpu`, `#cosmos3`, `#image-to-video`
+**Tags**: `#ASR`, `#real-time transcription`, `#multilingual`, `#language identification`, `#speech processing`
 
 ---
 
 <a id="item-31"></a>
-## [Nvidia Releases 64B-Param Cosmos3-Super Image-to-Video Model](https://www.reddit.com/r/StableDiffusion/comments/1ttjuc0/nvidia_releases_cosmos3superimage2video_64b/) ⭐️ 7.0/10
+## [Why Our #1 LightGBM Feature by Importance Made Predictions Worse](https://www.reddit.com/r/MachineLearning/comments/1tu0y14/why_our_1_lightgbm_feature_by_importance_made/) ⭐️ 7.0/10
 
-Nvidia has released Cosmos3-Super-Image2Video, a 64-billion-parameter generative AI model that transforms static images into dynamic videos. It is part of the Cosmos 3 family of open-world models. This large-scale image-to-video model could significantly advance synthetic data generation for robotics and autonomous vehicles, pushing the frontier of open-source physical AI. Its release may accelerate development in video synthesis and multimodal applications. The model is designed for high physics accuracy and generation quality, suitable for post-training robotics and AV models. It is available on Hugging Face under an open-source license, and a smaller Nano version exists for workstation GPUs like the RTX PRO 6000.
+A Bayesian target encoder feature, engineered for a pricing model, achieved the highest importance score in LightGBM but degraded hold-out performance because it learned irreducible label variance from unobserved factors. This case study demonstrates that high feature importance in gradient boosting models does not guarantee better generalization, and it warns practitioners about the overfitting risks of target encoding without proper cross-validation. In a strict 4-seed × 3-variant ablation, the test MAPE increased by 0.28 percentage points, and the between-variant delta was 7× the within-variant standard deviation, revealing severe overfitting.
 
-reddit · r/StableDiffusion · /u/AgeNo5351 · Jun 1, 06:32
+reddit · r/MachineLearning · /u/Nj-yeti · Jun 1, 18:20
 
-**Background**: Image-to-video generation uses AI to create a video clip from a single image, often adding motion and scene expansion. Cosmos 3 is a family of 'world models' that aim to understand and simulate the physical world, generating not just video but also audio and actions. The 'Super' variant indicates the largest and most capable version, with 64 billion parameters, which measures model size and complexity. Such models are crucial for training robots and self-driving cars in virtual environments.
+**Background**: LightGBM is a gradient boosting framework that uses tree-based learning. Feature importance measures how much each feature contributes to the model's predictions, but it can be misleading if a feature encodes target leakage. Bayesian target encoding replaces categorical levels with a weighted average of the target, which can capture noise if not regularized properly. In this case, the encoder learned irreducible variance from unobservable factors like condition nuances and seller behavior, leading to overfitting.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://huggingface.co/nvidia/Cosmos3-Super">nvidia/Cosmos3-Super - Hugging Face</a></li>
-<li><a href="https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai">NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LightGBM">LightGBM</a></li>
+<li><a href="https://bayte.readthedocs.io/">Bayesian target encoding documentation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#image-to-video`, `#generative AI`, `#AI model release`, `#Stable Diffusion`
+**Tags**: `#machine learning`, `#gradient boosting`, `#feature importance`, `#overfitting`, `#target encoding`
 
 ---
 
 <a id="item-32"></a>
-## [ByteDance Releases Bernini: Unified Video Model on Wan-2.2](https://www.reddit.com/r/StableDiffusion/comments/1ttn2kd/bernini_released_unified_video_generation_and/) ⭐️ 7.0/10
+## [FML-Bench reveals MLE-Bench gains mostly from models and search, not algorithms](https://www.reddit.com/r/MachineLearning/comments/1ttu47l/how_much_of_mlebenchs_gains_are_the_algorithm_vs/) ⭐️ 7.0/10
 
-ByteDance has released Bernini, a unified video diffusion model for generation and editing that employs a novel latent semantic planning approach. It uses an MLLM-based planner to predict latent semantic representations, built on top of the Wan-2.2 video model. This unification of generation and editing through high-level semantic planning streamlines video creation pipelines and offers more coherent, controllable results. It addresses a key challenge in AI video, with potential impact on content creation and media industries. The model employs a DiT (Diffusion Transformer) renderer guided by latent semantic representations from an MLLM planner. The model weights and paper are publicly available on Hugging Face and arXiv, though compute requirements and commercial licensing are not specified.
+A new benchmark, FML-Bench, shows that when controlling for base model and compute budget, a two-year-old AIDE algorithm matches modern ML agents on automated research tasks, indicating that recent MLE-Bench score jumps (from 30% to 80%) are largely due to better models and more search, not algorithmic innovations. This finding challenges the perceived rapid algorithmic progress in automated ML research, suggesting that scaling models and compute may be the dominant drivers. It could redirect research focus toward fundamental model improvements and efficient search strategies rather than solely novel agent architectures. FML-Bench unifies the code editing agent, step definition, and train/test splits to isolate algorithmic efficiency. In controlled tests, the older AIDE tree-search agent performed comparably to modern systems, highlighting that gains may stem from compute scaling and overfitting to the MLE-Bench task set.
 
-reddit · r/StableDiffusion · /u/AgeNo5351 · Jun 1, 09:34
+reddit · r/MachineLearning · /u/Educational_Strain_3 · Jun 1, 14:34
 
-**Background**: Video diffusion models generate and edit videos by iteratively denoising random noise. Wan is a family of open video generative models; Wan-2.2 is noted for its speed at 720p resolution. Latent semantic planning uses a multimodal large language model to understand and plan video content at a semantic level, which a diffusion model then renders into pixels.
+**Background**: MLE-Bench is OpenAI's benchmark for automated AI research, where agents write code to solve ML tasks. AIDE is an earlier open-source tree-search agent for ML engineering. FML-Bench is a new benchmark designed to evaluate agents' scientific research capabilities on fundamental ML problems, controlling for model strength and search budget.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://huggingface.co/papers/2605.22344">Paper page - Bernini: Latent Semantic Planning for Video ...</a></li>
-<li><a href="https://arxiv.org/abs/2605.22344">[2605.22344] Bernini: Latent Semantic Planning for Video ...</a></li>
-<li><a href="https://github.com/Wan-Video/Wan2.2">GitHub - Wan-Video/Wan2.2: Wan: Open and Advanced Large-Scale Video Generative Models · GitHub</a></li>
+<li><a href="https://github.com/openai/mle-bench">GitHub - openai/ mle - bench : MLE - bench is a benchmark for measuring...</a></li>
+<li><a href="https://github.com/qrzou/FML-bench">GitHub - qrzou/ FML - bench : FML - bench : A Benchmark for Automatic...</a></li>
+<li><a href="https://github.com/WecoAI/aideml">GitHub - WecoAI/aideml: AIDE: AI-Driven Exploration in the Space of Code. The machine Learning engineering agent that automates AI R&D. · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#video-generation`, `#video-editing`, `#diffusion-models`, `#ai`, `#research`
+**Tags**: `#automated machine learning`, `#benchmarks`, `#agent systems`, `#overfitting`, `#model evaluation`
 
 ---
 
 <a id="item-33"></a>
-## [62 Samplers and 16 Schedulers Rated for WAN 2.1 Image Quality](https://www.reddit.com/r/StableDiffusion/comments/1ttpvn4/i_compared_62_samplers_and_16_schedulers_for_wan/) ⭐️ 7.0/10
+## [Cosmos3-Super-Image2Video Local Run on Single RTX PRO 6000 96GB](https://www.reddit.com/r/StableDiffusion/comments/1tu7bth/cosmos3superimage2video_running_locally_on_a/) ⭐️ 7.0/10
 
-A Reddit user shared a color-coded table that rates 62 different samplers and 16 schedulers for WAN 2.1 image generation based on subjective image quality. This provides practical guidance for Stable Diffusion and WAN 2.1 users to quickly choose optimal settings, saving time on trial-and-error experimentation. The rating uses a color scale (Red < Orange < Yellow < Green) and is based on one user's personal judgment rather than objective metrics.
+Nvidia's Cosmos3-Super-Image2Video model was successfully run on a single RTX PRO 6000 96GB GPU using vllm-omni's layerwise offloading, generating 720p 49-frame videos in about 3 minutes. This demonstrates that a cutting-edge, resource-intensive video generation model can be deployed on a single professional GPU, bypassing cloud APIs and enabling local experimentation and customization for users with such hardware. The setup required 128GB system RAM and a 128GB swap file to load the model; without swap, loading failed near the end. BF16 precision and layerwise offload limited VRAM usage to 73–85GB depending on frame count.
 
-reddit · r/StableDiffusion · /u/VirusCharacter · Jun 1, 11:54
+reddit · r/StableDiffusion · /u/JahJedi · Jun 1, 22:01
 
-**Background**: Samplers and schedulers control the denoising process in diffusion models, directly affecting image quality and generation speed. WAN 2.1 is an open-source AI model developed by Alibaba for generating images and videos from text prompts.
+**Background**: Cosmos3-Super-Image2Video is a large transformer-based video generation model by Nvidia, part of the Cosmos3 family, known for high-fidelity outputs but typically requiring multiple high-end GPUs. vllm-omni extends the vLLM framework for multimodal generation and offers layerwise offloading, which streams model layers from CPU RAM to GPU only when needed, drastically reducing VRAM requirements at the cost of some speed. The RTX PRO 6000 is a professional GPU with 96GB of VRAM, making it capable of running such models locally. SPDA (Scaled Dot Product Attention) is a PyTorch-native attention implementation that the tester used; SAGE attention is another optimized variant.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://huggingface.co/spaces/ovi054/Wan2-1-Image-Generator">Wan 2 . 1 Text to Image - a Hugging Face Space by ovi054</a></li>
-<li><a href="https://comfyanonymous.github.io/ComfyUI_examples/wan/">Wan 2 . 1 Models | ComfyUI_examples</a></li>
+<li><a href="https://huggingface.co/nvidia/Cosmos3-Super-Image2Video/tree/main/scripts">nvidia/ Cosmos 3 - Super - Image 2 Video at main</a></li>
+<li><a href="https://docs.vllm.ai/projects/vllm-omni/en/latest/user_guide/diffusion/cpu_offload_diffusion/">CPU Offloading - vLLM - Omni</a></li>
+<li><a href="https://medium.com/data-science/increasing-transformer-model-efficiency-through-attention-layer-optimization-fefa6f87b1d6">Increasing Transformer Model Efficiency Through Attention Layer ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Stable Diffusion`, `#image generation`, `#samplers`, `#schedulers`, `#WAN 2.1`
+**Tags**: `#Cosmos3`, `#Video Generation`, `#Local Deployment`, `#NVIDIA RTX PRO 6000`, `#VRAM Optimization`
 
 ---
 
 <a id="item-34"></a>
-## [NVIDIA's Cosmos Omnimodel Family: Edge, Nano, Super Variants](https://www.reddit.com/r/StableDiffusion/comments/1ttka77/the_cosmos_omnimodel_family_of_models_3_variants/) ⭐️ 7.0/10
+## [Bernini: Unified Video Generation & Editing Model from ByteDance](https://www.reddit.com/r/StableDiffusion/comments/1ttn2kd/bernini_released_unified_video_generation_and/) ⭐️ 7.0/10
 
-NVIDIA introduced the Cosmos omnimodel family, featuring Edge (4B), Nano (16B), and Super (64B) variants that jointly process and generate language, image, video, audio, and action sequences using a unified mixture-of-transformers architecture. The Super model is further fine-tuned for specialized tasks like text-to-image and image-to-video. By consolidating vision, language, generation, and action prediction into a single framework, the omnimodel approach could streamline multi-modal AI development and reduce the need for task-specific models. This has implications for content creation, virtual assistants, and embodied AI. The models employ a mixture-of-transformers architecture with modality-aware sparsity, which decouples parameters across modalities to improve scalability. The 64B Super variant is post-trained with specialized fine-tuning for text-to-image and image-to-video tasks, while the smaller variants are optimized for efficiency on edge devices.
+ByteDance released Bernini, a unified video generation and editing model that decouples semantic planning (via an MLLM) from pixel rendering (via a DiT). It is built on the Wan-2.2 diffusion architecture and available on Hugging Face with a research paper. Bernini's unified approach simplifies video generation and editing, reducing the need for separate pipelines, and its state-of-the-art performance could lower the bar for high-quality video content creation. Bernini introduces SA-3D RoPE for handling multiple visual inputs and latent chain-of-thought reasoning in its planner, achieving state-of-the-art results across video generation and editing benchmarks. It leverages Wan-2.2's Mixture-of-Experts architecture for efficient diffusion.
 
-reddit · r/StableDiffusion · /u/AgeNo5351 · Jun 1, 06:57
+reddit · r/StableDiffusion · /u/AgeNo5351 · Jun 1, 09:34
 
-**Background**: The term 'omnimodel' refers to a unified AI model that natively integrates multiple modalities—text, image, video, audio, and action—within a single architecture, enabling joint understanding and generation. Mixture-of-Transformers (MoT) is a sparse architecture that uses modality-aware parameter decoupling to efficiently scale multi-modal models. World-action models (WAMs) are emerging frameworks that combine predictive world modeling with action generation for robotics and embodied AI.
+**Background**: Video generation and editing are typically handled by separate specialized models. Diffusion models, like Wan-2.2, generate videos by gradually denoising random noise based on a text description. Wan-2.2 improves efficiency with a Mixture-of-Experts architecture. Bernini splits the task: a multimodal large language model plans the video's semantics, and a diffusion model renders the pixels, enabling both generation and editing in one framework.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2411.04996">Mixture-of-Transformers: A Sparse and Scalable Architecture ... facebookresearch/Mixture-of-Transformers - GitHub Images Mixture-of-Transformers:A Sparse and Scalable Architecture ... Mixture-of-Transformers: A Sparse and Scalable Architecture ... Mixture-of-Transformer Architectures - emergentmind.com Mixture-of-Transformers: A Sparse and Scalable Architecture ... Mixture-of-Transformers (MoT): A New Era in Multi-Modal AI ...</a></li>
-<li><a href="https://github.com/facebookresearch/Mixture-of-Transformers">facebookresearch/Mixture-of-Transformers - GitHub</a></li>
-<li><a href="https://medium.com/@frinktyler1445/omnimodels-the-unified-architecture-for-intelligence-89856a63e975">OmniModels: The Unified Architecture for Intelligence | by Tyler Frink | Medium</a></li>
+<li><a href="https://bernini-ai.github.io/">Bernini: Latent Semantic Planning for Video Diffusion</a></li>
+<li><a href="https://arxiv.org/abs/2605.22344">[2605.22344] Bernini: Latent Semantic Planning for Video Diffusion</a></li>
+<li><a href="https://github.com/Wan-Video/Wan2.2">GitHub - Wan-Video/Wan2.2</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#multi-modal`, `#text-to-video`, `#image-generation`, `#world-model`, `#NVIDIA`
+**Tags**: `#video generation`, `#diffusion models`, `#AI`, `#research paper`, `#ByteDance`
 
 ---
 
 <a id="item-35"></a>
-## [Can AI Build Its Own Tools? A Local Model Test](https://www.reddit.com/r/artificial/comments/1tuaqjp/can_an_ai_meaningfully_build_and_improve_the/) ⭐️ 7.0/10
+## [Princeton Study Finds Data Leakage in 300 AI Papers](https://www.reddit.com/r/artificial/comments/1tu0ri0/how_much_published_ai_research_is_wrong_because/) ⭐️ 7.0/10
 
-The author built SPINE, an agent system written entirely by AI agents, designed to self-improve via Spec-Driven Development on local 30B-class models, revealing that legibility and deterministic workflows are the main challenges rather than raw code generation. This experiment shows that with careful structural constraints, even smaller local models can safely iterate on their own tooling, potentially lowering the barrier to advanced AI-assisted development without relying on costly frontier models. SPINE uses deterministic decision points, bounded prompts, and narrow tools to keep a 30B-class model focused. It improves itself by analyzing its own execution traces, and is open-source under the MIT license.
+A Reddit post highlights a Princeton paper by Kapoor and Narayanan that identified data leakage in nearly 300 machine learning papers across 17 fields, such as medicine and economics, revealing how leakage causes unreliable results. A specific example cited is civil war prediction, where complex models appeared superior until leakage was fixed, after which they performed no better than decades-old logistic regression. This pervasive methodological flaw undermines the reliability of AI research, leading to inflated performance claims that fail in real-world applications. It calls for rigorous reproducibility checks and impacts the adoption of AI in critical fields like healthcare and policy-making. Data leakage happens when models use information during training that would be unavailable at prediction time, such as scaling before splitting data or including proxy features. The Princeton study found that after correcting leakage, sophisticated 'AI-cracked' models offered no advantage over simple statistical baselines.
 
-reddit · r/artificial · /u/PatC883 · Jun 2, 00:17
+reddit · r/artificial · /u/kamilc86 · Jun 1, 18:15
 
-**Background**: Spec-Driven Development (SDD) treats specifications as the authoritative source, with code generated from them. An agent harness is the infrastructure wrapping an LLM to manage its entire workflow. Gastown is a multi-agent orchestration system for coding agents. These concepts ground SPINE's attempt to let a modest model safely evolve its own operating environment.
+**Background**: Data leakage is a well-known pitfall in machine learning where training inadvertently includes future or target-related information, leading to overoptimistic evaluation. The Princeton paper by Kapoor and Narayanan surveyed reproducibility failures across 17 fields, affecting 329 papers, and proposed a taxonomy of leakage types to help researchers avoid them. This is part of a broader reproducibility crisis in science, where many published findings do not hold up under scrutiny.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/gastownhall/gastown">GitHub - gastownhall/gastown: Gas Town - multi-agent ...</a></li>
-<li><a href="https://developer.microsoft.com/blog/spec-driven-development-spec-kit">Diving Into Spec-Driven Development With GitHub Spec Kit Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl Spec-Driven Development | Specifications for the AI Era Spec-Driven Development GitHub - github/spec-kit: Toolkit to help you get started ... Spec-Driven Development (SDD): The Definitive 2026 Guide What is spec-driven development? - IBM</a></li>
-<li><a href="https://www.langchain.com/blog/the-anatomy-of-an-agent-harness">The Anatomy of an Agent Harness</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Leakage_(machine_learning)">Leakage (machine learning) - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2207.07048">[2207.07048] Leakage and the Reproducibility Crisis in ML-based Science</a></li>
+<li><a href="https://csml.princeton.edu/news/princeton-researchers-tackle-reproducibility-machine-learning">Princeton researchers tackle reproducibility in machine learning | Center for Statistics and Machine Learning</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI-assisted development`, `#self-improving AI`, `#local LLM inference`, `#agentic systems`, `#software engineering`
+**Tags**: `#data leakage`, `#AI research`, `#reproducibility`, `#machine learning`, `#research methodology`
 
 ---
 
 <a id="item-36"></a>
-## [NVIDIA Releases 32B Open Reasoning Model for Robotaxis](https://www.reddit.com/r/artificial/comments/1ttuhhd/nvidia_just_released_a_32b_open_reasoning_model/) ⭐️ 7.0/10
+## [Courts Swamped by AI-Generated Pro Se Lawsuits](https://www.reddit.com/r/artificial/comments/1tud2w8/courts_are_swamped_with_aipowered_doityourself/) ⭐️ 7.0/10
 
-NVIDIA has released Alpamayo 2 Super, a 32-billion-parameter open-source vision-language-action (VLA) model for Level 4 robotaxi development. The model reasons, plans, and acts across the full driving stack using meta-actions like yield and lane change, and is trained with simulation-based reinforcement learning. This signals a shift from traditional trajectory prediction towards foundation-model-style reasoning in autonomous driving. An open model of this scale could lower barriers for smaller teams and shift competition toward data, safety validation, and closed-loop testing. Alpamayo 2 Super uses a teacher-student distillation pipeline, 360-degree surround perception, reasoning-based auto-labeling of driving clips, and the AlpaGym reinforcement learning framework integrated with OmniDreams for generating rare driving scenarios. Model weights are expected to be released in summer.
+Courts are experiencing a surge in do-it-yourself lawsuits created with the help of AI tools, overwhelming legal systems and raising concerns about case quality and judicial efficiency. This trend challenges the integrity of the legal system, as AI-generated filings may contain errors or frivolous claims, burdening courts and potentially denying justice to legitimate cases. AI tools like large language models enable individuals with no legal expertise to draft and file lawsuits, leading to an influx of often poorly constructed legal documents that judges and clerks must process.
 
-reddit · r/artificial · /u/alexshev_pm · Jun 1, 14:47
+reddit · r/artificial · /u/ThereWas · Jun 2, 02:00
 
-**Background**: Level 4 autonomy means the vehicle can handle all driving tasks under certain conditions without human intervention. Vision-language-action (VLA) models combine camera inputs with language instructions to generate driving actions. Robotaxi is a service using autonomous vehicles for passenger transport. Simulation-based closed-loop training allows testing and improving models in virtual environments before real-world deployment.
+**Background**: Pro se litigation refers to individuals representing themselves in court without a lawyer. AI tools, such as ChatGPT, can generate legal-sounding documents, but they may lack the precision, jurisdiction-specific knowledge, and ethical considerations required for valid legal proceedings. This poses risks of increased frivolous lawsuits and inefficiency in an already strained court system.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://nvidianews.nvidia.com/news/nvidia-alpamayo-2-super-robotaxis">NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis | NVIDIA Newsroom</a></li>
-<li><a href="https://research.nvidia.com/labs/sil/projects/omnidreams-blog/">OmniDreams — NVIDIA SIL</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#nvidia`, `#autonomous-driving`, `#open-source`, `#reasoning-model`, `#robotaxis`
+**Tags**: `#artificial intelligence`, `#legal tech`, `#societal impact`, `#ai ethics`, `#court system`
 
 ---
 
 <a id="item-37"></a>
-## [GitHub Copilot to usage-based billing June 2026; GPT-5.5 57x for legacy](https://docs-internal.github.com/en/copilot/reference/copilot-billing/request-based-billing-legacy/what-changed-with-billing) ⭐️ 7.0/10
+## [Anthropic Confidentially Files S-1 for Potential IPO](https://www.anthropic.com/news/confidential-draft-s1-sec) ⭐️ 7.0/10
 
-Starting June 1, 2026, GitHub Copilot will switch from flat-rate plans to usage-based billing measured in tokens, with monthly AI Credits provided per plan. For legacy annual plan users, a multiplier table applies where GPT-5.5 model requests are counted at 57 times the base cost. This billing overhaul impacts millions of developers using AI coding assistance, potentially raising costs for heavy GPT-5.5 usage while offering flexibility via token-level accounting. It aligns with a broader industry shift toward granular, usage-based AI service pricing. The 57x multiplier applies only to legacy users still on annual plans; new users will be on AI Credits-based plans with per-token rates. One AI Credit equals $0.01 USD, and the system tracks input, output, and cached tokens separately.
+Anthropic has confidentially filed a draft S-1 registration statement with the SEC for a potential initial public offering. The filing follows a recent $65 billion funding round that pushed its valuation to $965 billion. This marks a significant step in the AI industry’s maturation, as a leading foundation model developer moves toward the public market. An IPO could provide substantial capital and influence investor sentiment and regulatory scrutiny for the entire AI sector. The confidential nature means financials and offering size remain undisclosed; the IPO is contingent on market conditions. The company recently raised $65B at a $965B valuation and released the Claude Opus 4.8 model.
 
-telegram · zaihuapd · Jun 1, 04:12
+telegram · zaihuapd · Jun 1, 16:46
 
-**Background**: GitHub Copilot is an AI coding assistant integrated into IDEs. GPT-5.5 is a large language model released by OpenAI in April 2026, known for high coding benchmarks. GitHub AI Credits were introduced as a usage-based billing unit, where 1 credit = $0.01, consumed per token of model usage.
+**Background**: An S-1 form is the registration statement a U.S. company files with the SEC to go public. Filing confidentially allows a company to work with regulators privately before public disclosure. Anthropic is an AI safety-focused company founded in 2021, creator of the Claude family of large language models, and a competitor to OpenAI and Google.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing">Models and pricing for GitHub Copilot</a></li>
-<li><a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/">GitHub Copilot is moving to usage-based billing</a></li>
+<li><a href="https://finance.yahoo.com/markets/stocks/articles/anthropic-files-confidential-1-joins-161008569.html">Anthropic Files Confidential S-1: Joins $3 Trillion AI IPO Race</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/631501964">解读美国上市丨什么是 S-1 IPO 备案？ - 知乎</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#GitHub Copilot`, `#billing`, `#GPT-5.5`, `#AI`, `#developer tools`
+**Tags**: `#AI`, `#IPO`, `#Anthropic`, `#SEC`, `#finance`
 
 ---
 
 <a id="item-38"></a>
-## [NVIDIA DLSS 4.5 Ray Reconstruction for All RTX GPUs in August](https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series) ⭐️ 7.0/10
+## [Tencent Secretly Developing AI Agent for WeChat to Connect Mini-Programs](https://t.me/zaihuapd/41705) ⭐️ 7.0/10
 
-NVIDIA announced DLSS 4.5 Ray Reconstruction, powered by a second-generation Transformer model, delivering improved lighting accuracy, temporal stability, and motion clarity for ray-traced content. The update delivers a 35% compute boost and will launch in August for all GeForce RTX 20-series and newer GPUs, starting with 27 games. This update democratizes advanced ray tracing denoising across the entire RTX ecosystem, improving visual quality in games without requiring the latest hardware. It also extends the useful life of older RTX cards and signals NVIDIA's continued commitment to AI-driven rendering enhancements. The second-gen Transformer model increases compute capacity by 35% and parameter processing by 20% while maintaining similar performance to the previous version. DLSS 4.5 Ray Reconstruction will also be integrated into Blender Cycles 5.3 for real-time viewport denoising later this fall.
+According to foreign media reports on March 10, citing four informed sources, Tencent is secretly developing a new AI agent for WeChat. The agent aims to connect to millions of mini-programs within WeChat, potentially handling tasks for its 1.4 billion monthly active users. This move could position Tencent ahead of competitors like Alibaba and ByteDance in China's AI market by integrating AI deeply into WeChat's super-app ecosystem, transforming how users access services. The project is unconfirmed, and details about the AI architecture are unknown; it supposedly leverages WeChat's mini-program infrastructure. Tencent has not yet responded to requests for comment.
 
-telegram · zaihuapd · Jun 1, 07:51
+telegram · zaihuapd · Jun 2, 05:03
 
-**Background**: DLSS (Deep Learning Super Sampling) is NVIDIA's AI-powered technology that upscales images and enhances quality. Ray Reconstruction, introduced in DLSS 3.5, uses a neural network to replace traditional denoisers for ray tracing, producing cleaner and more stable lighting. The Transformer model, adopted in DLSS 4 for Super Resolution, is an advanced architecture that improves image quality over convolutional neural networks (CNNs).
+**Background**: WeChat is a dominant messaging and lifestyle platform in China, integrating social media, payments, and mini-programs—lightweight apps that run within WeChat. An AI agent could use natural language to interact with these mini-programs, automating tasks like ordering taxis or groceries.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://blogs.nvidia.com/blog/ai-decoded-ray-reconstruction/">Decoding AI-Powered DLSS 3.5 Ray Reconstruction | NVIDIA Blog</a></li>
-<li><a href="https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-gen-6x-2nd-gen-transformer-super-res/">NVIDIA DLSS 4.5 Delivers Major Upgrade With 2nd Gen ...</a></li>
-<li><a href="https://www.techpowerup.com/review/nvidia-dlss-4-transformers-image-quality/">NVIDIA DLSS 4 Transformer Review - Better Image Quality for ... NVIDIA DLSS 4.5 Delivers Major Upgrade With 2nd Gen ... Most gamers aren't actually using DLSS 4.5's new transformer ... Nvidia Announces DLSS 4.5 - New Transformer Model Already ... Top Stories DLSS 4.5 Ray Reconstruction promises better ray ... - Neowin What is Nvidia's DLSS 4 "Transformer Model" and why should ... DLSS 4.5 Ray Reconstruction | Updated with 2nd Gen Transformer</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA`, `#DLSS`, `#Ray Tracing`, `#Graphics`, `#Gaming`
-
----
-
-<a id="item-39"></a>
-## [Banks Stop Reporting Housing Loan Concentration Data](https://36kr.com/newsflashes/3834445075195528) ⭐️ 7.0/10
-
-Starting this year, multiple national banks in China have stopped submitting housing loan concentration data after authorities verbally relaxed the 'five-tier two-line' management rules, which previously capped property loans as a share of total lending. This relaxation could boost bank lending to the real estate sector, potentially stabilizing the housing market, but it also raises concerns about re-accumulating systemic financial risks. The 'five-tier two-line' system imposed percentage caps on real estate loans for banks of different sizes. The relaxation was communicated verbally without formal documentation, and no new targets have been set.
-
-telegram · zaihuapd · Jun 1, 10:23
-
-**Background**: Introduced in 2021, China's 'five-tier two-line' concentration management system categorized banks into five tiers by asset size and set caps on the proportion of real estate loans and individual mortgages relative to total loans, aiming to curb property market overheating and financial risks. The recent relaxation reflects a policy shift in response to a prolonged real estate downturn.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://news.qq.com/rain/a/20260601A07PY100">房地产贷款集中度管理再松绑，多家全国性银行：今年以来不再报送数据</a></li>
-<li><a href="https://baike.baidu.com/item/房地产贷款集中度管理制度/55743874">房地产贷款集中度管理制度_百度百科</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#real estate regulation`, `#Chinese banking`, `#housing loan policy`, `#financial regulation`, `#economic policy`
-
----
-
-<a id="item-40"></a>
-## [California Assembly Passes Bill to Keep Online Games Playable After Shutdown](https://www.eurogamer.net/stop-killing-games-passes-floor-vote-california) ⭐️ 7.0/10
-
-The California State Assembly passed AB 1921, which mandates that video game publishers provide offline play options, community server support, or refunds when discontinuing online games, with a 60-day advance notice. The law is set to take effect in 2027. This legislation marks a significant advancement in consumer rights and game preservation, ensuring that players can continue to access games they purchased even after official support ends, and may inspire similar laws elsewhere. Passed with a 43-16 vote, AB 1921 requires a 60-day notice before server shutdown and offers alternatives like offline modes or community server support; otherwise, full refunds are required. The ESA opposes it, and the bill now moves to the California Senate.
-
-telegram · zaihuapd · Jun 1, 12:01
-
-**Background**: The 'Stop Killing Games' movement began after Ubisoft shut down servers for 'The Crew,' leaving the game unplayable. Many modern online games require server connectivity, making them inaccessible once support ends, raising concerns about digital ownership and preservation. AB 1921 seeks to protect consumer access to such games.
-
-**Tags**: `#game preservation`, `#legislation`, `#consumer rights`, `#online games`, `#AB 1921`
+**Tags**: `#AI agent`, `#WeChat`, `#Tencent`, `#mini-programs`, `#Chinese tech`
 
 ---
